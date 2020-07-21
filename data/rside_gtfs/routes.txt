@@ -1,0 +1,42 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,1,1,W. Corona-UC Riverside,,3,,ffffff,000000
+10,1,10,Riverside/Watkins-Galleria,,3,,ffffff,000000
+11,1,11,Moreno Valley-March ARB,,3,,ffffff,000000
+12,1,12,Corona Hills Plaza/Riverside/La Cadena-Merced,,3,,ffffff,000000
+13,1,13,Hunter Park Metro-Galleria,,3,,ffffff,000000
+14,1,14,Galleria-Loma Linda VA,,3,,ffffff,000000
+15,1,15,Riverside/Downtown-Merced,,3,,ffffff,000000
+16,1,16,UCR-Moreno Valley,,3,,ffffff,000000
+18,1,18,Mo Val College-Sunnymead,,3,,ffffff,000000
+19,1,19,Mo Val Mall-Perris Station,,3,,ffffff,000000
+20,1,20,Mo Val College-Riverside,,3,,ffffff,000000
+200,1,200,San Bernardino - Riverside - Anaheim Express,,3,,ffffff,000000
+204,1,204,Riverside-Montclair Express,,3,,ffffff,000000
+205,1,205,Temecula-Corona-Village at Orange,,3,,ffffff,000000
+206,1,206,Temecula-Corona Express,,3,,ffffff,000000
+208,1,208,Temecula-Riverside Express,,3,,ffffff,000000
+21,1,21,Galleria-Country Village,,3,,ffffff,000000
+22,1,22,Riverside - Perris,,3,,ffffff,000000
+23,1,23,Temecula - Murrieta - Wildomar,,3,,ffffff,000000
+24,1,24,Promenade Mall - Temecula Valley Hospital,,3,,ffffff,000000
+27,1,27,Galleria-Perris,,3,,ffffff,000000
+28,1,28,Lincoln & Florida to Perris STC,,3,,ffffff,000000
+29,1,29,Riverside-Eastvale,,3,,ffffff,000000
+3,1,3,Corona-Norco-Eastvale,,3,,ffffff,000000
+30,1,30,Weston & Carter-Perris Station- May Ranch,,3,,ffffff,000000
+31,1,31,Hemet - Beaumont - Moreno Valley,,3,,ffffff,000000
+32,1,32,Hemet Valley Mall - Mount San Jacinto College,,3,,ffffff,000000
+33,1,33,Hemet Valley Mall - Sanderson- East Hemet,,3,,ffffff,000000
+40,1,40,Lake Elsinore - Sun City/Menifee,,3,,ffffff,000000
+41,1,41,Mead Valley- Moreno Valley/RUMC,,3,,ffffff,000000
+42,1,42,Hemet Valley Mall - San Jacinto - Soboba Casino,,3,,ffffff,000000
+49,1,49,Riverside-Country Village,,3,,ffffff,000000
+55555,1,55555,Perris Yard Test,,3,,ffffff,000000
+61,1,61,Perris-Menifee-Murrieta-Temecula,,3,,ffffff,000000
+74,1,74,San Jacinto-Hemet-Sun City-Perris,,3,,ffffff,000000
+77777,1,77777,Training Manual Logon,,3,,000000,ffffff
+79,1,79,San Jacinto-Hemet-Winchester-Temecula,,3,,ffffff,000000
+8,1,8,Lake Elsinore Wildomar Loop Routes,,3,,ffffff,000000
+88888,1,88888,Exchange/Special,,3,,000000,ffffff
+9,1,9,Perris-Lake Elsinore,,3,,ffffff,000000
+9999,1,9999,TEST ROUTE,,3,,FFFFFF,000000

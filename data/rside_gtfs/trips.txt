@@ -1,0 +1,1874 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed,block_name
+534541020,1,1,"West to West Corona Metrolink",,0,84703402,shp-1-5h,0,0,00134
+534544020,1,1,"West to Corona 6th & Smith",,0,84703302,shp-1-5g,2,2,00121
+534546020,1,1,"West to Corona 6th & Smith",,0,84703902,shp-1-5j,0,0,00131
+534550020,1,1,"West to Corona 6th & Smith",,0,84704202,shp-1-5g,2,2,00125
+534551020,1,1,"West to Corona 6th & Smith",,0,84702802,shp-1-5g,2,2,00114
+534553020,1,1,"West to Corona 6th & Smith",,0,84705302,shp-1-5j,0,0,00129
+534555020,1,1,"West to Corona 6th & Smith",,0,84703902,shp-1-5g,2,2,00131
+534558020,1,1,"West to Corona 6th & Smith",,0,84704202,shp-1-5g,2,2,00125
+534560020,1,1,"West to Corona 6th & Smith",,0,84698602,shp-1-5i,2,2,00104
+534562020,1,1,"West to Corona 6th & Smith",,0,84703302,shp-1-62,0,0,00121
+534564020,1,1,"West to Corona 6th & Smith",,0,84705102,shp-1-5g,2,2,00123
+534565020,1,1,"West to West Corona Metrolink",,0,84704902,shp-1-5e,0,0,00108
+534567020,1,1,"West to Corona 6th & Smith",,0,84693702,shp-1-5g,2,2,00103
+534568020,1,1,"West to West Corona Metrolink",,0,84703002,shp-1-5h,0,0,00128
+534570020,1,1,"West to Corona 6th & Smith",,0,84692602,shp-1-5g,2,2,00101
+534572020,1,1,"West to Corona 6th & Smith",,0,84706602,shp-1-5g,2,2,00118
+534574020,1,1,"West to Corona 6th & Smith",,0,84702702,shp-1-5g,2,2,00113
+534576020,1,1,"West to West Corona Metrolink",,0,84703002,shp-1-5e,0,0,00128
+534577020,1,1,"West to West Corona Metrolink",,0,84699102,shp-1-5h,0,0,00106
+534579020,1,1,"West to Corona 6th & Smith",,0,84706602,shp-1-5j,0,0,00118
+534582020,1,1,"West to Corona 6th & Smith",,0,84693002,shp-1-5g,2,2,00102
+534586020,1,1,"West to Corona 6th & Smith",,0,84704302,shp-1-5g,2,2,00117
+534587020,1,1,"West to Corona 6th & Smith",,0,84693902,shp-1-5i,2,2,00105
+534589020,1,1,"West to Corona 6th & Smith",,0,84704502,shp-1-5g,2,2,00119
+534591020,1,1,"West to Corona 6th & Smith",,0,84704702,shp-1-5j,0,0,00132
+534592020,1,1,"West to West Corona Metrolink",,0,84693702,shp-1-5l,0,0,00103
+534593020,1,1,"West to West Corona Metrolink",,0,84702602,shp-1-5h,0,0,00107
+534595020,1,1,"West to Corona 6th & Smith",,0,84707602,shp-1-5j,0,0,01804
+534599020,1,1,"West to Corona 6th & Smith",,0,84693002,shp-1-5n,2,2,00102
+534600020,1,1,"West to Corona 6th & Smith",,0,84703602,shp-1-62,0,0,00124
+534625020,1,1,"West to Corona 6th & Smith",,0,84698302,shp-1-5g,2,2,00111
+534626020,1,1,"West to Corona 6th & Smith",,0,84699102,shp-1-5g,2,2,00106
+534627020,1,1,"West to Corona 6th & Smith",,0,84702602,shp-1-5g,2,2,00107
+534628020,1,1,"West to Corona 6th & Smith",,0,84705002,shp-1-5g,2,2,00116
+534629020,1,1,"West to Corona 6th & Smith",,0,84693902,shp-1-5g,2,2,00105
+534630020,1,1,"West to Corona 6th & Smith",,0,84703702,shp-1-5g,2,2,00120
+534631020,1,1,"West to Corona 6th & Smith",,0,84703602,shp-1-5g,2,2,00124
+534632020,1,1,"West to Corona 6th & Smith",,0,84707402,shp-1-5g,2,2,00122
+534633020,1,1,"West to Corona 6th & Smith",,0,84704802,shp-1-5g,2,2,00126
+534634020,1,1,"West to Corona 6th & Smith",,0,84703502,shp-1-5g,2,2,00127
+534635020,1,1,"West to Corona 6th & Smith",,0,84704402,shp-1-63,0,0,00130
+534636020,1,1,"West to West Corona Metrolink",,0,84699002,shp-1-5e,0,0,00112
+534637020,1,1,"West to West Corona Metrolink",,0,84705402,shp-1-5e,0,0,00133
+534638020,1,1,"West to Corona 6th & Smith",,0,84703602,shp-1-5g,2,2,00124
+534542020,1,1,"East to UCR",,1,84703302,shp-1-05,2,2,00121
+534543020,1,1,"East to UCR",,1,84703602,shp-1-05,2,2,00124
+534545020,1,1,"East to UCR",,1,84698602,shp-1-05,2,2,00104
+534547020,1,1,"East to UCR",,1,84699002,shp-1-01,0,0,00112
+534548020,1,1,"East to UCR",,1,84704202,shp-1-02,2,2,00125
+534549020,1,1,"East to UCR",,1,84693702,shp-1-05,2,2,00103
+534552020,1,1,"East to UCR",,1,84702602,shp-1-05,2,2,00107
+534554020,1,1,"East to UCR",,1,84693902,shp-1-05,2,2,00105
+534556020,1,1,"East to UCR",,1,84704202,shp-1-02,2,2,00125
+534557020,1,1,"East to UCR",,1,84703902,shp-1-05,2,2,00131
+534559020,1,1,"East to UCR",,1,84693902,shp-1-06,0,0,00105
+534561020,1,1,"East to UCR",,1,84705102,shp-1-05,2,2,00123
+534563020,1,1,"East to UCR",,1,84696602,shp-1-10,0,0,00109
+534566020,1,1,"East to UCR",,1,84703002,shp-1-04,0,0,00128
+534569020,1,1,"East to UCR",,1,84693702,shp-1-01,0,0,00103
+534571020,1,1,"East to UCR",,1,84692602,shp-1-05,2,2,00101
+534573020,1,1,"East to UCR",,1,84699102,shp-1-04,0,0,00106
+534575020,1,1,"East to UCR",,1,84702702,shp-1-05,2,2,00113
+534578020,1,1,"East to UCR",,1,84696602,shp-1-06,0,0,00109
+534580020,1,1,"East to UCR",,1,84703002,shp-1-04,0,0,00128
+534581020,1,1,"East to UCR",,1,84693002,shp-1-02,2,2,00102
+534583020,1,1,"East to UCR",,1,84706602,shp-1-05,2,2,00118
+534584020,1,1,"East to UCR",,1,84705402,shp-1-04,0,0,00133
+534585020,1,1,"East to UCR",,1,84704902,shp-1-04,0,0,00108
+534588020,1,1,"East to UCR",,1,84693902,shp-1-05,2,2,00105
+534590020,1,1,"East to UCR",,1,84704502,shp-1-05,2,2,00119
+534594020,1,1,"East to UCR",,1,84702602,shp-1-04,0,0,00107
+534596020,1,1,"East to UCR",,1,84692502,shp-1-06,0,0,02001
+534597020,1,1,"East to UCR",,1,84703402,shp-1-04,0,0,00134
+534598020,1,1,"East to UCR via DT Metrolink",,1,84693102,shp-1-03,0,0,01401
+534610020,1,1,"East to UCR",,1,84697302,shp-1-06,0,0,00110
+534611020,1,1,"East to UCR",,1,84695802,shp-1-10,0,0,02102
+534612020,1,1,"East to UCR",,1,84693002,shp-1-05,2,2,00102
+534613020,1,1,"East to UCR",,1,84698402,shp-1-10,0,0,00115
+534614020,1,1,"East to UCR",,1,84698302,shp-1-05,2,2,00111
+534615020,1,1,"East to UCR",,1,84699102,shp-1-05,2,2,00106
+534616020,1,1,"East to UCR",,1,84702802,shp-1-05,2,2,00114
+534617020,1,1,"East to UCR",,1,84705002,shp-1-05,2,2,00116
+534618020,1,1,"East to UCR",,1,84704302,shp-1-05,2,2,00117
+534619020,1,1,"East to UCR",,1,84703702,shp-1-05,2,2,00120
+534620020,1,1,"East to UCR",,1,84707402,shp-1-05,2,2,00122
+534621020,1,1,"East to UCR",,1,84703602,shp-1-02,2,2,00124
+534622020,1,1,"East to UCR",,1,84704802,shp-1-05,2,2,00126
+534623020,1,1,"East to UCR",,1,84703502,shp-1-05,2,2,00127
+534415020,10,1,"West to Galleria at Tyler Mall",,0,84693802,shp-10-51,0,0,01001
+534417020,10,1,"West to Galleria at Tyler Mall",,0,84693802,shp-10-51,0,0,01001
+534419020,10,1,"West to Galleria at Tyler Mall",,0,84707102,shp-10-51,0,0,01004
+534421020,10,1,"West to Galleria at Tyler Mall",,0,84707102,shp-10-51,0,0,01004
+534422020,10,1,"West to Galleria at Tyler Mall",,0,84696502,shp-10-51,0,0,01002
+534424020,10,1,"West to Galleria at Tyler Mall",,0,84696502,shp-10-51,0,0,01002
+534426020,10,1,"West to Galleria at Tyler Mall",,0,84705502,shp-10-51,0,0,01003
+534428020,10,1,"West to Galleria at Tyler Mall",,0,84705502,shp-10-51,0,0,01003
+534414020,10,1,"East to Big Springs & Watkins",,1,84693802,shp-10-02,0,0,01001
+534416020,10,1,"East to Big Springs & Watkins",,1,84693802,shp-10-02,0,0,01001
+534418020,10,1,"East to Big Springs & Watkins",,1,84707102,shp-10-02,0,0,01004
+534420020,10,1,"East to Big Springs & Watkins",,1,84707102,shp-10-02,0,0,01004
+534423020,10,1,"East to Big Springs & Watkins",,1,84696502,shp-10-02,0,0,01002
+534425020,10,1,"East to Big Springs & Watkins",,1,84705502,shp-10-02,0,0,01003
+534427020,10,1,"East to Big Springs & Watkins",,1,84705502,shp-10-02,0,0,01003
+534429020,10,1,"East to Big Springs & Watkins",,1,84705502,shp-10-02,0,0,01003
+534319020,11,1," Counterclock to Moreno Valley Mall",,0,84697502,shp-11-01,0,0,01102
+534320020,11,1," Counterclock to Moreno Valley Mall",,0,84697502,shp-11-01,0,0,01102
+534321020,11,1," Counterclock to Moreno Valley Mall",,0,84705702,shp-11-01,0,0,01104
+534322020,11,1," Counterclock to Moreno Valley Mall",,0,84705702,shp-11-01,0,0,01104
+534323020,11,1," Counterclock to Moreno Valley Mall",,0,84705702,shp-11-01,0,0,01104
+534324020,11,1," Counterclock to Moreno Valley Mall",,0,84705702,shp-11-01,0,0,01104
+534325020,11,1," Counterclock to Moreno Valley Mall",,0,84705702,shp-11-01,0,0,01104
+534326020,11,1," Counterclock to Moreno Valley Mall",,0,84705702,shp-11-01,0,0,01104
+534327020,11,1," Counterclock to Moreno Valley Mall",,0,84705702,shp-11-01,0,0,01104
+534328020,11,1," Clockwise to Moreno Valley Mall",,1,84697102,shp-11-51,0,0,01101
+534329020,11,1," Clockwise to Moreno Valley Mall",,1,84697102,shp-11-51,0,0,01101
+534330020,11,1," Clockwise to Moreno Valley Mall",,1,84705602,shp-11-51,0,0,01103
+534331020,11,1," Clockwise to Moreno Valley Mall",,1,84705602,shp-11-51,0,0,01103
+534332020,11,1," Clockwise to Moreno Valley Mall",,1,84705602,shp-11-51,0,0,01103
+534333020,11,1," Clockwise to Moreno Valley Mall",,1,84705602,shp-11-51,0,0,01103
+534334020,11,1," Clockwise to Moreno Valley Mall",,1,84705602,shp-11-51,0,0,01103
+534335020,11,1," Clockwise to Moreno Valley Mall",,1,84705602,shp-11-51,0,0,01103
+534336020,11,1," Clockwise to Moreno Valley Mall",,1,84705602,shp-11-51,0,0,01103
+534254020,12,1,"West to Corona Hills Plaza",,0,84706102,shp-12-56,0,0,01206
+534255020,12,1,"West to Corona Hills Plaza",,0,84705902,shp-12-56,0,0,01207
+534258020,12,1,"West to Corona Hills Plaza",,0,84705902,shp-12-56,0,0,01207
+534259020,12,1,"West to Corona Hills Plaza",,0,84706102,shp-12-56,0,0,01206
+534262020,12,1,"West to Corona Hills Plaza",,0,84694602,shp-12-56,0,0,01202
+534264020,12,1,"West to Corona Hills Plaza",,0,84706002,shp-12-56,0,0,01205
+534265020,12,1,"West to Corona Hills Plaza",,0,84694602,shp-12-56,0,0,01202
+534267020,12,1,"West to Corona Hills Plaza",,0,84705802,shp-12-56,0,0,01204
+534268020,12,1,"West to Corona Hills Plaza",,0,84694802,shp-12-56,0,0,01203
+534270020,12,1,"West to Corona Hills Plaza",,0,84693402,shp-12-56,0,0,01201
+534272020,12,1,"West to Corona Hills Plaza",,0,84705802,shp-12-56,0,0,01204
+534273020,12,1,"West to Corona Hills Plaza",,0,84705802,shp-12-56,0,0,01204
+534279020,12,1,"West to Corona Hills Plaza",,0,84694602,shp-12-57,0,0,01202
+534253020,12,1,"East to La Cadena & Stephens",,1,84705802,shp-12-10,0,0,01204
+534256020,12,1,"East to La Cadena & Stephens",,1,84706102,shp-12-11,0,0,01206
+534257020,12,1,"East to La Cadena & Stephens",,1,84705802,shp-12-11,0,0,01204
+534260020,12,1,"East to La Cadena & Stephens",,1,84694602,shp-12-11,0,0,01202
+534261020,12,1,"East to La Cadena & Stephens",,1,84706002,shp-12-11,0,0,01205
+534263020,12,1,"East to La Cadena & Stephens",,1,84694602,shp-12-11,0,0,01202
+534266020,12,1,"East to La Cadena & Stephens",,1,84694802,shp-12-11,0,0,01203
+534269020,12,1,"East to La Cadena & Stephens",,1,84694802,shp-12-11,0,0,01203
+534271020,12,1,"East to La Cadena & Stephens",,1,84705902,shp-12-11,0,0,01207
+534274020,12,1,"East to La Cadena & Stephens",,1,84705802,shp-12-11,0,0,01204
+534275020,12,1,"East to La Cadena & Stephens",,1,84693402,shp-12-11,0,0,01201
+534276020,12,1,"East to La Cadena & Stephens",,1,84694602,shp-12-11,0,0,01202
+534277020,12,1,"East to La Cadena & Stephens",,1,84693402,shp-12-11,0,0,01201
+534340020,13,1,"West to Galleria at Tyler",,0,84694902,shp-13-58,0,0,01302
+534341020,13,1,"West to Galleria at Tyler",,0,84693602,shp-13-58,0,0,01301
+534342020,13,1,"West to Galleria at Tyler Mall",,0,84692402,shp-13-57,0,0,02701
+534343020,13,1,"West to Galleria at Tyler Mall",,0,84698002,shp-13-57,0,0,01303
+534344020,13,1,"West to Galleria at Tyler Mall",,0,84704002,shp-13-57,0,0,01304
+534345020,13,1,"West to Galleria at Tyler Mall",,0,84706602,shp-13-57,0,0,00118
+534346020,13,1,"West to Galleria at Tyler Mall",,0,84693602,shp-13-57,0,0,01301
+534347020,13,1,"West to Galleria at Tyler Mall",,0,84706302,shp-13-57,0,0,01306
+534348020,13,1,"West to Galleria at Tyler Mall",,0,84709802,shp-13-57,0,0,02703
+534349020,13,1,"West to Galleria at Tyler Mall",,0,84703802,shp-13-57,0,0,02705
+534350020,13,1,"West to Galleria at Tyler Mall",,0,84706702,shp-13-57,0,0,02704
+534351020,13,1,"East to Hunter Park",,1,84693602,shp-13-10,0,0,01301
+534352020,13,1,"East to Hunter Park",,1,84692402,shp-13-10,0,0,02701
+534353020,13,1,"East to Hunter Park",,1,84692602,shp-13-10,0,0,00101
+534354020,13,1,"East to Hunter Park",,1,84695602,shp-13-10,0,0,02702
+534355020,13,1,"East to Hunter Park",,1,84694902,shp-13-10,0,0,01302
+534356020,13,1,"East to Hunter Park",,1,84693602,shp-13-10,0,0,01301
+534357020,13,1,"East to Hunter Park",,1,84706202,shp-13-10,0,0,01305
+534358020,13,1,"East to Downtown Riverside",,1,84709802,shp-13-02,0,0,02703
+534359020,13,1,"East to Downtown Riverside",,1,84703802,shp-13-02,0,0,02705
+534360020,13,1,"East to Downtown Riverside",,1,84706702,shp-13-02,0,0,02704
+534361020,13,1,"East to Downtown Riverside",,1,84706502,shp-13-02,0,0,02706
+534362020,13,1,"East to Downtown Riverside",,1,84706302,shp-13-11,0,0,01306
+534299020,14,1,"West to Galleria at Tyler",,0,84693102,shp-14-55,0,0,01401
+534307020,14,1,"West to Galleria at Tyler",,0,84696702,shp-14-56,0,0,01402
+534308020,14,1,"West to Galleria at Tyler",,0,84696802,shp-14-55,0,0,01403
+534309020,14,1,"West to Galleria at Tyler",,0,84706402,shp-14-55,0,0,01404
+534310020,14,1,"West to Galleria at Tyler",,0,84693102,shp-14-55,0,0,01401
+534311020,14,1,"West to Galleria at Tyler",,0,84706902,shp-14-55,0,0,01405
+534312020,14,1,"West to Galleria at Tyler",,0,84706402,shp-14-55,0,0,01404
+534313020,14,1,"West to Galleria at Tyler",,0,84706802,shp-14-55,0,0,01406
+534314020,14,1,"West to Galleria at Tyler",,0,84706902,shp-14-55,0,0,01405
+534315020,14,1,"West to Galleria at Tyler",,0,84706402,shp-14-55,0,0,01404
+534298020,14,1,"East to Loma Linda",,1,84696802,shp-14-05,0,0,01403
+534300020,14,1,"East to Loma Linda",,1,84693102,shp-14-03,0,0,01401
+534301020,14,1,"East to Loma Linda",,1,84693102,shp-14-05,0,0,01401
+534302020,14,1,"East to Loma Linda",,1,84706402,shp-14-05,0,0,01404
+534303020,14,1,"East to Loma Linda",,1,84693102,shp-14-05,0,0,01401
+534304020,14,1,"East to Loma Linda",,1,84706902,shp-14-05,0,0,01405
+534305020,14,1,"East to Loma Linda",,1,84706402,shp-14-05,0,0,01404
+534306020,14,1,"East to Loma Linda",,1,84706802,shp-14-05,0,0,01406
+534316020,14,1,"East to Downtown Riverside",,1,84706902,shp-14-01,0,0,01405
+534317020,14,1,"East to Loma Linda",,1,84696802,shp-14-03,0,0,01403
+534318020,14,1,"East to Loma Linda",,1,84696702,shp-14-05,0,0,01402
+534645020,15,1,"West to Merced & Magnolia",,0,84707302,shp-15-55,0,0,01505
+534646020,15,1,"West to Merced & Magnolia",,0,84703202,shp-15-55,0,0,01509
+534650020,15,1,"West to Merced & Magnolia",,0,84705502,shp-15-55,0,0,01003
+534651020,15,1,"West to Merced & Magnolia",,0,84707302,shp-15-55,0,0,01505
+534652020,15,1,"West to Merced & Magnolia",,0,84707202,shp-15-55,0,0,01508
+534653020,15,1,"West to Merced & Magnolia",,0,84703202,shp-15-55,0,0,01509
+534654020,15,1,"West to Merced & Magnolia",,0,84707302,shp-15-55,0,0,01505
+534665020,15,1,"West to Merced & Magnolia",,0,84695002,shp-15-55,0,0,01501
+534666020,15,1,"West to Merced & Magnolia",,0,84696402,shp-15-56,0,0,01504
+534667020,15,1,"West to Merced & Magnolia",,0,84695202,shp-15-55,0,0,01502
+534668020,15,1,"West to Merced & Magnolia",,0,84695002,shp-15-55,0,0,01501
+534669020,15,1,"West to Merced & Magnolia",,0,84707502,shp-15-55,0,0,01506
+534670020,15,1,"West to Merced & Magnolia",,0,84707102,shp-15-55,0,0,01004
+534671020,15,1,"West to Merced & Magnolia",,0,84703202,shp-15-55,0,0,01509
+534672020,15,1,"West to Merced & Magnolia",,0,84707502,shp-15-55,0,0,01506
+534674020,15,1,"West to Merced & Magnolia",,0,84696202,shp-15-55,0,0,01503
+534677020,15,1,"West to Merced & Magnolia",,0,84707502,shp-15-55,0,0,01506
+534678020,15,1,"West to Merced & Magnolia",,0,84693802,shp-15-56,0,0,01001
+534682020,15,1,"West to Merced & Magnolia",,0,84707202,shp-15-55,0,0,01508
+534647020,15,1,"East to Downtown Riverside",,1,84707302,shp-15-01,0,0,01505
+534648020,15,1,"East to Downtown Riverside",,1,84707302,shp-15-01,0,0,01505
+534649020,15,1,"East to Downtown Riverside",,1,84703202,shp-15-03,0,0,01509
+534655020,15,1,"East to Downtown Riverside",,1,84696202,shp-15-01,0,0,01503
+534656020,15,1,"East to Downtown Riverside",,1,84695002,shp-15-01,0,0,01501
+534657020,15,1,"East to Downtown Riverside",,1,84695202,shp-15-01,0,0,01502
+534658020,15,1,"East to Downtown Riverside",,1,84696202,shp-15-01,0,0,01503
+534659020,15,1,"East to Downtown Riverside",,1,84695202,shp-15-01,0,0,01502
+534660020,15,1,"East to Downtown Riverside",,1,84707502,shp-15-01,0,0,01506
+534661020,15,1,"East to Downtown Riverside",,1,84703202,shp-15-01,0,0,01509
+534662020,15,1,"East to Downtown Riverside",,1,84707302,shp-15-03,0,0,01505
+534663020,15,1,"East to Downtown Riverside",,1,84707502,shp-15-03,0,0,01506
+534664020,15,1,"East to Downtown Riverside",,1,84703102,shp-15-01,0,0,01507
+534673020,15,1,"East to Downtown Riverside",,1,84707202,shp-15-01,0,0,01508
+534675020,15,1,"East to Downtown Riverside",,1,84696402,shp-15-01,0,0,01504
+534676020,15,1,"East to Downtown Riverside",,1,84707202,shp-15-01,0,0,01508
+534679020,15,1,"East to Downtown Riverside",,1,84707202,shp-15-01,0,0,01508
+534681020,15,1,"East to Downtown Riverside",,1,84707502,shp-15-01,0,0,01506
+534170020,16,1,"West to UC Riverside",,0,84692802,shp-16-56,0,0,01903
+534171020,16,1,"West to UC Riverside",,0,84698602,shp-16-56,0,0,00104
+534172020,16,1,"West to UC Riverside",,0,84692102,shp-16-56,0,0,01901
+534173020,16,1,"West to UC Riverside",,0,84694102,shp-16-56,0,0,01904
+534174020,16,1,"West to UC Riverside",,0,84695102,shp-16-56,0,0,01905
+534175020,16,1,"West to UC Riverside",,0,84692302,shp-16-56,0,0,01902
+534176020,16,1,"West to UC Riverside",,0,84695902,shp-16-56,0,0,01906
+534177020,16,1,"West to UC Riverside",,0,84697202,shp-16-56,0,0,01908
+534178020,16,1,"West to UC Riverside",,0,84695302,shp-16-56,0,0,02203
+534179020,16,1,"West to UC Riverside",,0,84708902,shp-16-56,0,0,01917
+534180020,16,1,"West to UC Riverside",,0,84707802,shp-16-56,0,0,01915
+534181020,16,1,"West to UC Riverside",,0,84694102,shp-16-56,0,0,01904
+534182020,16,1,"West to UC Riverside",,0,84708302,shp-16-56,0,0,01920
+534183020,16,1,"West to UC Riverside",,0,84708402,shp-16-56,0,0,02209
+534184020,16,1,"West to UC Riverside",,0,84695902,shp-16-56,0,0,01906
+534185020,16,1,"West to UC Riverside",,0,84708702,shp-16-56,0,0,01916
+534186020,16,1,"West to UC Riverside",,0,84708102,shp-16-56,0,0,01923
+534187020,16,1,"West to UC Riverside",,0,84708902,shp-16-56,0,0,01917
+534188020,16,1,"West to UC Riverside",,0,84707802,shp-16-56,0,0,01915
+534189020,16,1,"West to UC Riverside",,0,84707902,shp-16-56,0,0,01922
+534190020,16,1,"West to UC Riverside",,0,84708302,shp-16-56,0,0,01920
+534191020,16,1,"West to UC Riverside",,0,84695402,shp-16-56,0,0,02212
+534192020,16,1,"West to UC Riverside",,0,84705002,shp-16-56,0,0,00116
+534193020,16,1,"West to UC Riverside",,0,84708702,shp-16-56,0,0,01916
+534194020,16,1,"West to UC Riverside",,0,84708102,shp-16-56,0,0,01923
+534233020,16,1,"West to UC Riverside",,0,84699002,shp-16-56,0,0,00112
+534234020,16,1,"West to UC Riverside",,0,84694002,shp-16-56,0,0,02202
+534235020,16,1,"West to UC Riverside",,0,84692802,shp-16-56,0,0,01903
+534236020,16,1,"West to UC Riverside",,0,84697902,shp-16-56,0,0,01911
+534237020,16,1,"West to UC Riverside",,0,84697402,shp-16-56,0,0,01909
+534238020,16,1,"West to UC Riverside",,0,84697802,shp-16-56,0,0,01912
+534239020,16,1,"West to UC Riverside",,0,84697702,shp-16-56,0,0,01910
+534240020,16,1,"West to UC Riverside",,0,84698202,shp-16-56,0,0,01914
+534241020,16,1,"West to UC Riverside",,0,84699002,shp-16-56,0,0,00112
+534242020,16,1,"West to UC Riverside",,0,84708502,shp-16-56,0,0,01919
+534243020,16,1,"West to UC Riverside",,0,84707002,shp-16-56,0,0,01601
+534244020,16,1,"West to UC Riverside",,0,84709202,shp-16-56,0,0,02207
+534245020,16,1,"West to UC Riverside",,0,84708802,shp-16-56,0,0,01918
+534246020,16,1,"West to UC Riverside",,0,84709302,shp-16-56,0,0,01921
+534247020,16,1,"West to UC Riverside",,0,84709002,shp-16-56,0,0,01924
+534248020,16,1,"West to UC Riverside",,0,84698202,shp-16-56,0,0,01914
+534249020,16,1,"West to UC Riverside",,0,84708802,shp-16-56,0,0,01918
+534250020,16,1,"West to UC Riverside",,0,84708002,shp-16-56,0,0,01602
+534195020,16,1,"East to Moreno Valley Mall",,1,84695902,shp-16-06,0,0,01906
+534196020,16,1,"East to Moreno Valley Mall",,1,84692802,shp-16-06,0,0,01903
+534197020,16,1,"East to Moreno Valley Mall",,1,84698702,shp-16-06,0,0,01907
+534198020,16,1,"East to Moreno Valley Mall",,1,84692102,shp-16-06,0,0,01901
+534199020,16,1,"East to Moreno Valley Mall",,1,84694102,shp-16-06,0,0,01904
+534200020,16,1,"East to Moreno Valley Mall",,1,84708202,shp-16-06,0,0,01913
+534201020,16,1,"East to Moreno Valley Mall",,1,84692302,shp-16-06,0,0,01902
+534202020,16,1,"East to Moreno Valley Mall",,1,84695902,shp-16-06,0,0,01906
+534203020,16,1,"East to Moreno Valley Mall",,1,84708702,shp-16-06,0,0,01916
+534204020,16,1,"East to Moreno Valley Mall",,1,84695302,shp-16-06,0,0,02203
+534205020,16,1,"East to Moreno Valley Mall",,1,84708902,shp-16-06,0,0,01917
+534206020,16,1,"East to Moreno Valley Mall",,1,84707802,shp-16-06,0,0,01915
+534207020,16,1,"East to Moreno Valley Mall",,1,84707902,shp-16-06,0,0,01922
+534208020,16,1,"East to Moreno Valley Mall",,1,84708302,shp-16-06,0,0,01920
+534209020,16,1,"East to Moreno Valley Mall",,1,84708402,shp-16-06,0,0,02209
+534210020,16,1,"East to Moreno Valley Mall",,1,84705002,shp-16-06,0,0,00116
+534211020,16,1,"East to Moreno Valley Mall",,1,84708702,shp-16-06,0,0,01916
+534212020,16,1,"East to Moreno Valley Mall",,1,84708102,shp-16-06,0,0,01923
+534213020,16,1,"East to Moreno Valley Mall",,1,84708902,shp-16-06,0,0,01917
+534214020,16,1,"East to Moreno Valley Mall",,1,84707802,shp-16-06,0,0,01915
+534215020,16,1,"East to Moreno Valley Mall",,1,84708302,shp-16-06,0,0,01920
+534216020,16,1,"East to Moreno Valley Mall",,1,84707902,shp-16-06,0,0,01922
+534217020,16,1,"East to Moreno Valley Mall",,1,84709102,shp-16-06,0,0,02210
+534218020,16,1,"East to Moreno Valley Mall",,1,84697702,shp-16-06,0,0,01910
+534219020,16,1,"East to Moreno Valley Mall",,1,84698202,shp-16-06,0,0,01914
+534220020,16,1,"East to Moreno Valley Mall",,1,84699002,shp-16-06,0,0,00112
+534221020,16,1,"East to Moreno Valley Mall",,1,84694002,shp-16-06,0,0,02202
+534222020,16,1,"East to Moreno Valley Mall",,1,84692802,shp-16-06,0,0,01903
+534223020,16,1,"East to Moreno Valley Mall",,1,84697902,shp-16-06,0,0,01911
+534224020,16,1,"East to Moreno Valley Mall",,1,84708802,shp-16-06,0,0,01918
+534225020,16,1,"East to Moreno Valley Mall",,1,84709302,shp-16-06,0,0,01921
+534226020,16,1,"East to Moreno Valley Mall",,1,84709002,shp-16-06,0,0,01924
+534227020,16,1,"East to Moreno Valley Mall",,1,84698202,shp-16-06,0,0,01914
+534228020,16,1,"East to Moreno Valley Mall",,1,84709502,shp-16-06,0,0,01925
+534229020,16,1,"East to Moreno Valley Mall",,1,84708502,shp-16-06,0,0,01919
+534230020,16,1,"East to Moreno Valley Mall",,1,84707002,shp-16-06,0,0,01601
+534231020,16,1,"East to Moreno Valley Mall",,1,84709202,shp-16-06,0,0,02207
+534232020,16,1,"East to Moreno Valley Mall",,1,84708802,shp-16-06,0,0,01918
+534251020,16,1,"East to Moreno Valley Mall",,1,84708102,shp-16-06,0,0,01923
+534252020,16,1,"East to Moreno Valley Mall",,1,84708002,shp-16-06,0,0,01602
+534375020,18,1,"South to Moreno Valley College",,0,84707702,shp-18-51,0,0,01803
+534376020,18,1,"South to Moreno Valley College",,0,84694502,shp-18-51,0,0,01801
+534377020,18,1,"South to Moreno Valley College",,0,84694502,shp-18-51,0,0,01801
+534378020,18,1,"South to Moreno Valley College",,0,84696302,shp-18-51,0,0,01802
+534379020,18,1,"South to Moreno Valley College",,0,84707702,shp-18-51,0,0,01803
+534380020,18,1,"South to Moreno Valley College",,0,84707602,shp-18-51,0,0,01804
+534381020,18,1,"South to Moreno Valley College",,0,84707602,shp-18-51,0,0,01804
+534382020,18,1,"South to Moreno Valley College",,0,84694502,shp-18-51,0,0,01801
+534383020,18,1,"South to Moreno Valley College",,0,84707702,shp-18-51,0,0,01803
+534384020,18,1,"South to Moreno Valley College",,0,84707702,shp-18-51,0,0,01803
+534363020,18,1,"North to Moreno Valley Mall",,1,84707702,shp-18-08,0,0,01803
+534364020,18,1,"North to Moreno Valley Mall",,1,84707702,shp-18-08,0,0,01803
+534365020,18,1,"North to Moreno Valley Mall",,1,84707702,shp-18-08,0,0,01803
+534366020,18,1,"North to Moreno Valley Mall",,1,84694502,shp-18-08,0,0,01801
+534367020,18,1,"North to Moreno Valley Mall",,1,84707702,shp-18-08,0,0,01803
+534368020,18,1,"North to Moreno Valley Mall",,1,84707602,shp-18-08,0,0,01804
+534369020,18,1,"North to Moreno Valley Mall",,1,84707602,shp-18-08,0,0,01804
+534370020,18,1,"North to Moreno Valley Mall",,1,84694502,shp-18-08,0,0,01801
+534371020,18,1,"North to Moreno Valley Mall",,1,84694502,shp-18-08,0,0,01801
+534372020,18,1,"North to Moreno Valley Mall",,1,84696302,shp-18-08,0,0,01802
+534373020,18,1,"North to Moreno Valley Mall",,1,84696302,shp-18-08,0,0,01802
+534374020,18,1,"North to Moreno Valley Mall",,1,84694502,shp-18-08,0,0,01801
+534710020,19,1,"South to Perris Station Transit Center",,0,84692102,shp-19-57,0,0,01901
+534711020,19,1,"South to Perris Station Transit Center",,0,84695102,shp-19-57,0,0,01905
+534712020,19,1,"South to Perris Station Transit Center",,0,84695902,shp-19-57,0,0,01906
+534713020,19,1,"South to Perris Station Transit Center",,0,84692802,shp-19-57,0,0,01903
+534714020,19,1,"South to Perris Station Transit Center",,0,84698702,shp-19-57,0,0,01907
+534715020,19,1,"South to Perris Station Transit Center",,0,84692102,shp-19-57,0,0,01901
+534716020,19,1,"South to Perris Station Transit Center",,0,84694102,shp-19-57,0,0,01904
+534717020,19,1,"South to Perris Station Transit Center",,0,84708202,shp-19-57,0,0,01913
+534718020,19,1,"South to Perris Station Transit Center",,0,84692302,shp-19-57,0,0,01902
+534719020,19,1,"South to Perris Station Transit Center",,0,84695902,shp-19-57,0,0,01906
+534720020,19,1,"South to Perris Station Transit Center",,0,84708702,shp-19-57,0,0,01916
+534721020,19,1,"South to Perris Station Transit Center",,0,84695302,shp-19-57,0,0,02203
+534722020,19,1,"South to Perris Station Transit Center",,0,84708902,shp-19-57,0,0,01917
+534723020,19,1,"South to Perris Station Transit Center",,0,84707802,shp-19-57,0,0,01915
+534724020,19,1,"South to Perris Station Transit Center",,0,84707902,shp-19-57,0,0,01922
+534725020,19,1,"South to Perris Station Transit Center",,0,84708302,shp-19-57,0,0,01920
+534726020,19,1,"South to Perris Station Transit Center",,0,84708402,shp-19-57,0,0,02209
+534727020,19,1,"South to Perris Station Transit Center",,0,84705002,shp-19-57,0,0,00116
+534728020,19,1,"South to Perris Station Transit Center",,0,84708702,shp-19-57,0,0,01916
+534729020,19,1,"South to Perris Station Transit Center",,0,84708102,shp-19-57,0,0,01923
+534730020,19,1,"South to Perris Station Transit Center",,0,84708902,shp-19-57,0,0,01917
+534731020,19,1,"South to Perris Station Transit Center",,0,84707802,shp-19-57,0,0,01915
+534732020,19,1,"South to Perris Station Transit Center",,0,84708302,shp-19-57,0,0,01920
+534733020,19,1,"South to Perris Station Transit Center",,0,84709102,shp-19-57,0,0,02210
+534735020,19,1,"South to Perris Station Transit Center",,0,84707902,shp-19-57,0,0,01922
+534747020,19,1,"South to Perris Station Transit Center",,0,84708102,shp-19-57,0,0,01923
+534748020,19,1,"South to Perris Station Transit Center",,0,84709702,shp-19-57,0,0,01926
+534764020,19,1,"South to Perris Station Transit Center",,0,84697402,shp-19-57,0,0,01909
+534765020,19,1,"South to Perris Station Transit Center",,0,84697802,shp-19-57,0,0,01912
+534766020,19,1,"South to Perris Station Transit Center",,0,84697702,shp-19-57,0,0,01910
+534767020,19,1,"South to Perris Station Transit Center",,0,84698202,shp-19-57,0,0,01914
+534768020,19,1,"South to Perris Station Transit Center",,0,84699002,shp-19-57,0,0,00112
+534769020,19,1,"South to Perris Station Transit Center",,0,84694002,shp-19-57,0,0,02202
+534770020,19,1,"South to Perris Station Transit Center",,0,84698602,shp-19-57,0,0,00104
+534771020,19,1,"South to Perris Station Transit Center",,0,84697902,shp-19-57,0,0,01911
+534772020,19,1,"South to Perris Station Transit Center",,0,84708802,shp-19-57,0,0,01918
+534773020,19,1,"South to Perris Station Transit Center",,0,84709302,shp-19-57,0,0,01921
+534774020,19,1,"South to Perris Station Transit Center",,0,84709002,shp-19-57,0,0,01924
+534775020,19,1,"South to Perris Station Transit Center",,0,84698202,shp-19-57,0,0,01914
+534776020,19,1,"South to Perris Station Transit Center",,0,84709502,shp-19-57,0,0,01925
+534777020,19,1,"South to Perris Station Transit Center",,0,84708502,shp-19-57,0,0,01919
+534778020,19,1,"South to Perris Station Transit Center",,0,84707002,shp-19-57,0,0,01601
+534779020,19,1,"South to Perris Station Transit Center",,0,84709202,shp-19-57,0,0,02207
+534780020,19,1,"South to Perris Station Transit Center",,0,84708802,shp-19-57,0,0,01918
+534782020,19,1,"South to Perris Station Transit Center",,0,84694102,shp-19-57,0,0,01904
+534685020,19,1,"North to Moreno Valley Mall",,1,84692802,shp-19-02,0,0,01903
+534686020,19,1,"North to Moreno Valley Mall",,1,84698602,shp-19-02,0,0,00104
+534687020,19,1,"North to Moreno Valley Mall",,1,84692102,shp-19-02,0,0,01901
+534688020,19,1,"North to Moreno Valley Mall",,1,84694102,shp-19-02,0,0,01904
+534689020,19,1,"North to Moreno Valley Mall",,1,84695102,shp-19-02,0,0,01905
+534690020,19,1,"North to Moreno Valley Mall",,1,84692302,shp-19-02,0,0,01902
+534691020,19,1,"North to Moreno Valley Mall",,1,84695902,shp-19-02,0,0,01906
+534692020,19,1,"North to Moreno Valley Mall",,1,84697202,shp-19-02,0,0,01908
+534693020,19,1,"North to Moreno Valley Mall",,1,84695302,shp-19-02,0,0,02203
+534694020,19,1,"North to Moreno Valley Mall",,1,84698702,shp-19-02,0,0,01907
+534695020,19,1,"North to Moreno Valley Mall",,1,84707802,shp-19-02,0,0,01915
+534696020,19,1,"North to Moreno Valley Mall",,1,84694102,shp-19-02,0,0,01904
+534697020,19,1,"North to Moreno Valley Mall",,1,84708202,shp-19-02,0,0,01913
+534698020,19,1,"North to Moreno Valley Mall",,1,84708402,shp-19-02,0,0,02209
+534699020,19,1,"North to Moreno Valley Mall",,1,84695902,shp-19-02,0,0,01906
+534700020,19,1,"North to Moreno Valley Mall",,1,84708702,shp-19-02,0,0,01916
+534701020,19,1,"North to Moreno Valley Mall",,1,84708102,shp-19-02,0,0,01923
+534702020,19,1,"North to Moreno Valley Mall",,1,84708902,shp-19-02,0,0,01917
+534703020,19,1,"North to Moreno Valley Mall",,1,84707802,shp-19-02,0,0,01915
+534704020,19,1,"North to Moreno Valley Mall",,1,84707902,shp-19-02,0,0,01922
+534705020,19,1,"North to Moreno Valley Mall",,1,84708302,shp-19-02,0,0,01920
+534706020,19,1,"North to Moreno Valley Mall",,1,84695402,shp-19-02,0,0,02212
+534707020,19,1,"North to Moreno Valley Mall",,1,84705002,shp-19-02,0,0,00116
+534708020,19,1,"North to Moreno Valley Mall",,1,84708702,shp-19-02,0,0,01916
+534709020,19,1,"North to Moreno Valley Mall",,1,84708102,shp-19-02,0,0,01923
+534734020,19,1,"North to Moreno Valley Mall",,1,84708802,shp-19-02,0,0,01918
+534742020,19,1,"North to Moreno Valley Mall",,1,84692102,shp-19-02,0,0,01901
+534744020,19,1,"North to Moreno Valley Mall",,1,84707902,shp-19-02,0,0,01922
+534745020,19,1,"North to Moreno Valley Mall",,1,84709702,shp-19-02,0,0,01926
+534750020,19,1,"North to Moreno Valley Mall",,1,84692802,shp-19-02,0,0,01903
+534751020,19,1,"North to Moreno Valley Mall",,1,84697902,shp-19-02,0,0,01911
+534752020,19,1,"North to Moreno Valley Mall",,1,84697402,shp-19-02,0,0,01909
+534753020,19,1,"North to Moreno Valley Mall",,1,84697802,shp-19-02,0,0,01912
+534754020,19,1,"North to Moreno Valley Mall",,1,84697702,shp-19-02,0,0,01910
+534755020,19,1,"North to Moreno Valley Mall",,1,84698202,shp-19-02,0,0,01914
+534756020,19,1,"North to Moreno Valley Mall",,1,84699002,shp-19-02,0,0,00112
+534757020,19,1,"North to Moreno Valley Mall",,1,84708502,shp-19-02,0,0,01919
+534758020,19,1,"North to Moreno Valley Mall",,1,84694202,shp-19-02,0,0,02002
+534759020,19,1,"North to Moreno Valley Mall",,1,84709202,shp-19-02,0,0,02207
+534760020,19,1,"North to Moreno Valley Mall",,1,84708802,shp-19-02,0,0,01918
+534761020,19,1,"North to Moreno Valley Mall",,1,84709302,shp-19-02,0,0,01921
+534762020,19,1,"North to Moreno Valley Mall",,1,84709002,shp-19-02,0,0,01924
+534763020,19,1,"North to Moreno Valley Mall",,1,84698202,shp-19-02,0,0,01914
+534781020,19,1,"North to Moreno Valley Mall",,1,84694002,shp-19-02,0,0,02202
+534401020,20,1,"West to Magnolia & Elizabeth",,0,84694402,shp-20-57,0,0,02003
+534402020,20,1,"West to Magnolia & Elizabeth",,0,84694202,shp-20-56,0,0,02002
+534403020,20,1,"West to Magnolia & Elizabeth",,0,84692502,shp-20-56,0,0,02001
+534404020,20,1,"West to Magnolia & Elizabeth",,0,84694402,shp-20-56,0,0,02003
+534405020,20,1,"West to Magnolia & Elizabeth",,0,84694202,shp-20-56,0,0,02002
+534406020,20,1,"West to Magnolia & Elizabeth",,0,84692502,shp-20-56,0,0,02001
+534407020,20,1,"West to Magnolia & Elizabeth",,0,84694402,shp-20-56,0,0,02003
+534408020,20,1,"West to Magnolia & Elizabeth",,0,84704102,shp-20-56,0,0,02004
+534409020,20,1,"West to Magnolia & Elizabeth",,0,84709402,shp-20-56,0,0,02005
+534410020,20,1,"West to Magnolia & Elizabeth",,0,84696102,shp-20-56,0,0,02006
+534411020,20,1,"West to Magnolia & Elizabeth",,0,84704102,shp-20-57,0,0,02004
+534412020,20,1,"West to Magnolia & Elizabeth",,0,84709402,shp-20-56,0,0,02005
+534413020,20,1,"West to Magnolia & Elizabeth",,0,84696102,shp-20-56,0,0,02006
+534387020,20,1,"East to Moreno Valley College",,1,84694202,shp-20-03,0,0,02002
+534388020,20,1,"East to Moreno Valley College",,1,84692502,shp-20-03,0,0,02001
+534389020,20,1,"East to Moreno Valley College",,1,84694402,shp-20-04,0,0,02003
+534390020,20,1,"East to Moreno Valley College",,1,84694202,shp-20-04,0,0,02002
+534391020,20,1,"East to Moreno Valley College",,1,84692502,shp-20-04,0,0,02001
+534392020,20,1,"East to Moreno Valley College",,1,84694402,shp-20-04,0,0,02003
+534393020,20,1,"East to Moreno Valley College",,1,84704102,shp-20-04,0,0,02004
+534394020,20,1,"East to Moreno Valley College",,1,84709402,shp-20-04,0,0,02005
+534395020,20,1,"East to Moreno Valley College",,1,84696102,shp-20-04,0,0,02006
+534396020,20,1,"East to Moreno Valley College",,1,84704102,shp-20-04,0,0,02004
+534397020,20,1,"East to Moreno Valley College",,1,84709402,shp-20-04,0,0,02005
+534398020,20,1,"East to Moreno Valley College",,1,84696102,shp-20-03,0,0,02006
+534399020,20,1,"East to Moreno Valley College",,1,84704102,shp-20-04,0,0,02004
+534400020,20,1,"East to Moreno Valley College",,1,84709402,shp-20-04,0,0,02005
+534289020,200,1,"West to Anaheim Express",,0,84692902,shp-200-54,2,2,20001
+534290020,200,1,"West to Anaheim Express",,0,84695702,shp-200-54,2,2,20002
+534291020,200,1,"West to Anaheim Express",,0,84696902,shp-200-54,2,2,20003
+534292020,200,1,"West to Anaheim Express",,0,84711202,shp-200-54,2,2,20004
+534293020,200,1,"West to Anaheim Express",,0,84698902,shp-200-54,2,2,20005
+534294020,200,1,"West to Anaheim Express",,0,84702402,shp-200-54,2,2,20006
+534295020,200,1,"West to Anaheim Express",,0,84702202,shp-200-54,2,2,20007
+534296020,200,1,"West to Anaheim Express",,0,84705202,shp-200-54,2,2,20008
+534297020,200,1,"West to Anaheim Express",,0,84699502,shp-200-54,2,2,20009
+534280020,200,1,"East to San Bernardino Express",,1,84692902,shp-200-04,2,2,20001
+534281020,200,1,"East to San Bernardino Express",,1,84695702,shp-200-04,2,2,20002
+534282020,200,1,"East to San Bernardino Express",,1,84696902,shp-200-04,2,2,20003
+534283020,200,1,"East to San Bernardino Express",,1,84711202,shp-200-04,2,2,20004
+534284020,200,1,"East to San Bernardino Express",,1,84698902,shp-200-04,2,2,20005
+534285020,200,1,"East to San Bernardino Express",,1,84702402,shp-200-04,2,2,20006
+534286020,200,1,"East to San Bernardino Express",,1,84702202,shp-200-04,2,2,20007
+534287020,200,1,"East to San Bernardino Express",,1,84705202,shp-200-04,2,2,20008
+534288020,200,1,"East to San Bernardino Express",,1,84699502,shp-200-04,2,2,20009
+538594020,204,1,"South to Riverside & UCR Express",,0,84700002,shp-204-51,0,0,20401
+538595020,204,1,"South to Riverside & UCR Express",,0,84701002,shp-204-51,0,0,20402
+538596020,204,1,"South to Riverside & UCR Express",,0,84701802,shp-204-51,0,0,20403
+538597020,204,1,"South to Riverside & UCR Express",,0,84700002,shp-204-51,0,0,20401
+538598020,204,1,"South to Riverside & UCR Express",,0,84701902,shp-204-51,0,0,20404
+538599020,204,1,"South to Riverside & UCR Express",,0,84700102,shp-204-51,0,0,20405
+538600020,204,1,"South to Riverside & UCR Express",,0,84701302,shp-204-51,0,0,20406
+538601020,204,1,"South to Riverside & UCR Express",,0,84704602,shp-204-51,0,0,20407
+538602020,204,1,"South to Riverside & UCR Express",,0,84700102,shp-204-51,0,0,20405
+538603020,204,1," North to Montclair Express",,1,84700002,shp-204-01,0,0,20401
+538604020,204,1," North to Montclair Express",,1,84700102,shp-204-01,0,0,20405
+538605020,204,1," North to Montclair Express",,1,84701302,shp-204-01,0,0,20406
+538606020,204,1," North to Montclair Express",,1,84704602,shp-204-01,0,0,20407
+538607020,204,1," North to Montclair Express",,1,84700102,shp-204-01,0,0,20405
+538608020,204,1," North to Montclair Express",,1,84700002,shp-204-03,0,0,20401
+538609020,204,1," North to Montclair Express",,1,84701002,shp-204-03,0,0,20402
+538610020,204,1," North to Montclair Express",,1,84701802,shp-204-03,0,0,20403
+538611020,204,1," North to Montclair Express",,1,84701902,shp-204-01,0,0,20404
+538585020,205,1,"North to Corona Express",,0,84699402,shp-205-51,0,0,20501
+538586020,205,1,"North to Corona Express",,0,84701402,shp-205-51,0,0,20502
+538587020,205,1,"North to Corona Express",,0,84702002,shp-205-51,0,0,20503
+538588020,205,1,"South to Corona/Lake Elsinore Express",,0,84700302,shp-205-52,0,0,20504
+538589020,205,1,"South to Corona & Temecula Express",,0,84701702,shp-205-54,0,0,20506
+538593020,205,1,"South to Corona/Temecula Express",,0,84700502,shp-205-55,0,0,20505
+538582020,205,1,"North to Corona/Orange Express",,1,84699402,shp-205-02,0,0,20501
+538583020,205,1,"North to Corona/Orange Express",,1,84701402,shp-205-01,0,0,20502
+538584020,205,1,"North to Corona/Orange Express",,1,84702002,shp-205-01,0,0,20503
+538590020,205,1,"North to Village at Orange Express",,1,84700502,shp-205-03,0,0,20505
+538591020,205,1,"North to Village at Orange Express",,1,84701702,shp-205-03,0,0,20506
+538592020,205,1,"North to Village at Orange Express",,1,84700302,shp-205-03,0,0,20504
+538567020,206,1,"South to Temecula Express",,0,84701502,shp-206-59,0,0,20608
+538568020,206,1,"South to Temecula Express",,0,84699902,shp-206-60,0,0,20605
+538570020,206,1,"South to Temecula Express",,0,84701602,shp-206-61,0,0,20604
+538572020,206,1,"South to Temecula Express",,0,84700802,shp-206-61,0,0,20603
+538573020,206,1,"South to Temecula Express",,0,84701902,shp-206-59,0,0,20404
+538576020,206,1,"South to Temecula Express",,0,84699702,shp-206-59,0,0,20606
+538577020,206,1,"South to Temecula Express",,0,84702102,shp-206-59,0,0,20607
+538566020,206,1,"North to Corona Express",,1,84699902,shp-206-07,0,0,20605
+538569020,206,1,"North to Corona Express",,1,84701602,shp-206-08,0,0,20604
+538571020,206,1,"North to Corona Express",,1,84700802,shp-206-08,0,0,20603
+538574020,206,1,"North to Corona Express",,1,84699702,shp-206-07,0,0,20606
+538575020,206,1,"North to Corona Express",,1,84700202,shp-206-09,0,0,20602
+538578020,206,1,"North to Corona Express",,1,84699802,shp-206-09,0,0,20601
+538579020,206,1,"North to Corona Express",,1,84702102,shp-206-07,0,0,20607
+538548020,208,1,"South to Temecula Express",,0,84701102,shp-208-56,0,0,20806
+538559020,208,1,"South to Temecula Express",,0,84700602,shp-208-57,0,0,20804
+538560020,208,1,"South to Temecula Express",,0,84699602,shp-208-57,0,0,20802
+538561020,208,1,"South to Temecula Express",,0,84702302,shp-208-56,0,0,20807
+538562020,208,1,"South to Temecula Express",,0,84700902,shp-208-56,0,0,20808
+538563020,208,1,"South to Temecula Express",,0,84700702,shp-208-56,0,0,20809
+538564020,208,1,"South to Temecula Express",,0,84699302,shp-208-56,0,0,20810
+538565020,208,1,"South to Temecula Express",,0,84701902,shp-208-56,0,0,20404
+538546020,208,1,"North to Riverside Express",,1,84699202,shp-208-07,0,0,20801
+538547020,208,1,"North to Riverside Express",,1,84701202,shp-208-07,0,0,20805
+538552020,208,1,"North to Riverside Express",,1,84701102,shp-208-06,0,0,20806
+538555020,208,1,"North to Riverside Express",,1,84700402,shp-208-07,0,0,20803
+538556020,208,1,"North to Riverside Express",,1,84699202,shp-208-08,0,0,20801
+538557020,208,1,"North to Riverside Express",,1,84699602,shp-208-08,0,0,20802
+538558020,208,1,"North to Riverside Express",,1,84702302,shp-208-06,0,0,20807
+534435020,21,1,"South to Galleria at Tyler",,0,84695802,shp-21-59,0,0,02102
+534437020,21,1,"South to Galleria at Tyler",,0,84697602,shp-21-59,0,0,02103
+534439020,21,1,"South to Galleria at Tyler",,0,84697602,shp-21-59,0,0,02103
+534441020,21,1,"South to Galleria at Tyler",,0,84697602,shp-21-59,0,0,02103
+534443020,21,1,"South to Galleria at Tyler",,0,84695502,shp-21-59,0,0,02101
+534445020,21,1,"South to Galleria at Tyler",,0,84695502,shp-21-59,0,0,02101
+534447020,21,1,"South to Galleria at Tyler",,0,84709602,shp-21-59,0,0,02104
+534449020,21,1,"South to Galleria at Tyler",,0,84709602,shp-21-59,0,0,02104
+534451020,21,1,"South to Galleria at Tyler",,0,84709602,shp-21-59,0,0,02104
+534434020,21,1,"North to Country Village & Fontana",,1,84695802,shp-21-02,0,0,02102
+534436020,21,1,"North to Country Village & Fontana",,1,84697602,shp-21-02,0,0,02103
+534438020,21,1,"North to Country Village & Fontana",,1,84697602,shp-21-02,0,0,02103
+534440020,21,1,"North to Country Village & Fontana",,1,84697602,shp-21-02,0,0,02103
+534442020,21,1,"North to Country Village & Fontana",,1,84697602,shp-21-02,0,0,02103
+534444020,21,1,"North to Country Village & Fontana",,1,84695502,shp-21-02,0,0,02101
+534446020,21,1,"North to Country Village & Fontana",,1,84695502,shp-21-02,0,0,02101
+534448020,21,1,"North to Country Village & Fontana",,1,84709602,shp-21-02,0,0,02104
+534450020,21,1,"North to Country Village & Fontana",,1,84709602,shp-21-02,0,0,02104
+534452020,21,1,"North to Country Village & Fontana",,1,84709602,shp-21-02,0,0,02104
+534799020,22,1,"South to Perris Station Transit Center",,0,84692202,shp-22-58,0,0,02201
+534800020,22,1,"South to Perris Station Transit Center",,0,84694002,shp-22-58,0,0,02202
+534801020,22,1,"South to Perris Station Transit Center",,0,84695302,shp-22-58,0,0,02203
+534802020,22,1,"South to Perris Station Transit Center",,0,84692202,shp-22-58,0,0,02201
+534803020,22,1,"South to Perris Station Transit Center",,0,84697002,shp-22-58,0,0,02204
+534804020,22,1,"South to Perris Station Transit Center",,0,84698102,shp-22-58,0,0,02206
+534805020,22,1,"South to Perris Station Transit Center",,0,84709202,shp-22-58,0,0,02207
+534806020,22,1,"South to Perris Station Transit Center",,0,84710302,shp-22-58,0,0,02208
+534807020,22,1,"South to Perris Station Transit Center",,0,84696002,shp-22-58,0,0,02211
+534808020,22,1,"South to Perris Station Transit Center",,0,84698102,shp-22-58,0,0,02206
+534809020,22,1,"South to Perris Station Transit Center",,0,84695402,shp-22-58,0,0,02212
+534810020,22,1,"South to Perris Station Transit Center",,0,84698102,shp-22-58,0,0,02206
+534811020,22,1,"South to Perris Station Transit Center",,0,84705102,shp-22-58,0,0,00123
+534812020,22,1,"South to Perris Station Transit Center",,0,84708402,shp-22-58,0,0,02209
+534813020,22,1,"South to Perris Station Transit Center",,0,84709102,shp-22-58,0,0,02210
+534784020,22,1,"North to Riverside",,1,84705102,shp-22-05,0,0,00123
+534785020,22,1,"North to Riverside",,1,84692202,shp-22-05,0,0,02201
+534786020,22,1,"North to Riverside",,1,84694002,shp-22-05,0,0,02202
+534787020,22,1,"North to Riverside",,1,84695302,shp-22-05,0,0,02203
+534788020,22,1,"North to Riverside",,1,84692202,shp-22-05,0,0,02201
+534789020,22,1,"North to Riverside",,1,84697002,shp-22-05,0,0,02204
+534790020,22,1,"North to Riverside",,1,84698802,shp-22-05,0,0,02205
+534791020,22,1,"North to Riverside",,1,84698102,shp-22-05,0,0,02206
+534792020,22,1,"North to Riverside",,1,84709202,shp-22-05,0,0,02207
+534793020,22,1,"North to Riverside",,1,84710302,shp-22-05,0,0,02208
+534794020,22,1,"North to Riverside",,1,84698102,shp-22-05,0,0,02206
+534795020,22,1,"North to Riverside",,1,84709102,shp-22-05,0,0,02210
+534796020,22,1,"North to Riverside",,1,84696002,shp-22-05,0,0,02211
+534797020,22,1,"North to Riverside",,1,84708402,shp-22-05,0,0,02209
+534798020,22,1,"North to Riverside",,1,84709102,shp-22-05,0,0,02210
+535758020,23,1,"South to Temecula Promenade Mall",,0,84450402,shp-23-61,0,0,02314
+535759020,23,1,"South to Temecula Promenade Mall",,0,84448302,shp-23-61,0,0,07411
+535760020,23,1,"South to Temecula Promenade Mall",,0,84449902,shp-23-61,0,0,02311
+535761020,23,1,"South to Temecula Promenade Mall",,0,84450102,shp-23-61,0,0,02312
+535763020,23,1,"South to Temecula Promenade Mall",,0,84450202,shp-23-61,0,0,02313
+535764020,23,1,"South to Temecula Promenade Mall",,0,84449902,shp-23-61,0,0,02311
+535768020,23,1,"South to Temecula Promenade Mall",,0,84454302,shp-23-61,0,0,02411
+535769020,23,1,"South to Temecula Promenade Mall",,0,84450402,shp-23-61,0,0,02314
+535771020,23,1,"South to Temecula Promenade Mall",,0,84450202,shp-23-61,0,0,02313
+535773020,23,1,"South to Temecula Promenade Mall",,0,84450102,shp-23-61,0,0,02312
+535755020,23,1,"North to Wildomar",,1,84450102,shp-23-11,0,0,02312
+535756020,23,1,"North to Wildomar",,1,84450402,shp-23-11,0,0,02314
+535757020,23,1,"North to Wildomar",,1,84450202,shp-23-11,0,0,02313
+535762020,23,1,"North to Wildomar",,1,84449902,shp-23-11,0,0,02311
+535765020,23,1,"North to Wildomar",,1,84454302,shp-23-11,0,0,02411
+535766020,23,1,"North to Wildomar",,1,84450102,shp-23-11,0,0,02312
+535767020,23,1,"North to Wildomar",,1,84450402,shp-23-11,0,0,02314
+535770020,23,1,"North to Wildomar",,1,84450202,shp-23-11,0,0,02313
+535772020,23,1,"North to Wildomar",,1,84449902,shp-23-11,0,0,02311
+535774020,23,1,"North to Inland Valley Medical Center",,1,84454302,shp-23-10,0,0,02411
+535799020,24,1,"South to Temecula Valley Hospital",,0,84450202,shp-24-53,0,0,02313
+535800020,24,1,"South to Temecula Valley Hospital",,0,84449902,shp-24-53,0,0,02311
+535801020,24,1,"South to Temecula Valley Hospital",,0,84454302,shp-24-53,0,0,02411
+535802020,24,1,"South to Temecula Valley Hospital",,0,84450402,shp-24-53,0,0,02314
+535803020,24,1,"South to Temecula Valley Hospital",,0,84450102,shp-24-53,0,0,02312
+535804020,24,1,"South to Temecula Valley Hospital",,0,84450202,shp-24-53,0,0,02313
+535805020,24,1,"South to Temecula Valley Hospital",,0,84449902,shp-24-53,0,0,02311
+535806020,24,1,"South to Temecula Valley Hospital",,0,84454302,shp-24-53,0,0,02411
+535807020,24,1,"South to Temecula Valley Hospital",,0,84450402,shp-24-53,0,0,02314
+535808020,24,1,"South to Temecula Valley Hospital",,0,84450102,shp-24-53,0,0,02312
+535789020,24,1,"North to Temecula Promenade Mall",,1,84450402,shp-24-06,0,0,02314
+535790020,24,1,"North to Temecula Promenade Mall",,1,84450102,shp-24-06,0,0,02312
+535791020,24,1,"North to Temecula Promenade Mall",,1,84450202,shp-24-06,0,0,02313
+535792020,24,1,"North to Temecula Promenade Mall",,1,84449902,shp-24-06,0,0,02311
+535793020,24,1,"North to Temecula Promenade Mall",,1,84454302,shp-24-06,0,0,02411
+535794020,24,1,"North to Temecula Promenade Mall",,1,84450402,shp-24-06,0,0,02314
+535795020,24,1,"North to Temecula Promenade Mall",,1,84450102,shp-24-06,0,0,02312
+535796020,24,1,"North to Temecula Promenade Mall",,1,84450202,shp-24-06,0,0,02313
+535797020,24,1,"North to Temecula Promenade Mall",,1,84449902,shp-24-06,0,0,02311
+535798020,24,1,"North to Temecula Promenade Mall",,1,84454302,shp-24-06,0,0,02411
+534511020,27,1,"South to Perris Station Transit Center",,0,84694202,shp-27-61,0,0,02002
+534512020,27,1,"South to Perris Station Transit Center",,0,84692402,shp-27-61,0,0,02701
+534513020,27,1,"South to Perris Station Transit Center",,0,84692602,shp-27-61,0,0,00101
+534514020,27,1,"South to Perris Station Transit Center",,0,84695602,shp-27-61,0,0,02702
+534515020,27,1,"South to Perris Station Transit Center",,0,84694902,shp-27-61,0,0,01302
+534516020,27,1,"South to Perris Station Transit Center",,0,84693602,shp-27-61,0,0,01301
+534517020,27,1,"South to Perris Station Transit Center",,0,84692402,shp-27-61,0,0,02701
+534518020,27,1,"South to Perris Station Transit Center",,0,84709802,shp-27-61,0,0,02703
+534519020,27,1,"South to Perris Station Transit Center",,0,84706702,shp-27-61,0,0,02704
+534520020,27,1,"South to Perris Station Transit Center",,0,84706502,shp-27-61,0,0,02706
+534521020,27,1,"South to Perris Station Transit Center",,0,84706302,shp-27-61,0,0,01306
+534522020,27,1,"South to Perris Station Transit Center",,0,84709802,shp-27-61,0,0,02703
+534523020,27,1,"South to Perris Station Transit Center",,0,84703802,shp-27-61,0,0,02705
+534524020,27,1,"South to Perris Station Transit Center",,0,84706702,shp-27-61,0,0,02704
+534525020,27,1,"South to Perris Station Transit Center",,0,84703802,shp-27-61,0,0,02705
+534526020,27,1,"North to Galleria Mall",,1,84692602,shp-27-51,0,0,00101
+534527020,27,1,"North to Galleria Mall",,1,84692402,shp-27-51,0,0,02701
+534528020,27,1,"North to Galleria Mall",,1,84692602,shp-27-51,0,0,00101
+534529020,27,1,"North to Galleria Mall",,1,84695602,shp-27-51,0,0,02702
+534530020,27,1,"North to Galleria Mall",,1,84694902,shp-27-51,0,0,01302
+534531020,27,1,"North to Galleria Mall",,1,84693602,shp-27-51,0,0,01301
+534532020,27,1,"North to Galleria Mall",,1,84692402,shp-27-51,0,0,02701
+534533020,27,1,"North to Galleria Mall",,1,84709802,shp-27-51,0,0,02703
+534534020,27,1,"North to Galleria Mall",,1,84703802,shp-27-51,0,0,02705
+534535020,27,1,"North to Galleria Mall",,1,84706702,shp-27-51,0,0,02704
+534536020,27,1,"North to Galleria Mall",,1,84706502,shp-27-51,0,0,02706
+534537020,27,1,"North to Galleria Mall",,1,84706302,shp-27-51,0,0,01306
+534538020,27,1,"North to Galleria Mall",,1,84709802,shp-27-51,0,0,02703
+534539020,27,1,"North to Galleria Mall",,1,84703802,shp-27-51,0,0,02705
+534540020,27,1,"North to Galleria Mall",,1,84706702,shp-27-51,0,0,02704
+534826020,28,1,"West to Perris Station Transit Center",,0,84692202,shp-28-51,0,0,02201
+534827020,28,1,"West to Perris Station Transit Center",,0,84693302,shp-28-52,0,0,02801
+534828020,28,1,"West to Perris Station Transit Center",,0,84694302,shp-28-52,0,0,02803
+534829020,28,1,"West to Perris Station Transit Center",,0,84702502,shp-28-52,0,0,02804
+534830020,28,1,"West to Perris Station Transit Center",,0,84694302,shp-28-52,0,0,02803
+534831020,28,1,"West to Perris Station Transit Center",,0,84708602,shp-28-52,0,0,02806
+534832020,28,1,"West to Perris Station Transit Center",,0,84693302,shp-28-52,0,0,02801
+534833020,28,1,"West to Perris Station Transit Center",,0,84710502,shp-28-52,0,0,02807
+534834020,28,1,"West to Perris Station Transit Center",,0,84709902,shp-28-52,0,0,02810
+534835020,28,1,"West to Perris Station Transit Center",,0,84710602,shp-28-52,0,0,02809
+534836020,28,1,"West to Perris Station Transit Center",,0,84709902,shp-28-52,0,0,02810
+534837020,28,1,"West to Perris Station Transit Center",,0,84710102,shp-28-52,0,0,02808
+534838020,28,1,"West to Perris Station Transit Center",,0,84709902,shp-28-52,0,0,02810
+534849020,28,1,"West to Perris Station Transit Center",,0,84692302,shp-28-52,0,0,01902
+534850020,28,1,"West to Perris Station Transit Center",,0,84698502,shp-28-52,0,0,02802
+534851020,28,1,"West to Perris Station Transit Center",,0,84693302,shp-28-52,0,0,02801
+534852020,28,1,"West to Perris Station Transit Center",,0,84710402,shp-28-52,0,0,02805
+534853020,28,1,"West to Perris Station Transit Center",,0,84694302,shp-28-52,0,0,02803
+534854020,28,1,"West to Perris Station Transit Center",,0,84710102,shp-28-52,0,0,02808
+534855020,28,1,"West to Perris Station Transit Center",,0,84710502,shp-28-52,0,0,02807
+534856020,28,1,"West to Perris Station Transit Center",,0,84710602,shp-28-52,0,0,02809
+534857020,28,1,"West to Perris Station Transit Center",,0,84710202,shp-28-52,0,0,02811
+534859020,28,1,"West to Perris Station Transit Center",,0,84692102,shp-28-51,0,0,01901
+534814020,28,1,"East to Hemet Florida & Lincoln",,1,84693302,shp-28-01,0,0,02801
+534815020,28,1,"East to Hemet Florida & Lincoln",,1,84694302,shp-28-01,0,0,02803
+534816020,28,1,"East to Hemet Florida & Lincoln",,1,84702502,shp-28-01,0,0,02804
+534817020,28,1,"East to Hemet Florida & Lincoln",,1,84693302,shp-28-01,0,0,02801
+534818020,28,1,"East to Hemet Florida & Lincoln",,1,84710502,shp-28-01,0,0,02807
+534819020,28,1,"East to Hemet Florida & Lincoln",,1,84710102,shp-28-01,0,0,02808
+534820020,28,1,"East to Hemet Florida & Lincoln",,1,84710602,shp-28-01,0,0,02809
+534821020,28,1,"East to Hemet Florida & Lincoln",,1,84709902,shp-28-01,0,0,02810
+534822020,28,1,"East to Hemet Florida & Lincoln",,1,84710102,shp-28-01,0,0,02808
+534823020,28,1,"East to Hemet Florida & Lincoln",,1,84709902,shp-28-01,0,0,02810
+534824020,28,1,"East to Hemet Florida & Lincoln",,1,84710102,shp-28-01,0,0,02808
+534825020,28,1,"East to Hemet Florida & Lincoln",,1,84710602,shp-28-01,0,0,02809
+534839020,28,1,"East to Hemet Florida & Lincoln",,1,84698502,shp-28-01,0,0,02802
+534840020,28,1,"East to Hemet Florida & Lincoln",,1,84692302,shp-28-01,0,0,01902
+534841020,28,1,"East to Hemet Florida & Lincoln",,1,84698502,shp-28-01,0,0,02802
+534842020,28,1,"East to Hemet Florida & Lincoln",,1,84694302,shp-28-01,0,0,02803
+534843020,28,1,"East to Hemet Florida & Lincoln",,1,84708602,shp-28-01,0,0,02806
+534844020,28,1,"East to Hemet Florida & Lincoln",,1,84710502,shp-28-01,0,0,02807
+534845020,28,1,"East to Hemet Florida & Lincoln",,1,84710602,shp-28-01,0,0,02809
+534846020,28,1,"East to Hemet Florida & Lincoln",,1,84710502,shp-28-01,0,0,02807
+534847020,28,1,"East to Hemet Florida & Lincoln",,1,84710002,shp-28-01,0,0,02812
+534848020,28,1,"East to Hemet Florida & Lincoln",,1,84710202,shp-28-01,0,0,02811
+534858020,28,1,"East to Hemet Florida & State",,1,84709702,shp-28-02,0,0,01926
+534486020,29,1,"West to Eastvale",,0,84693202,shp-29-56,0,0,02902
+534487020,29,1,"West to Eastvale",,0,84692702,shp-29-56,0,0,02901
+534488020,29,1,"West to Eastvale",,0,84693202,shp-29-56,0,0,02902
+534489020,29,1,"West to Eastvale",,0,84692702,shp-29-56,0,0,02901
+534490020,29,1,"West to Eastvale",,0,84693202,shp-29-56,0,0,02902
+534491020,29,1,"West to Eastvale",,0,84692702,shp-29-56,0,0,02901
+534492020,29,1,"West to Eastvale",,0,84710802,shp-29-56,0,0,02903
+534493020,29,1,"West to Eastvale",,0,84710702,shp-29-56,0,0,02904
+534494020,29,1,"West to Eastvale",,0,84710802,shp-29-56,0,0,02903
+534495020,29,1,"West to Eastvale",,0,84702902,shp-29-56,0,0,02905
+534496020,29,1,"West to Eastvale",,0,84710802,shp-29-56,0,0,02903
+534497020,29,1,"West to Eastvale",,0,84702902,shp-29-56,0,0,02905
+534498020,29,1,"West to Eastvale",,0,84710802,shp-29-56,0,0,02903
+534499020,29,1,"East to Riverside",,1,84692702,shp-29-09,0,0,02901
+534500020,29,1,"East to Riverside",,1,84693202,shp-29-09,0,0,02902
+534501020,29,1,"East to Riverside",,1,84692702,shp-29-09,0,0,02901
+534502020,29,1,"East to Riverside",,1,84693202,shp-29-09,0,0,02902
+534503020,29,1,"East to Riverside",,1,84692702,shp-29-09,0,0,02901
+534504020,29,1,"East to Riverside",,1,84693202,shp-29-09,0,0,02902
+534505020,29,1,"East to Riverside",,1,84692702,shp-29-09,0,0,02901
+534506020,29,1,"East to Riverside",,1,84710802,shp-29-09,0,0,02903
+534507020,29,1,"East to Riverside",,1,84710702,shp-29-09,0,0,02904
+534508020,29,1,"East to Riverside",,1,84710802,shp-29-09,0,0,02903
+534509020,29,1,"East to Riverside",,1,84702902,shp-29-09,0,0,02905
+534510020,29,1,"East to Riverside",,1,84710802,shp-29-09,0,0,02903
+535816020,3,1,"South to Corona",,0,84448402,shp-3-62,0,0,00311
+535817020,3,1,"South to Corona",,0,84448402,shp-3-62,0,0,00311
+535818020,3,1,"South to Corona",,0,84448402,shp-3-62,0,0,00311
+535819020,3,1,"South to Corona",,0,84448402,shp-3-62,0,0,00311
+535820020,3,1,"South to Corona",,0,84451502,shp-3-62,0,0,00312
+535821020,3,1,"South to Corona",,0,84451502,shp-3-62,0,0,00312
+535822020,3,1,"South to Corona",,0,84451502,shp-3-62,0,0,00312
+535809020,3,1,"North to Eastvale",,1,84451502,shp-3-11,0,0,00312
+535810020,3,1,"North to Eastvale",,1,84448402,shp-3-11,0,0,00311
+535811020,3,1,"North to Eastvale",,1,84448402,shp-3-11,0,0,00311
+535812020,3,1,"North to Eastvale",,1,84448402,shp-3-11,0,0,00311
+535813020,3,1,"North to Eastvale",,1,84451502,shp-3-11,0,0,00312
+535814020,3,1,"North to Eastvale",,1,84451502,shp-3-11,0,0,00312
+535815020,3,1,"North to Eastvale",,1,84451502,shp-3-11,0,0,00312
+535926020,30,1,"East to Perris Station Transit Center",,1,84450902,shp-30-03,0,0,03011
+535927020,30,1,"East to Perris Station Transit Center",,1,84450902,shp-30-03,0,0,03011
+535928020,30,1,"East to Perris Station Transit Center",,1,84450902,shp-30-03,0,0,03011
+535929020,30,1,"East to Perris Station Transit Center",,1,84451602,shp-30-03,0,0,03012
+535930020,30,1,"East to Perris Station Transit Center",,1,84451602,shp-30-03,0,0,03012
+535931020,30,1,"East to Perris Station Transit Center",,1,84451602,shp-30-03,0,0,03012
+535932020,30,1,"East to Perris Station Transit Center",,1,84451602,shp-30-03,0,0,03012
+535933020,30,1,"East to Perris Station Transit Center",,1,84451602,shp-30-03,0,0,03012
+535735020,31,1,"South to Hemet Valley Mall",,0,84449402,shp-31-52,0,0,03111
+535737020,31,1,"South to Hemet Valley Mall",,0,84451102,shp-31-52,0,0,03113
+535739020,31,1,"South to Hemet Valley Mall",,0,84449002,shp-31-52,0,0,04211
+535740020,31,1,"South to Hemet Valley Mall",,0,84451402,shp-31-52,0,0,03112
+535742020,31,1,"South to Hemet Valley Mall",,0,84454502,shp-31-52,0,0,03114
+535744020,31,1,"South to Hemet Valley Mall",,0,84454602,shp-31-52,0,0,03116
+535747020,31,1,"South to Hemet Valley Mall",,0,84454802,shp-31-52,0,0,03117
+535748020,31,1,"South to Hemet Valley Mall",,0,84454202,shp-31-52,0,0,03115
+535751020,31,1,"South to Hemet Valley Mall",,0,84454502,shp-31-52,0,0,03114
+535753020,31,1,"South to Hemet Valley Mall",,0,84454602,shp-31-52,0,0,03116
+535754020,31,1,"South to Hemet Valley Mall",,0,84454802,shp-31-52,0,0,03117
+535734020,31,1,"North to Beaumont and Moreno Valley Mall",,1,84449002,shp-31-02,0,0,04211
+535736020,31,1,"North to Beaumont and Moreno Valley Mall",,1,84451402,shp-31-02,0,0,03112
+535738020,31,1,"North to Beaumont and Moreno Valley Mall",,1,84449402,shp-31-02,0,0,03111
+535741020,31,1,"North to Beaumont and Moreno Valley Mall",,1,84451102,shp-31-02,0,0,03113
+535743020,31,1,"North to Beaumont and Moreno Valley Mall",,1,84451202,shp-31-02,0,0,04212
+535745020,31,1,"North to Beaumont and Moreno Valley Mall",,1,84454202,shp-31-02,0,0,03115
+535746020,31,1,"North to Beaumont and Moreno Valley Mall",,1,84454502,shp-31-02,0,0,03114
+535749020,31,1,"North to Beaumont and Moreno Valley Mall",,1,84454602,shp-31-02,0,0,03116
+535750020,31,1,"North to Beaumont and Moreno Valley Mall",,1,84454802,shp-31-02,0,0,03117
+535752020,31,1,"North to Beaumont and Moreno Valley Mall",,1,84454202,shp-31-02,0,0,03115
+535834020,32,1,"South to Hemet Valley Mall",,0,84449202,shp-32-53,0,0,03211
+535835020,32,1,"South to Hemet Valley Mall",,0,84449302,shp-32-53,0,0,03212
+535836020,32,1,"South to Hemet Valley Mall",,0,84449202,shp-32-53,0,0,03211
+535837020,32,1,"South to Hemet Valley Mall",,0,84449302,shp-32-53,0,0,03212
+535838020,32,1,"South to Hemet Valley Mall",,0,84449202,shp-32-53,0,0,03211
+535839020,32,1,"South to Hemet Valley Mall",,0,84449302,shp-32-53,0,0,03212
+535840020,32,1,"South to Hemet Valley Mall",,0,84449202,shp-32-53,0,0,03211
+535841020,32,1,"South to Hemet Valley Mall",,0,84449302,shp-32-53,0,0,03212
+535842020,32,1,"South to Hemet Valley Mall",,0,84449202,shp-32-53,0,0,03211
+535843020,32,1,"South to Hemet Valley Mall",,0,84449302,shp-32-53,0,0,03212
+535844020,32,1,"South to Hemet Valley Mall",,0,84449202,shp-32-53,0,0,03211
+535823020,32,1,"North to MSJC-San Jacinto",,1,84449302,shp-32-03,0,0,03212
+535824020,32,1,"North to MSJC-San Jacinto",,1,84449302,shp-32-03,0,0,03212
+535825020,32,1,"North to MSJC-San Jacinto",,1,84449202,shp-32-03,0,0,03211
+535826020,32,1,"North to MSJC-San Jacinto",,1,84449302,shp-32-03,0,0,03212
+535827020,32,1,"North to MSJC-San Jacinto",,1,84449202,shp-32-03,0,0,03211
+535828020,32,1,"North to MSJC-San Jacinto",,1,84449302,shp-32-03,0,0,03212
+535829020,32,1,"North to MSJC-San Jacinto",,1,84449202,shp-32-03,0,0,03211
+535830020,32,1,"North to MSJC-San Jacinto",,1,84449302,shp-32-03,0,0,03212
+535831020,32,1,"North to MSJC-San Jacinto",,1,84449202,shp-32-03,0,0,03211
+535832020,32,1,"North to MSJC-San Jacinto",,1,84449302,shp-32-03,0,0,03212
+535833020,32,1,"North to MSJC-San Jacinto",,1,84449202,shp-32-03,0,0,03211
+535885020,33,1,"West to Hemet Valley Mall",,0,84450802,shp-33-52,0,0,03311
+535886020,33,1,"West to Hemet Valley Mall",,0,84450802,shp-33-52,0,0,03311
+535887020,33,1,"West to Hemet Valley Mall",,0,84450802,shp-33-52,0,0,03311
+535888020,33,1,"West to Hemet Valley Mall",,0,84450802,shp-33-52,0,0,03311
+535889020,33,1,"West to Hemet Valley Mall",,0,84450802,shp-33-52,0,0,03311
+535890020,33,1,"West to Hemet Valley Mall",,0,84450802,shp-33-52,0,0,03311
+535879020,33,1,"East to East Hemet",,1,84450802,shp-33-01,0,0,03311
+535880020,33,1,"East to East Hemet",,1,84450802,shp-33-01,0,0,03311
+535881020,33,1,"East to East Hemet",,1,84450802,shp-33-01,0,0,03311
+535882020,33,1,"East to East Hemet",,1,84450802,shp-33-01,0,0,03311
+535883020,33,1,"East to East Hemet",,1,84450802,shp-33-01,0,0,03311
+535884020,33,1,"East to East Hemet",,1,84450802,shp-33-01,0,0,03311
+535725020,40,1,"West to Lake Elsinore Walmart",,0,84450502,shp-40-52,0,0,04012
+535726020,40,1,"West to Lake Elsinore Walmart",,0,84450302,shp-40-52,0,0,04011
+535727020,40,1,"West to Lake Elsinore Walmart",,0,84450502,shp-40-52,0,0,04012
+535728020,40,1,"West to Lake Elsinore Walmart",,0,84450302,shp-40-52,0,0,04011
+535729020,40,1,"West to Lake Elsinore Walmart",,0,84450502,shp-40-52,0,0,04012
+535730020,40,1,"West to Lake Elsinore Walmart",,0,84450302,shp-40-52,0,0,04011
+535731020,40,1,"West to Lake Elsinore Walmart",,0,84450502,shp-40-52,0,0,04012
+535732020,40,1,"West to Lake Elsinore Walmart",,0,84454402,shp-40-52,0,0,04013
+535733020,40,1,"West to Lake Elsinore Walmart",,0,84450502,shp-40-52,0,0,04012
+535716020,40,1,"East to Cherry Hills & Bradley",,1,84454402,shp-40-02,0,0,04013
+535717020,40,1,"East to Cherry Hills & Bradley",,1,84450302,shp-40-02,0,0,04011
+535718020,40,1,"East to Cherry Hills & Bradley",,1,84450502,shp-40-02,0,0,04012
+535719020,40,1,"East to Cherry Hills & Bradley",,1,84450302,shp-40-02,0,0,04011
+535720020,40,1,"East to Cherry Hills & Bradley",,1,84450502,shp-40-02,0,0,04012
+535721020,40,1,"East to Cherry Hills & Bradley",,1,84450302,shp-40-02,0,0,04011
+535722020,40,1,"East to Cherry Hills & Bradley",,1,84450502,shp-40-02,0,0,04012
+535723020,40,1,"East to Cherry Hills & Bradley",,1,84450302,shp-40-02,0,0,04011
+535724020,40,1,"East to Cherry Hills & Bradley",,1,84450502,shp-40-02,0,0,04012
+535782020,41,1,"West to Mead Valley",,0,84449102,shp-41-51,0,0,04111
+535783020,41,1,"West to Mead Valley",,0,84449102,shp-41-51,0,0,04111
+535784020,41,1,"West to Mead Valley",,0,84449102,shp-41-51,0,0,04111
+535785020,41,1,"West to Mead Valley",,0,84449102,shp-41-51,0,0,04111
+535786020,41,1,"West to Mead Valley",,0,84449102,shp-41-51,0,0,04111
+535787020,41,1,"West to Mead Valley",,0,84449102,shp-41-51,0,0,04111
+535788020,41,1,"West to Mead Valley",,0,84454902,shp-41-51,0,0,04112
+535775020,41,1,"East to Riverside University Med Ctr",,1,84454902,shp-41-01,0,0,04112
+535776020,41,1,"East to Riverside University Med Ctr",,1,84449102,shp-41-01,0,0,04111
+535777020,41,1,"East to Riverside University Med Ctr",,1,84449102,shp-41-01,0,0,04111
+535778020,41,1,"East to Riverside University Med Ctr",,1,84449102,shp-41-01,0,0,04111
+535779020,41,1,"East to Riverside University Med Ctr",,1,84449102,shp-41-01,0,0,04111
+535780020,41,1,"East to Riverside University Med Ctr",,1,84449102,shp-41-01,0,0,04111
+535781020,41,1,"East to Riverside University Med Ctr",,1,84449102,shp-41-01,0,0,04111
+535873020,42,1,"West to Hemet Valley Mall",,0,84449002,shp-42-53,0,0,04211
+535874020,42,1,"West to Hemet Valley Mall",,0,84451202,shp-42-53,0,0,04212
+535875020,42,1,"West to Hemet Valley Mall",,0,84451202,shp-42-53,0,0,04212
+535876020,42,1,"West to Hemet Valley Mall",,0,84449002,shp-42-53,0,0,04211
+535877020,42,1,"West to Hemet Valley Mall",,0,84449002,shp-42-53,0,0,04211
+535878020,42,1,"West to Hemet Valley Mall",,0,84449002,shp-42-53,0,0,04211
+535867020,42,1,"East to Soboba Casino",,1,84449002,shp-42-03,0,0,04211
+535868020,42,1,"East to Soboba Casino",,1,84451202,shp-42-03,0,0,04212
+535869020,42,1,"East to Soboba Casino",,1,84449002,shp-42-03,0,0,04211
+535870020,42,1,"East to Soboba Casino",,1,84451202,shp-42-03,0,0,04212
+535871020,42,1,"East to Soboba Casino",,1,84449002,shp-42-03,0,0,04211
+535872020,42,1,"East to Soboba Casino",,1,84449002,shp-42-03,0,0,04211
+534456020,49,1,"West to Country Village & Fontana",,0,84693502,shp-49-53,0,0,04901
+534457020,49,1,"West to Country Village & Fontana",,0,84694702,shp-49-53,0,0,04902
+534458020,49,1,"West to Country Village & Fontana",,0,84693502,shp-49-53,0,0,04901
+534459020,49,1,"West to Country Village & Fontana",,0,84711002,shp-49-53,0,0,04903
+534460020,49,1,"West to Country Village & Fontana",,0,84711102,shp-49-53,0,0,04905
+534461020,49,1,"West to Country Village & Fontana",,0,84710902,shp-49-53,0,0,04904
+534462020,49,1,"West to Country Village & Fontana",,0,84711102,shp-49-53,0,0,04905
+534463020,49,1,"West to Country Village & Fontana",,0,84711102,shp-49-53,0,0,04905
+534464020,49,1,"West to Country Village & Fontana",,0,84710902,shp-49-53,0,0,04904
+534465020,49,1,"West to Country Village & Fontana",,0,84711102,shp-49-53,0,0,04905
+534481020,49,1,"West to Country Village & Fontana",,0,84694702,shp-49-53,0,0,04902
+534482020,49,1,"West to Country Village & Fontana",,0,84693502,shp-49-53,0,0,04901
+534483020,49,1,"West to Country Village & Fontana",,0,84693502,shp-49-53,0,0,04901
+534484020,49,1,"West to Country Village & Fontana",,0,84710902,shp-49-53,0,0,04904
+534485020,49,1,"West to Country Village & Fontana",,0,84710902,shp-49-53,0,0,04904
+534466020,49,1,"East to Riverside",,1,84694702,shp-49-03,0,0,04902
+534467020,49,1,"East to Riverside",,1,84693502,shp-49-03,0,0,04901
+534468020,49,1,"East to Riverside",,1,84694702,shp-49-03,0,0,04902
+534469020,49,1,"East to Riverside",,1,84693502,shp-49-03,0,0,04901
+534470020,49,1,"East to Riverside",,1,84711002,shp-49-03,0,0,04903
+534471020,49,1,"East to Riverside",,1,84710902,shp-49-03,0,0,04904
+534472020,49,1,"East to Riverside",,1,84710902,shp-49-03,0,0,04904
+534473020,49,1,"East to Riverside",,1,84711102,shp-49-03,0,0,04905
+534474020,49,1,"East to Riverside",,1,84710902,shp-49-03,0,0,04904
+534475020,49,1,"East to Riverside",,1,84710902,shp-49-03,0,0,04904
+534476020,49,1,"East to Riverside",,1,84693502,shp-49-03,0,0,04901
+534477020,49,1,"East to Riverside",,1,84693502,shp-49-03,0,0,04901
+534478020,49,1,"East to Riverside",,1,84711102,shp-49-03,0,0,04905
+534479020,49,1,"East to Riverside",,1,84711102,shp-49-03,0,0,04905
+534480020,49,1,"East to Riverside",,1,84694702,shp-49-03,0,0,04902
+535918020,61,1,"South To Temecula Promenade Mall",,0,84450702,shp-61-56,0,0,06113
+535919020,61,1,"South To Temecula Promenade Mall",,0,84448902,shp-61-56,0,0,06112
+535920020,61,1,"South To Temecula Promenade Mall",,0,84448802,shp-61-56,0,0,06111
+535921020,61,1,"South To Temecula Promenade Mall",,0,84454702,shp-61-56,0,0,06114
+535922020,61,1,"South To Temecula Promenade Mall",,0,84448802,shp-61-56,0,0,06111
+535923020,61,1,"South To Temecula Promenade Mall",,0,84450702,shp-61-56,0,0,06113
+535924020,61,1,"South To Temecula Promenade Mall",,0,84454702,shp-61-56,0,0,06114
+535925020,61,1,"South To Temecula Promenade Mall",,0,84448802,shp-61-56,0,0,06111
+535909020,61,1,"North To Perris Station Transit Center",,1,84450702,shp-61-07,0,0,06113
+535910020,61,1,"North To Perris Station Transit Center",,1,84448802,shp-61-07,0,0,06111
+535911020,61,1,"North To Perris Station Transit Center",,1,84450702,shp-61-07,0,0,06113
+535912020,61,1,"North To Perris Station Transit Center",,1,84448902,shp-61-07,0,0,06112
+535913020,61,1,"North To Perris Station Transit Center",,1,84454702,shp-61-07,0,0,06114
+535914020,61,1,"North To Perris Station Transit Center",,1,84450702,shp-61-07,0,0,06113
+535915020,61,1,"North To Perris Station Transit Center",,1,84448802,shp-61-07,0,0,06111
+535916020,61,1,"North To Perris Station Transit Center",,1,84454702,shp-61-07,0,0,06114
+535917020,61,1,"North To Perris Station Transit Center",,1,84448802,shp-61-07,0,0,06111
+535943020,74,1,"West to Perris Station Transit Center",,0,84451302,shp-74-51,0,0,07414
+535944020,74,1,"West to Perris Station Transit Center",,0,84448302,shp-74-51,0,0,07411
+535945020,74,1,"West to Perris Station Transit Center",,0,84449702,shp-74-51,0,0,07412
+535946020,74,1,"West to Perris Station Transit Center",,0,84449802,shp-74-51,0,0,07413
+535947020,74,1,"West to Perris Station Transit Center",,0,84449702,shp-74-51,0,0,07412
+535948020,74,1,"West to Perris Station Transit Center",,0,84449802,shp-74-51,0,0,07413
+535949020,74,1,"West to Perris Station Transit Center",,0,84451302,shp-74-51,0,0,07414
+535950020,74,1,"West to Perris Station Transit Center",,0,84455002,shp-74-51,0,0,07415
+535951020,74,1,"West to Perris Station Transit Center",,0,84449802,shp-74-51,0,0,07413
+535952020,74,1,"West to Perris Station Transit Center",,0,84449602,shp-74-51,0,0,07416
+535934020,74,1,"East to MSJC-San Jacinto",,1,84449602,shp-74-01,0,0,07416
+535935020,74,1,"East to MSJC-San Jacinto",,1,84455002,shp-74-01,0,0,07415
+535936020,74,1,"East to MSJC-San Jacinto",,1,84449802,shp-74-01,0,0,07413
+535937020,74,1,"East to MSJC-San Jacinto",,1,84449802,shp-74-01,0,0,07413
+535938020,74,1,"East to MSJC-San Jacinto",,1,84451302,shp-74-01,0,0,07414
+535939020,74,1,"East to MSJC-San Jacinto",,1,84449702,shp-74-01,0,0,07412
+535940020,74,1,"East to MSJC-San Jacinto",,1,84449802,shp-74-01,0,0,07413
+535941020,74,1,"East to MSJC-San Jacinto",,1,84451302,shp-74-01,0,0,07414
+535942020,74,1,"East to MSJC-San Jacinto",,1,84449702,shp-74-01,0,0,07412
+535900020,79,1,"South to Temecula",,0,84450002,shp-79-59,0,0,07912
+535901020,79,1,"South to Temecula",,0,84448602,shp-79-59,0,0,07911
+535902020,79,1,"South to Temecula",,0,84450602,shp-79-59,0,0,07913
+535903020,79,1,"South to Temecula",,0,84448602,shp-79-59,0,0,07911
+535904020,79,1,"South to Temecula",,0,84450602,shp-79-59,0,0,07913
+535905020,79,1,"South to Temecula",,0,84450002,shp-79-59,0,0,07912
+535906020,79,1,"South to Temecula",,0,84448602,shp-79-59,0,0,07911
+535907020,79,1,"South to Temecula",,0,84450602,shp-79-59,0,0,07913
+535908020,79,1,"South to Temecula",,0,84450002,shp-79-59,0,0,07912
+535891020,79,1,"North to Hemet & MSJC San Jacinto",,1,84448602,shp-79-07,0,0,07911
+535892020,79,1,"North to Hemet & MSJC San Jacinto",,1,84450002,shp-79-07,0,0,07912
+535893020,79,1,"North to Hemet & MSJC San Jacinto",,1,84448602,shp-79-07,0,0,07911
+535894020,79,1,"North to Hemet & MSJC San Jacinto",,1,84450002,shp-79-07,0,0,07912
+535895020,79,1,"North to Hemet & MSJC San Jacinto",,1,84450602,shp-79-07,0,0,07913
+535896020,79,1,"North to Hemet & MSJC San Jacinto",,1,84450602,shp-79-07,0,0,07913
+535897020,79,1,"North to Hemet & MSJC San Jacinto",,1,84450002,shp-79-07,0,0,07912
+535898020,79,1,"North to Hemet & MSJC San Jacinto",,1,84448602,shp-79-07,0,0,07911
+535899020,79,1,"North to Hemet & MSJC San Jacinto",,1,84450602,shp-79-07,0,0,07913
+535856020,8,1,"Counterclockwise to Wildomar & Lake Elsinore",,0,84448702,shp-8-14,0,0,00811
+535857020,8,1,"Counterclockwise to Wildomar & Lake Elsinore",,0,84448702,shp-8-14,0,0,00811
+535858020,8,1,"Counterclockwise to Wildomar & Lake Elsinore",,0,84449502,shp-8-14,0,0,00812
+535859020,8,1,"Counterclockwise to Wildomar & Lake Elsinore",,0,84451002,shp-8-14,0,0,00813
+535860020,8,1,"Counterclockwise to Wildomar & Lake Elsinore",,0,84448702,shp-8-14,0,0,00811
+535861020,8,1,"Counterclockwise to Wildomar & Lake Elsinore",,0,84449502,shp-8-14,0,0,00812
+535862020,8,1,"Counterclockwise to Wildomar & Lake Elsinore",,0,84451002,shp-8-14,0,0,00813
+535863020,8,1,"Counterclockwise to Wildomar & Lake Elsinore",,0,84448502,shp-8-14,0,0,00911
+535864020,8,1,"Counterclockwise to Wildomar & Lake Elsinore",,0,84448702,shp-8-14,0,0,00811
+535865020,8,1,"Counterclockwise to Wildomar & Lake Elsinore",,0,84451002,shp-8-14,0,0,00813
+535866020,8,1,"Counterclockwise to Wildomar",,0,84451302,shp-8-15,0,0,07414
+535845020,8,1,"Clockwise to Wildomar & Lake Elsinore",,1,84448502,shp-8-60,0,0,00911
+535846020,8,1,"Clockwise to Wildomar & Lake Elsinore",,1,84449502,shp-8-60,0,0,00812
+535847020,8,1,"Clockwise to Wildomar & Lake Elsinore",,1,84451002,shp-8-60,0,0,00813
+535848020,8,1,"Clockwise to Wildomar & Lake Elsinore",,1,84448702,shp-8-60,0,0,00811
+535849020,8,1,"Clockwise to Wildomar & Lake Elsinore",,1,84449502,shp-8-60,0,0,00812
+535850020,8,1,"Clockwise to Wildomar & Lake Elsinore",,1,84451002,shp-8-60,0,0,00813
+535851020,8,1,"Clockwise to Wildomar & Lake Elsinore",,1,84448502,shp-8-60,0,0,00911
+535852020,8,1,"Clockwise to Wildomar & Lake Elsinore",,1,84448702,shp-8-60,0,0,00811
+535853020,8,1,"Clockwise to Wildomar & Lake Elsinore",,1,84451002,shp-8-60,0,0,00813
+535854020,8,1,"Clockwise to Wildomar & Lake Elsinore",,1,84451302,shp-8-60,0,0,07414
+535855020,8,1,"Clockwise to Wildomar & Lake Elsinore",,1,84448702,shp-8-60,0,0,00811
+535953020,9,1,"South to Lake Elsinore  ",,0,84449502,shp-9-51,0,0,00812
+535955020,9,1,"South to Lake Elsinore  ",,0,84451002,shp-9-51,0,0,00813
+535957020,9,1,"South to Lake Elsinore  ",,0,84448502,shp-9-51,0,0,00911
+535959020,9,1,"South to Lake Elsinore  ",,0,84448502,shp-9-51,0,0,00911
+535961020,9,1,"South to Lake Elsinore  ",,0,84448502,shp-9-51,0,0,00911
+535963020,9,1,"South to Lake Elsinore  ",,0,84448502,shp-9-51,0,0,00911
+535965020,9,1,"South to Lake Elsinore  ",,0,84448702,shp-9-51,0,0,00811
+535967020,9,1,"South to Lake Elsinore  ",,0,84449502,shp-9-51,0,0,00812
+535969020,9,1,"South to Lake Elsinore  ",,0,84451302,shp-9-51,0,0,07414
+535971020,9,1,"South to Lake Elsinore  ",,0,84448502,shp-9-51,0,0,00911
+535973020,9,1,"South to Lake Elsinore  ",,0,84450702,shp-9-51,0,0,06113
+535954020,9,1,"North to Perris",,1,84448902,shp-9-01,0,0,06112
+535956020,9,1,"North to Perris",,1,84448502,shp-9-01,0,0,00911
+535958020,9,1,"North to Perris",,1,84448502,shp-9-01,0,0,00911
+535960020,9,1,"North to Perris",,1,84448502,shp-9-01,0,0,00911
+535962020,9,1,"North to Perris",,1,84448502,shp-9-01,0,0,00911
+535964020,9,1,"North to Perris",,1,84448702,shp-9-01,0,0,00811
+535966020,9,1,"North to Perris",,1,84449502,shp-9-01,0,0,00812
+535968020,9,1,"North to Perris",,1,84449502,shp-9-01,0,0,00812
+535970020,9,1,"North to Perris",,1,84448502,shp-9-01,0,0,00911
+535972020,9,1,"North to Perris",,1,84448502,shp-9-01,0,0,00911
+535974020,9,1,"North to Perris",,1,84451002,shp-9-01,0,0,00813
+534541010,1,2,"West to West Corona Metrolink",,0,84719901,shp-1-5h,0,0,00119
+534544010,1,2,"West to Corona 6th & Smith",,0,84719401,shp-1-5g,2,2,00120
+534546010,1,2,"West to Corona 6th & Smith",,0,84720201,shp-1-5j,0,0,01304
+534550010,1,2,"West to Corona 6th & Smith",,0,84720301,shp-1-5g,2,2,00123
+534551010,1,2,"West to Corona 6th & Smith",,0,84718301,shp-1-5g,2,2,00117
+534553010,1,2,"West to Corona 6th & Smith",,0,84721101,shp-1-5j,0,0,00129
+534555010,1,2,"West to Corona 6th & Smith",,0,84720101,shp-1-5g,2,2,00131
+534558010,1,2,"West to Corona 6th & Smith",,0,84720301,shp-1-5g,2,2,00123
+534560010,1,2,"West to Corona 6th & Smith",,0,84719701,shp-1-5i,2,2,00112
+534562010,1,2,"West to Corona 6th & Smith",,0,84719401,shp-1-62,0,0,00120
+534564010,1,2,"West to Corona 6th & Smith",,0,84720901,shp-1-5g,2,2,00121
+534565010,1,2,"West to West Corona Metrolink",,0,84711801,shp-1-5e,0,0,00101
+534567010,1,2,"West to Corona 6th & Smith",,0,84712501,shp-1-5g,2,2,00103
+534568010,1,2,"West to West Corona Metrolink",,0,84721901,shp-1-5h,0,0,00127
+534570010,1,2,"West to Corona 6th & Smith",,0,84718601,shp-1-5g,2,2,00106
+534572010,1,2,"West to Corona 6th & Smith",,0,84720701,shp-1-5g,2,2,00126
+534574010,1,2,"West to Corona 6th & Smith",,0,84717301,shp-1-5g,2,2,00107
+534576010,1,2,"West to West Corona Metrolink",,0,84718901,shp-1-5e,0,0,00128
+534577010,1,2,"West to West Corona Metrolink",,0,84718601,shp-1-5h,0,0,00106
+534579010,1,2,"West to Corona 6th & Smith",,0,84725601,shp-1-5j,0,0,00133
+534582010,1,2,"West to Corona 6th & Smith",,0,84718401,shp-1-5g,2,2,00113
+534586010,1,2,"West to Corona 6th & Smith",,0,84716901,shp-1-5g,2,2,00104
+534587010,1,2,"West to Corona 6th & Smith",,0,84712601,shp-1-5i,2,2,00105
+534589010,1,2,"West to Corona 6th & Smith",,0,84717601,shp-1-5g,2,2,00111
+534591010,1,2,"West to Corona 6th & Smith",,0,84720501,shp-1-5j,0,0,00132
+534592010,1,2,"West to West Corona Metrolink",,0,84712501,shp-1-5l,0,0,00103
+534593010,1,2,"West to West Corona Metrolink",,0,84721001,shp-1-5h,0,0,00109
+534595010,1,2,"West to Corona 6th & Smith",,0,84720001,shp-1-5j,0,0,00125
+534599010,1,2,"West to Corona 6th & Smith",,0,84716701,shp-1-5n,2,2,00102
+534600010,1,2,"West to Corona 6th & Smith",,0,84719601,shp-1-62,0,0,00122
+534625010,1,2,"West to Corona 6th & Smith",,0,84718101,shp-1-5g,2,2,00114
+534626010,1,2,"West to Corona 6th & Smith",,0,84720801,shp-1-5g,2,2,00115
+534627010,1,2,"West to Corona 6th & Smith",,0,84721001,shp-1-5g,2,2,00109
+534628010,1,2,"West to Corona 6th & Smith",,0,84711801,shp-1-5g,2,2,00101
+534629010,1,2,"West to Corona 6th & Smith",,0,84712601,shp-1-5g,2,2,00105
+534630010,1,2,"West to Corona 6th & Smith",,0,84719901,shp-1-5g,2,2,00119
+534631010,1,2,"West to Corona 6th & Smith",,0,84719601,shp-1-5g,2,2,00122
+534632010,1,2,"West to Corona 6th & Smith",,0,84717501,shp-1-5g,2,2,00110
+534633010,1,2,"West to Corona 6th & Smith",,0,84720601,shp-1-5g,2,2,00124
+534634010,1,2,"West to Corona 6th & Smith",,0,84720801,shp-1-5g,2,2,00115
+534635010,1,2,"West to Corona 6th & Smith",,0,84720401,shp-1-63,0,0,00130
+534636010,1,2,"West to West Corona Metrolink",,0,84718301,shp-1-5e,0,0,00117
+534637010,1,2,"West to West Corona Metrolink",,0,84720001,shp-1-5e,0,0,00125
+534638010,1,2,"West to Corona 6th & Smith",,0,84719601,shp-1-5g,2,2,00122
+534542010,1,2,"East to UCR",,1,84719401,shp-1-05,2,2,00120
+534543010,1,2,"East to UCR",,1,84719601,shp-1-05,2,2,00122
+534545010,1,2,"East to UCR",,1,84719701,shp-1-05,2,2,00112
+534547010,1,2,"East to UCR",,1,84718301,shp-1-01,0,0,00117
+534548010,1,2,"East to UCR",,1,84720301,shp-1-02,2,2,00123
+534549010,1,2,"East to UCR",,1,84712501,shp-1-05,2,2,00103
+534552010,1,2,"East to UCR",,1,84721001,shp-1-05,2,2,00109
+534554010,1,2,"East to UCR",,1,84712601,shp-1-05,2,2,00105
+534556010,1,2,"East to UCR",,1,84720301,shp-1-02,2,2,00123
+534557010,1,2,"East to UCR",,1,84720101,shp-1-05,2,2,00131
+534559010,1,2,"East to UCR",,1,84712601,shp-1-06,0,0,00105
+534561010,1,2,"East to UCR",,1,84720901,shp-1-05,2,2,00121
+534563010,1,2,"East to UCR",,1,84715801,shp-1-10,0,0,00116
+534566010,1,2,"East to UCR",,1,84718901,shp-1-04,0,0,00128
+534569010,1,2,"East to UCR",,1,84712501,shp-1-01,0,0,00103
+534571010,1,2,"East to UCR",,1,84718601,shp-1-05,2,2,00106
+534573010,1,2,"East to UCR",,1,84718601,shp-1-04,0,0,00106
+534575010,1,2,"East to UCR",,1,84717301,shp-1-05,2,2,00107
+534578010,1,2,"East to UCR",,1,84717201,shp-1-06,0,0,00108
+534580010,1,2,"East to UCR",,1,84721901,shp-1-04,0,0,00127
+534581010,1,2,"East to UCR",,1,84716701,shp-1-02,2,2,00102
+534583010,1,2,"East to UCR",,1,84720701,shp-1-05,2,2,00126
+534584010,1,2,"East to UCR",,1,84720001,shp-1-04,0,0,00125
+534585010,1,2,"East to UCR",,1,84711801,shp-1-04,0,0,00101
+534588010,1,2,"East to UCR",,1,84712601,shp-1-05,2,2,00105
+534590010,1,2,"East to UCR",,1,84717601,shp-1-05,2,2,00111
+534594010,1,2,"East to UCR",,1,84721001,shp-1-04,0,0,00109
+534596010,1,2,"East to UCR",,1,84716501,shp-1-06,0,0,02001
+534597010,1,2,"East to UCR",,1,84719901,shp-1-04,0,0,00119
+534598010,1,2,"East to UCR via DT Metrolink",,1,84712001,shp-1-03,0,0,01502
+534610010,1,2,"East to UCR",,1,84716901,shp-1-06,0,0,00104
+534611010,1,2,"East to UCR",,1,84717601,shp-1-10,0,0,00111
+534612010,1,2,"East to UCR",,1,84718401,shp-1-05,2,2,00113
+534613010,1,2,"East to UCR",,1,84715901,shp-1-10,0,0,00118
+534614010,1,2,"East to UCR",,1,84718101,shp-1-05,2,2,00114
+534615010,1,2,"East to UCR",,1,84720801,shp-1-05,2,2,00115
+534616010,1,2,"East to UCR",,1,84718301,shp-1-05,2,2,00117
+534617010,1,2,"East to UCR",,1,84711801,shp-1-05,2,2,00101
+534618010,1,2,"East to UCR",,1,84716901,shp-1-05,2,2,00104
+534619010,1,2,"East to UCR",,1,84719901,shp-1-05,2,2,00119
+534620010,1,2,"East to UCR",,1,84717501,shp-1-05,2,2,00110
+534621010,1,2,"East to UCR",,1,84719601,shp-1-02,2,2,00122
+534622010,1,2,"East to UCR",,1,84720601,shp-1-05,2,2,00124
+534623010,1,2,"East to UCR",,1,84720801,shp-1-05,2,2,00115
+534415010,10,2,"West to Galleria at Tyler Mall",,0,84714101,shp-10-51,0,0,01001
+534417010,10,2,"West to Galleria at Tyler Mall",,0,84721201,shp-10-51,0,0,01003
+534419010,10,2,"West to Galleria at Tyler Mall",,0,84721201,shp-10-51,0,0,01003
+534421010,10,2,"West to Galleria at Tyler Mall",,0,84721201,shp-10-51,0,0,01003
+534422010,10,2,"West to Galleria at Tyler Mall",,0,84714401,shp-10-51,0,0,01002
+534424010,10,2,"West to Galleria at Tyler Mall",,0,84716801,shp-10-51,0,0,01201
+534426010,10,2,"West to Galleria at Tyler Mall",,0,84721601,shp-10-51,0,0,01004
+534428010,10,2,"West to Galleria at Tyler Mall",,0,84722701,shp-10-51,0,0,01005
+534414010,10,2,"East to Big Springs & Watkins",,1,84714101,shp-10-02,0,0,01001
+534416010,10,2,"East to Big Springs & Watkins",,1,84714101,shp-10-02,0,0,01001
+534418010,10,2,"East to Big Springs & Watkins",,1,84721201,shp-10-02,0,0,01003
+534420010,10,2,"East to Big Springs & Watkins",,1,84721201,shp-10-02,0,0,01003
+534423010,10,2,"East to Big Springs & Watkins",,1,84714401,shp-10-02,0,0,01002
+534425010,10,2,"East to Big Springs & Watkins",,1,84716801,shp-10-02,0,0,01201
+534427010,10,2,"East to Big Springs & Watkins",,1,84721601,shp-10-02,0,0,01004
+534429010,10,2,"East to Big Springs & Watkins",,1,84722701,shp-10-02,0,0,01005
+534319010,11,2," Counterclock to Moreno Valley Mall",,0,84715201,shp-11-01,0,0,01102
+534320010,11,2," Counterclock to Moreno Valley Mall",,0,84715201,shp-11-01,0,0,01102
+534321010,11,2," Counterclock to Moreno Valley Mall",,0,84721401,shp-11-01,0,0,01104
+534322010,11,2," Counterclock to Moreno Valley Mall",,0,84721401,shp-11-01,0,0,01104
+534323010,11,2," Counterclock to Moreno Valley Mall",,0,84721401,shp-11-01,0,0,01104
+534324010,11,2," Counterclock to Moreno Valley Mall",,0,84721401,shp-11-01,0,0,01104
+534325010,11,2," Counterclock to Moreno Valley Mall",,0,84721401,shp-11-01,0,0,01104
+534326010,11,2," Counterclock to Moreno Valley Mall",,0,84721401,shp-11-01,0,0,01104
+534327010,11,2," Counterclock to Moreno Valley Mall",,0,84721401,shp-11-01,0,0,01104
+534328010,11,2," Clockwise to Moreno Valley Mall",,1,84714901,shp-11-51,0,0,01101
+534329010,11,2," Clockwise to Moreno Valley Mall",,1,84714901,shp-11-51,0,0,01101
+534330010,11,2," Clockwise to Moreno Valley Mall",,1,84721301,shp-11-51,0,0,01103
+534331010,11,2," Clockwise to Moreno Valley Mall",,1,84721301,shp-11-51,0,0,01103
+534332010,11,2," Clockwise to Moreno Valley Mall",,1,84721301,shp-11-51,0,0,01103
+534333010,11,2," Clockwise to Moreno Valley Mall",,1,84721301,shp-11-51,0,0,01103
+534334010,11,2," Clockwise to Moreno Valley Mall",,1,84721301,shp-11-51,0,0,01103
+534335010,11,2," Clockwise to Moreno Valley Mall",,1,84721301,shp-11-51,0,0,01103
+534336010,11,2," Clockwise to Moreno Valley Mall",,1,84721301,shp-11-51,0,0,01103
+534254010,12,2,"West to Corona Hills Plaza",,0,84725301,shp-12-56,0,0,01206
+534255010,12,2,"West to Corona Hills Plaza",,0,84721701,shp-12-56,0,0,01207
+534258010,12,2,"West to Corona Hills Plaza",,0,84721701,shp-12-56,0,0,01207
+534259010,12,2,"West to Corona Hills Plaza",,0,84725301,shp-12-56,0,0,01206
+534262010,12,2,"West to Corona Hills Plaza",,0,84713101,shp-12-56,0,0,01202
+534264010,12,2,"West to Corona Hills Plaza",,0,84721801,shp-12-56,0,0,01205
+534265010,12,2,"West to Corona Hills Plaza",,0,84713101,shp-12-56,0,0,01202
+534267010,12,2,"West to Corona Hills Plaza",,0,84721501,shp-12-56,0,0,01204
+534268010,12,2,"West to Corona Hills Plaza",,0,84713301,shp-12-56,0,0,01203
+534270010,12,2,"West to Corona Hills Plaza",,0,84716801,shp-12-56,0,0,01201
+534272010,12,2,"West to Corona Hills Plaza",,0,84721501,shp-12-56,0,0,01204
+534273010,12,2,"West to Corona Hills Plaza",,0,84721501,shp-12-56,0,0,01204
+534279010,12,2,"West to Corona Hills Plaza",,0,84713101,shp-12-57,0,0,01202
+534253010,12,2,"East to La Cadena & Stephens",,1,84721501,shp-12-10,0,0,01204
+534256010,12,2,"East to La Cadena & Stephens",,1,84725301,shp-12-11,0,0,01206
+534257010,12,2,"East to La Cadena & Stephens",,1,84721501,shp-12-11,0,0,01204
+534260010,12,2,"East to La Cadena & Stephens",,1,84713101,shp-12-11,0,0,01202
+534261010,12,2,"East to La Cadena & Stephens",,1,84721801,shp-12-11,0,0,01205
+534263010,12,2,"East to La Cadena & Stephens",,1,84713101,shp-12-11,0,0,01202
+534266010,12,2,"East to La Cadena & Stephens",,1,84713301,shp-12-11,0,0,01203
+534269010,12,2,"East to La Cadena & Stephens",,1,84713301,shp-12-11,0,0,01203
+534271010,12,2,"East to La Cadena & Stephens",,1,84721701,shp-12-11,0,0,01207
+534274010,12,2,"East to La Cadena & Stephens",,1,84721501,shp-12-11,0,0,01204
+534275010,12,2,"East to La Cadena & Stephens",,1,84716801,shp-12-11,0,0,01201
+534276010,12,2,"East to La Cadena & Stephens",,1,84713101,shp-12-11,0,0,01202
+534277010,12,2,"East to La Cadena & Stephens",,1,84716801,shp-12-11,0,0,01201
+534340010,13,2,"West to Galleria at Tyler",,0,84713401,shp-13-58,0,0,01303
+534341010,13,2,"West to Galleria at Tyler",,0,84712401,shp-13-58,0,0,01302
+534342010,13,2,"West to Galleria at Tyler Mall",,0,84711601,shp-13-57,0,0,01301
+534343010,13,2,"West to Galleria at Tyler Mall",,0,84711701,shp-13-57,0,0,02701
+534344010,13,2,"West to Galleria at Tyler Mall",,0,84717501,shp-13-57,0,0,00110
+534345010,13,2,"West to Galleria at Tyler Mall",,0,84713401,shp-13-57,0,0,01303
+534346010,13,2,"West to Galleria at Tyler Mall",,0,84712401,shp-13-57,0,0,01302
+534347010,13,2,"West to Galleria at Tyler Mall",,0,84720001,shp-13-57,0,0,00125
+534348010,13,2,"West to Galleria at Tyler Mall",,0,84720201,shp-13-57,0,0,01304
+534349010,13,2,"West to Galleria at Tyler Mall",,0,84724101,shp-13-57,0,0,02703
+534350010,13,2,"West to Galleria at Tyler Mall",,0,84722001,shp-13-57,0,0,02702
+534351010,13,2,"East to Hunter Park",,1,84712401,shp-13-10,0,0,01302
+534352010,13,2,"East to Hunter Park",,1,84711601,shp-13-10,0,0,01301
+534353010,13,2,"East to Hunter Park",,1,84711701,shp-13-10,0,0,02701
+534354010,13,2,"East to Hunter Park",,1,84717501,shp-13-10,0,0,00110
+534355010,13,2,"East to Hunter Park",,1,84713401,shp-13-10,0,0,01303
+534356010,13,2,"East to Hunter Park",,1,84712401,shp-13-10,0,0,01302
+534357010,13,2,"East to Hunter Park",,1,84711601,shp-13-10,0,0,01301
+534358010,13,2,"East to Downtown Riverside",,1,84720201,shp-13-02,0,0,01304
+534359010,13,2,"East to Downtown Riverside",,1,84724101,shp-13-02,0,0,02703
+534360010,13,2,"East to Downtown Riverside",,1,84722001,shp-13-02,0,0,02702
+534361010,13,2,"East to Downtown Riverside",,1,84721901,shp-13-02,0,0,00127
+534362010,13,2,"East to Downtown Riverside",,1,84719801,shp-13-11,0,0,02704
+534299010,14,2,"West to Galleria at Tyler",,0,84714301,shp-14-55,0,0,01401
+534307010,14,2,"West to Galleria at Tyler",,0,84714501,shp-14-56,0,0,01402
+534308010,14,2,"West to Galleria at Tyler",,0,84714601,shp-14-55,0,0,01403
+534309010,14,2,"West to Galleria at Tyler",,0,84722201,shp-14-55,0,0,01404
+534310010,14,2,"West to Galleria at Tyler",,0,84714301,shp-14-55,0,0,01401
+534311010,14,2,"West to Galleria at Tyler",,0,84714601,shp-14-55,0,0,01403
+534312010,14,2,"West to Galleria at Tyler",,0,84722201,shp-14-55,0,0,01404
+534313010,14,2,"West to Galleria at Tyler",,0,84722101,shp-14-55,0,0,01405
+534314010,14,2,"West to Galleria at Tyler",,0,84722301,shp-14-55,0,0,01406
+534315010,14,2,"West to Galleria at Tyler",,0,84722201,shp-14-55,0,0,01404
+534298010,14,2,"East to Loma Linda",,1,84714601,shp-14-05,0,0,01403
+534300010,14,2,"East to Loma Linda",,1,84714301,shp-14-03,0,0,01401
+534301010,14,2,"East to Loma Linda",,1,84714301,shp-14-05,0,0,01401
+534302010,14,2,"East to Loma Linda",,1,84722201,shp-14-05,0,0,01404
+534303010,14,2,"East to Loma Linda",,1,84714301,shp-14-05,0,0,01401
+534304010,14,2,"East to Loma Linda",,1,84714601,shp-14-05,0,0,01403
+534305010,14,2,"East to Loma Linda",,1,84722201,shp-14-05,0,0,01404
+534306010,14,2,"East to Loma Linda",,1,84722101,shp-14-05,0,0,01405
+534316010,14,2,"East to Downtown Riverside",,1,84722301,shp-14-01,0,0,01406
+534317010,14,2,"East to Loma Linda",,1,84714601,shp-14-03,0,0,01403
+534318010,14,2,"East to Loma Linda",,1,84714501,shp-14-05,0,0,01402
+534645010,15,2,"West to Merced & Magnolia",,0,84722501,shp-15-55,0,0,01508
+534646010,15,2,"West to Merced & Magnolia",,0,84717901,shp-15-55,0,0,01507
+534650010,15,2,"West to Merced & Magnolia",,0,84712001,shp-15-55,0,0,01502
+534651010,15,2,"West to Merced & Magnolia",,0,84717801,shp-15-55,0,0,01504
+534652010,15,2,"West to Merced & Magnolia",,0,84722401,shp-15-55,0,0,01506
+534653010,15,2,"West to Merced & Magnolia",,0,84717901,shp-15-55,0,0,01507
+534654010,15,2,"West to Merced & Magnolia",,0,84722501,shp-15-55,0,0,01508
+534665010,15,2,"West to Merced & Magnolia",,0,84717201,shp-15-55,0,0,00108
+534666010,15,2,"West to Merced & Magnolia",,0,84712001,shp-15-56,0,0,01502
+534667010,15,2,"West to Merced & Magnolia",,0,84713501,shp-15-55,0,0,01503
+534668010,15,2,"West to Merced & Magnolia",,0,84717801,shp-15-55,0,0,01504
+534669010,15,2,"West to Merced & Magnolia",,0,84722601,shp-15-55,0,0,01505
+534670010,15,2,"West to Merced & Magnolia",,0,84716601,shp-15-55,0,0,01501
+534671010,15,2,"West to Merced & Magnolia",,0,84717901,shp-15-55,0,0,01507
+534672010,15,2,"West to Merced & Magnolia",,0,84722601,shp-15-55,0,0,01505
+534674010,15,2,"West to Merced & Magnolia",,0,84716601,shp-15-55,0,0,01501
+534677010,15,2,"West to Merced & Magnolia",,0,84722601,shp-15-55,0,0,01505
+534678010,15,2,"West to Merced & Magnolia",,0,84716901,shp-15-56,0,0,00104
+534682010,15,2,"West to Merced & Magnolia",,0,84722401,shp-15-55,0,0,01506
+534647010,15,2,"East to Downtown Riverside",,1,84717801,shp-15-01,0,0,01504
+534648010,15,2,"East to Downtown Riverside",,1,84717801,shp-15-01,0,0,01504
+534649010,15,2,"East to Downtown Riverside",,1,84717901,shp-15-03,0,0,01507
+534655010,15,2,"East to Downtown Riverside",,1,84716901,shp-15-01,0,0,00104
+534656010,15,2,"East to Downtown Riverside",,1,84717801,shp-15-01,0,0,01504
+534657010,15,2,"East to Downtown Riverside",,1,84713501,shp-15-01,0,0,01503
+534658010,15,2,"East to Downtown Riverside",,1,84716601,shp-15-01,0,0,01501
+534659010,15,2,"East to Downtown Riverside",,1,84713501,shp-15-01,0,0,01503
+534660010,15,2,"East to Downtown Riverside",,1,84722601,shp-15-01,0,0,01505
+534661010,15,2,"East to Downtown Riverside",,1,84717901,shp-15-01,0,0,01507
+534662010,15,2,"East to Downtown Riverside",,1,84722501,shp-15-03,0,0,01508
+534663010,15,2,"East to Downtown Riverside",,1,84722601,shp-15-03,0,0,01505
+534664010,15,2,"East to Downtown Riverside",,1,84712001,shp-15-01,0,0,01502
+534673010,15,2,"East to Downtown Riverside",,1,84722401,shp-15-01,0,0,01506
+534675010,15,2,"East to Downtown Riverside",,1,84712001,shp-15-01,0,0,01502
+534676010,15,2,"East to Downtown Riverside",,1,84722401,shp-15-01,0,0,01506
+534679010,15,2,"East to Downtown Riverside",,1,84722401,shp-15-01,0,0,01506
+534681010,15,2,"East to Downtown Riverside",,1,84722601,shp-15-01,0,0,01505
+534170010,16,2,"West to UC Riverside",,0,84711801,shp-16-56,0,0,00101
+534171010,16,2,"West to UC Riverside",,0,84716101,shp-16-56,0,0,01902
+534172010,16,2,"West to UC Riverside",,0,84723101,shp-16-56,0,0,01904
+534173010,16,2,"West to UC Riverside",,0,84712801,shp-16-56,0,0,01903
+534174010,16,2,"West to UC Riverside",,0,84717301,shp-16-56,0,0,00107
+534175010,16,2,"West to UC Riverside",,0,84716401,shp-16-56,0,0,01901
+534176010,16,2,"West to UC Riverside",,0,84713901,shp-16-56,0,0,01905
+534177010,16,2,"West to UC Riverside",,0,84715001,shp-16-56,0,0,01908
+534178010,16,2,"West to UC Riverside",,0,84713601,shp-16-56,0,0,02203
+534179010,16,2,"West to UC Riverside",,0,84716701,shp-16-56,0,0,00102
+534180010,16,2,"West to UC Riverside",,0,84723101,shp-16-56,0,0,01904
+534181010,16,2,"West to UC Riverside",,0,84712801,shp-16-56,0,0,01903
+534182010,16,2,"West to UC Riverside",,0,84723601,shp-16-56,0,0,01919
+534183010,16,2,"West to UC Riverside",,0,84723801,shp-16-56,0,0,02206
+534184010,16,2,"West to UC Riverside",,0,84723701,shp-16-56,0,0,01916
+534185010,16,2,"West to UC Riverside",,0,84723901,shp-16-56,0,0,01917
+534186010,16,2,"West to UC Riverside",,0,84723501,shp-16-56,0,0,01921
+534187010,16,2,"West to UC Riverside",,0,84718201,shp-16-56,0,0,01914
+534188010,16,2,"West to UC Riverside",,0,84723201,shp-16-56,0,0,01923
+534189010,16,2,"West to UC Riverside",,0,84723401,shp-16-56,0,0,01920
+534190010,16,2,"West to UC Riverside",,0,84723601,shp-16-56,0,0,01919
+534191010,16,2,"West to UC Riverside",,0,84718501,shp-16-56,0,0,01912
+534192010,16,2,"West to UC Riverside",,0,84723701,shp-16-56,0,0,01916
+534193010,16,2,"West to UC Riverside",,0,84723901,shp-16-56,0,0,01917
+534194010,16,2,"West to UC Riverside",,0,84723501,shp-16-56,0,0,01921
+534233010,16,2,"West to UC Riverside",,0,84718501,shp-16-56,0,0,01912
+534234010,16,2,"West to UC Riverside",,0,84714801,shp-16-56,0,0,01907
+534235010,16,2,"West to UC Riverside",,0,84716301,shp-16-56,0,0,01906
+534236010,16,2,"West to UC Riverside",,0,84715501,shp-16-56,0,0,01911
+534237010,16,2,"West to UC Riverside",,0,84715101,shp-16-56,0,0,01909
+534238010,16,2,"West to UC Riverside",,0,84717101,shp-16-56,0,0,01801
+534239010,16,2,"West to UC Riverside",,0,84715301,shp-16-56,0,0,01910
+534240010,16,2,"West to UC Riverside",,0,84715701,shp-16-56,0,0,01915
+534241010,16,2,"West to UC Riverside",,0,84718501,shp-16-56,0,0,01912
+534242010,16,2,"West to UC Riverside",,0,84714801,shp-16-56,0,0,01907
+534243010,16,2,"West to UC Riverside",,0,84718701,shp-16-56,0,0,01918
+534244010,16,2,"West to UC Riverside",,0,84715501,shp-16-56,0,0,01911
+534245010,16,2,"West to UC Riverside",,0,84719301,shp-16-56,0,0,02207
+534246010,16,2,"West to UC Riverside",,0,84722901,shp-16-56,0,0,01922
+534247010,16,2,"West to UC Riverside",,0,84715301,shp-16-56,0,0,01910
+534248010,16,2,"West to UC Riverside",,0,84715701,shp-16-56,0,0,01915
+534249010,16,2,"West to UC Riverside",,0,84721601,shp-16-56,0,0,01004
+534250010,16,2,"West to UC Riverside",,0,84723401,shp-16-56,0,0,01920
+534195010,16,2,"East to Moreno Valley Mall",,1,84713901,shp-16-06,0,0,01905
+534196010,16,2,"East to Moreno Valley Mall",,1,84716301,shp-16-06,0,0,01906
+534197010,16,2,"East to Moreno Valley Mall",,1,84716701,shp-16-06,0,0,00102
+534198010,16,2,"East to Moreno Valley Mall",,1,84723101,shp-16-06,0,0,01904
+534199010,16,2,"East to Moreno Valley Mall",,1,84712801,shp-16-06,0,0,01903
+534200010,16,2,"East to Moreno Valley Mall",,1,84718201,shp-16-06,0,0,01914
+534201010,16,2,"East to Moreno Valley Mall",,1,84716401,shp-16-06,0,0,01901
+534202010,16,2,"East to Moreno Valley Mall",,1,84723701,shp-16-06,0,0,01916
+534203010,16,2,"East to Moreno Valley Mall",,1,84723901,shp-16-06,0,0,01917
+534204010,16,2,"East to Moreno Valley Mall",,1,84713601,shp-16-06,0,0,02203
+534205010,16,2,"East to Moreno Valley Mall",,1,84716701,shp-16-06,0,0,00102
+534206010,16,2,"East to Moreno Valley Mall",,1,84723101,shp-16-06,0,0,01904
+534207010,16,2,"East to Moreno Valley Mall",,1,84723401,shp-16-06,0,0,01920
+534208010,16,2,"East to Moreno Valley Mall",,1,84723601,shp-16-06,0,0,01919
+534209010,16,2,"East to Moreno Valley Mall",,1,84723801,shp-16-06,0,0,02206
+534210010,16,2,"East to Moreno Valley Mall",,1,84723701,shp-16-06,0,0,01916
+534211010,16,2,"East to Moreno Valley Mall",,1,84723901,shp-16-06,0,0,01917
+534212010,16,2,"East to Moreno Valley Mall",,1,84723501,shp-16-06,0,0,01921
+534213010,16,2,"East to Moreno Valley Mall",,1,84718201,shp-16-06,0,0,01914
+534214010,16,2,"East to Moreno Valley Mall",,1,84723201,shp-16-06,0,0,01923
+534215010,16,2,"East to Moreno Valley Mall",,1,84723601,shp-16-06,0,0,01919
+534216010,16,2,"East to Moreno Valley Mall",,1,84723401,shp-16-06,0,0,01920
+534217010,16,2,"East to Moreno Valley Mall",,1,84724501,shp-16-06,0,0,02208
+534218010,16,2,"East to Moreno Valley Mall",,1,84715301,shp-16-06,0,0,01910
+534219010,16,2,"East to Moreno Valley Mall",,1,84715701,shp-16-06,0,0,01915
+534220010,16,2,"East to Moreno Valley Mall",,1,84718501,shp-16-06,0,0,01912
+534221010,16,2,"East to Moreno Valley Mall",,1,84714801,shp-16-06,0,0,01907
+534222010,16,2,"East to Moreno Valley Mall",,1,84716301,shp-16-06,0,0,01906
+534223010,16,2,"East to Moreno Valley Mall",,1,84715501,shp-16-06,0,0,01911
+534224010,16,2,"East to Moreno Valley Mall",,1,84719301,shp-16-06,0,0,02207
+534225010,16,2,"East to Moreno Valley Mall",,1,84717101,shp-16-06,0,0,01801
+534226010,16,2,"East to Moreno Valley Mall",,1,84715301,shp-16-06,0,0,01910
+534227010,16,2,"East to Moreno Valley Mall",,1,84715701,shp-16-06,0,0,01915
+534228010,16,2,"East to Moreno Valley Mall",,1,84717401,shp-16-06,0,0,01924
+534229010,16,2,"East to Moreno Valley Mall",,1,84714801,shp-16-06,0,0,01907
+534230010,16,2,"East to Moreno Valley Mall",,1,84719101,shp-16-06,0,0,01925
+534231010,16,2,"East to Moreno Valley Mall",,1,84715501,shp-16-06,0,0,01911
+534232010,16,2,"East to Moreno Valley Mall",,1,84721601,shp-16-06,0,0,01004
+534251010,16,2,"East to Moreno Valley Mall",,1,84723501,shp-16-06,0,0,01921
+534252010,16,2,"East to Moreno Valley Mall",,1,84723401,shp-16-06,0,0,01920
+534375010,18,2,"South to Moreno Valley College",,0,84723001,shp-18-51,0,0,01803
+534376010,18,2,"South to Moreno Valley College",,0,84717101,shp-18-51,0,0,01801
+534377010,18,2,"South to Moreno Valley College",,0,84717101,shp-18-51,0,0,01801
+534378010,18,2,"South to Moreno Valley College",,0,84714201,shp-18-51,0,0,01802
+534379010,18,2,"South to Moreno Valley College",,0,84723001,shp-18-51,0,0,01803
+534380010,18,2,"South to Moreno Valley College",,0,84722801,shp-18-51,0,0,01804
+534381010,18,2,"South to Moreno Valley College",,0,84722801,shp-18-51,0,0,01804
+534382010,18,2,"South to Moreno Valley College",,0,84722801,shp-18-51,0,0,01804
+534383010,18,2,"South to Moreno Valley College",,0,84723001,shp-18-51,0,0,01803
+534384010,18,2,"South to Moreno Valley College",,0,84723001,shp-18-51,0,0,01803
+534363010,18,2,"North to Moreno Valley Mall",,1,84723001,shp-18-08,0,0,01803
+534364010,18,2,"North to Moreno Valley Mall",,1,84723001,shp-18-08,0,0,01803
+534365010,18,2,"North to Moreno Valley Mall",,1,84723001,shp-18-08,0,0,01803
+534366010,18,2,"North to Moreno Valley Mall",,1,84722801,shp-18-08,0,0,01804
+534367010,18,2,"North to Moreno Valley Mall",,1,84723001,shp-18-08,0,0,01803
+534368010,18,2,"North to Moreno Valley Mall",,1,84722801,shp-18-08,0,0,01804
+534369010,18,2,"North to Moreno Valley Mall",,1,84722801,shp-18-08,0,0,01804
+534370010,18,2,"North to Moreno Valley Mall",,1,84717101,shp-18-08,0,0,01801
+534371010,18,2,"North to Moreno Valley Mall",,1,84717101,shp-18-08,0,0,01801
+534372010,18,2,"North to Moreno Valley Mall",,1,84714201,shp-18-08,0,0,01802
+534373010,18,2,"North to Moreno Valley Mall",,1,84714201,shp-18-08,0,0,01802
+534374010,18,2,"North to Moreno Valley Mall",,1,84717101,shp-18-08,0,0,01801
+534710010,19,2,"South to Perris Station Transit Center",,0,84716401,shp-19-57,0,0,01901
+534711010,19,2,"South to Perris Station Transit Center",,0,84717301,shp-19-57,0,0,00107
+534712010,19,2,"South to Perris Station Transit Center",,0,84713901,shp-19-57,0,0,01905
+534713010,19,2,"South to Perris Station Transit Center",,0,84716301,shp-19-57,0,0,01906
+534714010,19,2,"South to Perris Station Transit Center",,0,84716701,shp-19-57,0,0,00102
+534715010,19,2,"South to Perris Station Transit Center",,0,84723101,shp-19-57,0,0,01904
+534716010,19,2,"South to Perris Station Transit Center",,0,84712801,shp-19-57,0,0,01903
+534717010,19,2,"South to Perris Station Transit Center",,0,84718201,shp-19-57,0,0,01914
+534718010,19,2,"South to Perris Station Transit Center",,0,84716401,shp-19-57,0,0,01901
+534719010,19,2,"South to Perris Station Transit Center",,0,84723701,shp-19-57,0,0,01916
+534720010,19,2,"South to Perris Station Transit Center",,0,84723901,shp-19-57,0,0,01917
+534721010,19,2,"South to Perris Station Transit Center",,0,84713601,shp-19-57,0,0,02203
+534722010,19,2,"South to Perris Station Transit Center",,0,84718201,shp-19-57,0,0,01914
+534723010,19,2,"South to Perris Station Transit Center",,0,84723101,shp-19-57,0,0,01904
+534724010,19,2,"South to Perris Station Transit Center",,0,84723401,shp-19-57,0,0,01920
+534725010,19,2,"South to Perris Station Transit Center",,0,84723601,shp-19-57,0,0,01919
+534726010,19,2,"South to Perris Station Transit Center",,0,84723801,shp-19-57,0,0,02206
+534727010,19,2,"South to Perris Station Transit Center",,0,84723701,shp-19-57,0,0,01916
+534728010,19,2,"South to Perris Station Transit Center",,0,84723901,shp-19-57,0,0,01917
+534729010,19,2,"South to Perris Station Transit Center",,0,84723501,shp-19-57,0,0,01921
+534730010,19,2,"South to Perris Station Transit Center",,0,84718201,shp-19-57,0,0,01914
+534731010,19,2,"South to Perris Station Transit Center",,0,84723201,shp-19-57,0,0,01923
+534732010,19,2,"South to Perris Station Transit Center",,0,84723601,shp-19-57,0,0,01919
+534733010,19,2,"South to Perris Station Transit Center",,0,84724501,shp-19-57,0,0,02208
+534735010,19,2,"South to Perris Station Transit Center",,0,84723401,shp-19-57,0,0,01920
+534747010,19,2,"South to Perris Station Transit Center",,0,84723501,shp-19-57,0,0,01921
+534748010,19,2,"South to Perris Station Transit Center",,0,84723301,shp-19-57,0,0,01926
+534764010,19,2,"South to Perris Station Transit Center",,0,84715101,shp-19-57,0,0,01909
+534765010,19,2,"South to Perris Station Transit Center",,0,84715401,shp-19-57,0,0,01913
+534766010,19,2,"South to Perris Station Transit Center",,0,84715301,shp-19-57,0,0,01910
+534767010,19,2,"South to Perris Station Transit Center",,0,84715701,shp-19-57,0,0,01915
+534768010,19,2,"South to Perris Station Transit Center",,0,84718501,shp-19-57,0,0,01912
+534769010,19,2,"South to Perris Station Transit Center",,0,84714801,shp-19-57,0,0,01907
+534770010,19,2,"South to Perris Station Transit Center",,0,84718701,shp-19-57,0,0,01918
+534771010,19,2,"South to Perris Station Transit Center",,0,84715501,shp-19-57,0,0,01911
+534772010,19,2,"South to Perris Station Transit Center",,0,84719301,shp-19-57,0,0,02207
+534773010,19,2,"South to Perris Station Transit Center",,0,84722901,shp-19-57,0,0,01922
+534774010,19,2,"South to Perris Station Transit Center",,0,84715301,shp-19-57,0,0,01910
+534775010,19,2,"South to Perris Station Transit Center",,0,84715701,shp-19-57,0,0,01915
+534776010,19,2,"South to Perris Station Transit Center",,0,84717401,shp-19-57,0,0,01924
+534777010,19,2,"South to Perris Station Transit Center",,0,84714801,shp-19-57,0,0,01907
+534778010,19,2,"South to Perris Station Transit Center",,0,84719101,shp-19-57,0,0,01925
+534779010,19,2,"South to Perris Station Transit Center",,0,84715501,shp-19-57,0,0,01911
+534780010,19,2,"South to Perris Station Transit Center",,0,84721601,shp-19-57,0,0,01004
+534782010,19,2,"South to Perris Station Transit Center",,0,84712801,shp-19-57,0,0,01903
+534685010,19,2,"North to Moreno Valley Mall",,1,84711801,shp-19-02,0,0,00101
+534686010,19,2,"North to Moreno Valley Mall",,1,84716101,shp-19-02,0,0,01902
+534687010,19,2,"North to Moreno Valley Mall",,1,84723101,shp-19-02,0,0,01904
+534688010,19,2,"North to Moreno Valley Mall",,1,84712801,shp-19-02,0,0,01903
+534689010,19,2,"North to Moreno Valley Mall",,1,84717301,shp-19-02,0,0,00107
+534690010,19,2,"North to Moreno Valley Mall",,1,84716401,shp-19-02,0,0,01901
+534691010,19,2,"North to Moreno Valley Mall",,1,84713901,shp-19-02,0,0,01905
+534692010,19,2,"North to Moreno Valley Mall",,1,84715001,shp-19-02,0,0,01908
+534693010,19,2,"North to Moreno Valley Mall",,1,84713601,shp-19-02,0,0,02203
+534694010,19,2,"North to Moreno Valley Mall",,1,84716701,shp-19-02,0,0,00102
+534695010,19,2,"North to Moreno Valley Mall",,1,84723101,shp-19-02,0,0,01904
+534696010,19,2,"North to Moreno Valley Mall",,1,84712801,shp-19-02,0,0,01903
+534697010,19,2,"North to Moreno Valley Mall",,1,84718201,shp-19-02,0,0,01914
+534698010,19,2,"North to Moreno Valley Mall",,1,84723801,shp-19-02,0,0,02206
+534699010,19,2,"North to Moreno Valley Mall",,1,84723701,shp-19-02,0,0,01916
+534700010,19,2,"North to Moreno Valley Mall",,1,84723901,shp-19-02,0,0,01917
+534701010,19,2,"North to Moreno Valley Mall",,1,84723501,shp-19-02,0,0,01921
+534702010,19,2,"North to Moreno Valley Mall",,1,84718201,shp-19-02,0,0,01914
+534703010,19,2,"North to Moreno Valley Mall",,1,84723201,shp-19-02,0,0,01923
+534704010,19,2,"North to Moreno Valley Mall",,1,84723401,shp-19-02,0,0,01920
+534705010,19,2,"North to Moreno Valley Mall",,1,84723601,shp-19-02,0,0,01919
+534706010,19,2,"North to Moreno Valley Mall",,1,84718501,shp-19-02,0,0,01912
+534707010,19,2,"North to Moreno Valley Mall",,1,84723701,shp-19-02,0,0,01916
+534708010,19,2,"North to Moreno Valley Mall",,1,84723901,shp-19-02,0,0,01917
+534709010,19,2,"North to Moreno Valley Mall",,1,84723501,shp-19-02,0,0,01921
+534734010,19,2,"North to Moreno Valley Mall",,1,84721601,shp-19-02,0,0,01004
+534742010,19,2,"North to Moreno Valley Mall",,1,84716401,shp-19-02,0,0,01901
+534744010,19,2,"North to Moreno Valley Mall",,1,84723401,shp-19-02,0,0,01920
+534745010,19,2,"North to Moreno Valley Mall",,1,84723301,shp-19-02,0,0,01926
+534750010,19,2,"North to Moreno Valley Mall",,1,84716301,shp-19-02,0,0,01906
+534751010,19,2,"North to Moreno Valley Mall",,1,84715501,shp-19-02,0,0,01911
+534752010,19,2,"North to Moreno Valley Mall",,1,84715101,shp-19-02,0,0,01909
+534753010,19,2,"North to Moreno Valley Mall",,1,84715401,shp-19-02,0,0,01913
+534754010,19,2,"North to Moreno Valley Mall",,1,84715301,shp-19-02,0,0,01910
+534755010,19,2,"North to Moreno Valley Mall",,1,84715701,shp-19-02,0,0,01915
+534756010,19,2,"North to Moreno Valley Mall",,1,84718501,shp-19-02,0,0,01912
+534757010,19,2,"North to Moreno Valley Mall",,1,84714801,shp-19-02,0,0,01907
+534758010,19,2,"North to Moreno Valley Mall",,1,84718701,shp-19-02,0,0,01918
+534759010,19,2,"North to Moreno Valley Mall",,1,84715501,shp-19-02,0,0,01911
+534760010,19,2,"North to Moreno Valley Mall",,1,84719301,shp-19-02,0,0,02207
+534761010,19,2,"North to Moreno Valley Mall",,1,84722901,shp-19-02,0,0,01922
+534762010,19,2,"North to Moreno Valley Mall",,1,84715301,shp-19-02,0,0,01910
+534763010,19,2,"North to Moreno Valley Mall",,1,84715701,shp-19-02,0,0,01915
+534781010,19,2,"North to Moreno Valley Mall",,1,84714801,shp-19-02,0,0,01907
+534401010,20,2,"West to Magnolia & Elizabeth",,0,84713001,shp-20-57,0,0,02003
+534402010,20,2,"West to Magnolia & Elizabeth",,0,84717001,shp-20-56,0,0,02002
+534403010,20,2,"West to Magnolia & Elizabeth",,0,84716501,shp-20-56,0,0,02001
+534404010,20,2,"West to Magnolia & Elizabeth",,0,84713001,shp-20-56,0,0,02003
+534405010,20,2,"West to Magnolia & Elizabeth",,0,84717001,shp-20-56,0,0,02002
+534406010,20,2,"West to Magnolia & Elizabeth",,0,84716501,shp-20-56,0,0,02001
+534407010,20,2,"West to Magnolia & Elizabeth",,0,84713001,shp-20-56,0,0,02003
+534408010,20,2,"West to Magnolia & Elizabeth",,0,84724001,shp-20-56,0,0,02004
+534409010,20,2,"West to Magnolia & Elizabeth",,0,84724201,shp-20-56,0,0,02005
+534410010,20,2,"West to Magnolia & Elizabeth",,0,84717701,shp-20-56,0,0,02006
+534411010,20,2,"West to Magnolia & Elizabeth",,0,84724001,shp-20-57,0,0,02004
+534412010,20,2,"West to Magnolia & Elizabeth",,0,84724201,shp-20-56,0,0,02005
+534413010,20,2,"West to Magnolia & Elizabeth",,0,84717701,shp-20-56,0,0,02006
+534387010,20,2,"East to Moreno Valley College",,1,84717001,shp-20-03,0,0,02002
+534388010,20,2,"East to Moreno Valley College",,1,84716501,shp-20-03,0,0,02001
+534389010,20,2,"East to Moreno Valley College",,1,84713001,shp-20-04,0,0,02003
+534390010,20,2,"East to Moreno Valley College",,1,84717001,shp-20-04,0,0,02002
+534391010,20,2,"East to Moreno Valley College",,1,84716501,shp-20-04,0,0,02001
+534392010,20,2,"East to Moreno Valley College",,1,84713001,shp-20-04,0,0,02003
+534393010,20,2,"East to Moreno Valley College",,1,84724001,shp-20-04,0,0,02004
+534394010,20,2,"East to Moreno Valley College",,1,84724201,shp-20-04,0,0,02005
+534395010,20,2,"East to Moreno Valley College",,1,84717701,shp-20-04,0,0,02006
+534396010,20,2,"East to Moreno Valley College",,1,84724001,shp-20-04,0,0,02004
+534397010,20,2,"East to Moreno Valley College",,1,84724201,shp-20-04,0,0,02005
+534398010,20,2,"East to Moreno Valley College",,1,84717701,shp-20-03,0,0,02006
+534399010,20,2,"East to Moreno Valley College",,1,84724001,shp-20-04,0,0,02004
+534400010,20,2,"East to Moreno Valley College",,1,84724201,shp-20-04,0,0,02005
+534289010,200,2,"West to Anaheim Express",,0,84711901,shp-200-54,2,2,20001
+534290010,200,2,"West to Anaheim Express",,0,84713801,shp-200-54,2,2,20002
+534291010,200,2,"West to Anaheim Express",,0,84714701,shp-200-54,2,2,20003
+534292010,200,2,"West to Anaheim Express",,0,84725201,shp-200-54,2,2,20004
+534293010,200,2,"West to Anaheim Express",,0,84725501,shp-200-54,2,2,20005
+534294010,200,2,"West to Anaheim Express",,0,84719501,shp-200-54,2,2,20006
+534295010,200,2,"West to Anaheim Express",,0,84725401,shp-200-54,2,2,20007
+534296010,200,2,"West to Anaheim Express",,0,84725701,shp-200-54,2,2,20008
+534297010,200,2,"West to Anaheim Express",,0,84719201,shp-200-54,2,2,20009
+534280010,200,2,"East to San Bernardino Express",,1,84711901,shp-200-04,2,2,20001
+534281010,200,2,"East to San Bernardino Express",,1,84713801,shp-200-04,2,2,20002
+534282010,200,2,"East to San Bernardino Express",,1,84714701,shp-200-04,2,2,20003
+534283010,200,2,"East to San Bernardino Express",,1,84725201,shp-200-04,2,2,20004
+534284010,200,2,"East to San Bernardino Express",,1,84725501,shp-200-04,2,2,20005
+534285010,200,2,"East to San Bernardino Express",,1,84719501,shp-200-04,2,2,20006
+534286010,200,2,"East to San Bernardino Express",,1,84725401,shp-200-04,2,2,20007
+534287010,200,2,"East to San Bernardino Express",,1,84725701,shp-200-04,2,2,20008
+534288010,200,2,"East to San Bernardino Express",,1,84719201,shp-200-04,2,2,20009
+534435010,21,2,"South to Galleria at Tyler",,0,84717601,shp-21-59,0,0,00111
+534437010,21,2,"South to Galleria at Tyler",,0,84718001,shp-21-59,0,0,02102
+534439010,21,2,"South to Galleria at Tyler",,0,84718001,shp-21-59,0,0,02102
+534441010,21,2,"South to Galleria at Tyler",,0,84718001,shp-21-59,0,0,02102
+534443010,21,2,"South to Galleria at Tyler",,0,84713701,shp-21-59,0,0,02101
+534445010,21,2,"South to Galleria at Tyler",,0,84713701,shp-21-59,0,0,02101
+534447010,21,2,"South to Galleria at Tyler",,0,84713701,shp-21-59,0,0,02101
+534449010,21,2,"South to Galleria at Tyler",,0,84724301,shp-21-59,0,0,02103
+534451010,21,2,"South to Galleria at Tyler",,0,84724301,shp-21-59,0,0,02103
+534434010,21,2,"North to Country Village & Fontana",,1,84717601,shp-21-02,0,0,00111
+534436010,21,2,"North to Country Village & Fontana",,1,84718001,shp-21-02,0,0,02102
+534438010,21,2,"North to Country Village & Fontana",,1,84718001,shp-21-02,0,0,02102
+534440010,21,2,"North to Country Village & Fontana",,1,84718001,shp-21-02,0,0,02102
+534442010,21,2,"North to Country Village & Fontana",,1,84718001,shp-21-02,0,0,02102
+534444010,21,2,"North to Country Village & Fontana",,1,84713701,shp-21-02,0,0,02101
+534446010,21,2,"North to Country Village & Fontana",,1,84713701,shp-21-02,0,0,02101
+534448010,21,2,"North to Country Village & Fontana",,1,84713701,shp-21-02,0,0,02101
+534450010,21,2,"North to Country Village & Fontana",,1,84724301,shp-21-02,0,0,02103
+534452010,21,2,"North to Country Village & Fontana",,1,84724301,shp-21-02,0,0,02103
+534799010,22,2,"South to Perris Station Transit Center",,0,84711401,shp-22-58,0,0,02201
+534800010,22,2,"South to Perris Station Transit Center",,0,84712701,shp-22-58,0,0,02202
+534801010,22,2,"South to Perris Station Transit Center",,0,84713601,shp-22-58,0,0,02203
+534802010,22,2,"South to Perris Station Transit Center",,0,84711401,shp-22-58,0,0,02201
+534803010,22,2,"South to Perris Station Transit Center",,0,84712701,shp-22-58,0,0,02202
+534804010,22,2,"South to Perris Station Transit Center",,0,84715601,shp-22-58,0,0,02205
+534805010,22,2,"South to Perris Station Transit Center",,0,84724401,shp-22-58,0,0,02805
+534806010,22,2,"South to Perris Station Transit Center",,0,84712701,shp-22-58,0,0,02202
+534807010,22,2,"South to Perris Station Transit Center",,0,84714001,shp-22-58,0,0,02209
+534808010,22,2,"South to Perris Station Transit Center",,0,84715601,shp-22-58,0,0,02205
+534809010,22,2,"South to Perris Station Transit Center",,0,84718501,shp-22-58,0,0,01912
+534810010,22,2,"South to Perris Station Transit Center",,0,84715601,shp-22-58,0,0,02205
+534811010,22,2,"South to Perris Station Transit Center",,0,84719301,shp-22-58,0,0,02207
+534812010,22,2,"South to Perris Station Transit Center",,0,84723801,shp-22-58,0,0,02206
+534813010,22,2,"South to Perris Station Transit Center",,0,84724501,shp-22-58,0,0,02208
+534784010,22,2,"North to Riverside",,1,84719301,shp-22-05,0,0,02207
+534785010,22,2,"North to Riverside",,1,84711401,shp-22-05,0,0,02201
+534786010,22,2,"North to Riverside",,1,84712701,shp-22-05,0,0,02202
+534787010,22,2,"North to Riverside",,1,84713601,shp-22-05,0,0,02203
+534788010,22,2,"North to Riverside",,1,84711401,shp-22-05,0,0,02201
+534789010,22,2,"North to Riverside",,1,84712701,shp-22-05,0,0,02202
+534790010,22,2,"North to Riverside",,1,84716201,shp-22-05,0,0,02204
+534791010,22,2,"North to Riverside",,1,84715601,shp-22-05,0,0,02205
+534792010,22,2,"North to Riverside",,1,84724401,shp-22-05,0,0,02805
+534793010,22,2,"North to Riverside",,1,84712701,shp-22-05,0,0,02202
+534794010,22,2,"North to Riverside",,1,84715601,shp-22-05,0,0,02205
+534795010,22,2,"North to Riverside",,1,84724501,shp-22-05,0,0,02208
+534796010,22,2,"North to Riverside",,1,84714001,shp-22-05,0,0,02209
+534797010,22,2,"North to Riverside",,1,84723801,shp-22-05,0,0,02206
+534798010,22,2,"North to Riverside",,1,84724501,shp-22-05,0,0,02208
+535758010,23,2,"South to Temecula Promenade Mall",,0,84450401,shp-23-61,0,0,02314
+535759010,23,2,"South to Temecula Promenade Mall",,0,84448301,shp-23-61,0,0,07411
+535760010,23,2,"South to Temecula Promenade Mall",,0,84449901,shp-23-61,0,0,02311
+535761010,23,2,"South to Temecula Promenade Mall",,0,84450101,shp-23-61,0,0,02312
+535763010,23,2,"South to Temecula Promenade Mall",,0,84450201,shp-23-61,0,0,02313
+535764010,23,2,"South to Temecula Promenade Mall",,0,84449901,shp-23-61,0,0,02311
+535768010,23,2,"South to Temecula Promenade Mall",,0,84454301,shp-23-61,0,0,02411
+535769010,23,2,"South to Temecula Promenade Mall",,0,84450401,shp-23-61,0,0,02314
+535771010,23,2,"South to Temecula Promenade Mall",,0,84450201,shp-23-61,0,0,02313
+535773010,23,2,"South to Temecula Promenade Mall",,0,84450101,shp-23-61,0,0,02312
+535755010,23,2,"North to Wildomar",,1,84450101,shp-23-11,0,0,02312
+535756010,23,2,"North to Wildomar",,1,84450401,shp-23-11,0,0,02314
+535757010,23,2,"North to Wildomar",,1,84450201,shp-23-11,0,0,02313
+535762010,23,2,"North to Wildomar",,1,84449901,shp-23-11,0,0,02311
+535765010,23,2,"North to Wildomar",,1,84454301,shp-23-11,0,0,02411
+535766010,23,2,"North to Wildomar",,1,84450101,shp-23-11,0,0,02312
+535767010,23,2,"North to Wildomar",,1,84450401,shp-23-11,0,0,02314
+535770010,23,2,"North to Wildomar",,1,84450201,shp-23-11,0,0,02313
+535772010,23,2,"North to Wildomar",,1,84449901,shp-23-11,0,0,02311
+535774010,23,2,"North to Inland Valley Medical Center",,1,84454301,shp-23-10,0,0,02411
+535799010,24,2,"South to Temecula Valley Hospital",,0,84450201,shp-24-53,0,0,02313
+535800010,24,2,"South to Temecula Valley Hospital",,0,84449901,shp-24-53,0,0,02311
+535801010,24,2,"South to Temecula Valley Hospital",,0,84454301,shp-24-53,0,0,02411
+535802010,24,2,"South to Temecula Valley Hospital",,0,84450401,shp-24-53,0,0,02314
+535803010,24,2,"South to Temecula Valley Hospital",,0,84450101,shp-24-53,0,0,02312
+535804010,24,2,"South to Temecula Valley Hospital",,0,84450201,shp-24-53,0,0,02313
+535805010,24,2,"South to Temecula Valley Hospital",,0,84449901,shp-24-53,0,0,02311
+535806010,24,2,"South to Temecula Valley Hospital",,0,84454301,shp-24-53,0,0,02411
+535807010,24,2,"South to Temecula Valley Hospital",,0,84450401,shp-24-53,0,0,02314
+535808010,24,2,"South to Temecula Valley Hospital",,0,84450101,shp-24-53,0,0,02312
+535789010,24,2,"North to Temecula Promenade Mall",,1,84450401,shp-24-06,0,0,02314
+535790010,24,2,"North to Temecula Promenade Mall",,1,84450101,shp-24-06,0,0,02312
+535791010,24,2,"North to Temecula Promenade Mall",,1,84450201,shp-24-06,0,0,02313
+535792010,24,2,"North to Temecula Promenade Mall",,1,84449901,shp-24-06,0,0,02311
+535793010,24,2,"North to Temecula Promenade Mall",,1,84454301,shp-24-06,0,0,02411
+535794010,24,2,"North to Temecula Promenade Mall",,1,84450401,shp-24-06,0,0,02314
+535795010,24,2,"North to Temecula Promenade Mall",,1,84450101,shp-24-06,0,0,02312
+535796010,24,2,"North to Temecula Promenade Mall",,1,84450201,shp-24-06,0,0,02313
+535797010,24,2,"North to Temecula Promenade Mall",,1,84449901,shp-24-06,0,0,02311
+535798010,24,2,"North to Temecula Promenade Mall",,1,84454301,shp-24-06,0,0,02411
+534511010,27,2,"South to Perris Station Transit Center",,0,84717001,shp-27-61,0,0,02002
+534512010,27,2,"South to Perris Station Transit Center",,0,84711601,shp-27-61,0,0,01301
+534513010,27,2,"South to Perris Station Transit Center",,0,84711701,shp-27-61,0,0,02701
+534514010,27,2,"South to Perris Station Transit Center",,0,84717501,shp-27-61,0,0,00110
+534515010,27,2,"South to Perris Station Transit Center",,0,84713401,shp-27-61,0,0,01303
+534516010,27,2,"South to Perris Station Transit Center",,0,84712401,shp-27-61,0,0,01302
+534517010,27,2,"South to Perris Station Transit Center",,0,84711601,shp-27-61,0,0,01301
+534518010,27,2,"South to Perris Station Transit Center",,0,84711701,shp-27-61,0,0,02701
+534519010,27,2,"South to Perris Station Transit Center",,0,84722001,shp-27-61,0,0,02702
+534520010,27,2,"South to Perris Station Transit Center",,0,84721901,shp-27-61,0,0,00127
+534521010,27,2,"South to Perris Station Transit Center",,0,84719801,shp-27-61,0,0,02704
+534522010,27,2,"South to Perris Station Transit Center",,0,84720201,shp-27-61,0,0,01304
+534523010,27,2,"South to Perris Station Transit Center",,0,84724101,shp-27-61,0,0,02703
+534524010,27,2,"South to Perris Station Transit Center",,0,84722001,shp-27-61,0,0,02702
+534525010,27,2,"South to Perris Station Transit Center",,0,84724101,shp-27-61,0,0,02703
+534526010,27,2,"North to Galleria Mall",,1,84711701,shp-27-51,0,0,02701
+534527010,27,2,"North to Galleria Mall",,1,84711601,shp-27-51,0,0,01301
+534528010,27,2,"North to Galleria Mall",,1,84711701,shp-27-51,0,0,02701
+534529010,27,2,"North to Galleria Mall",,1,84717501,shp-27-51,0,0,00110
+534530010,27,2,"North to Galleria Mall",,1,84713401,shp-27-51,0,0,01303
+534531010,27,2,"North to Galleria Mall",,1,84712401,shp-27-51,0,0,01302
+534532010,27,2,"North to Galleria Mall",,1,84711601,shp-27-51,0,0,01301
+534533010,27,2,"North to Galleria Mall",,1,84711701,shp-27-51,0,0,02701
+534534010,27,2,"North to Galleria Mall",,1,84724101,shp-27-51,0,0,02703
+534535010,27,2,"North to Galleria Mall",,1,84722001,shp-27-51,0,0,02702
+534536010,27,2,"North to Galleria Mall",,1,84721901,shp-27-51,0,0,00127
+534537010,27,2,"North to Galleria Mall",,1,84719801,shp-27-51,0,0,02704
+534538010,27,2,"North to Galleria Mall",,1,84720201,shp-27-51,0,0,01304
+534539010,27,2,"North to Galleria Mall",,1,84724101,shp-27-51,0,0,02703
+534540010,27,2,"North to Galleria Mall",,1,84722001,shp-27-51,0,0,02702
+534826010,28,2,"West to Perris Station Transit Center",,0,84711401,shp-28-51,0,0,02201
+534827010,28,2,"West to Perris Station Transit Center",,0,84712201,shp-28-52,0,0,02802
+534828010,28,2,"West to Perris Station Transit Center",,0,84712901,shp-28-52,0,0,02804
+534829010,28,2,"West to Perris Station Transit Center",,0,84711501,shp-28-52,0,0,02801
+534830010,28,2,"West to Perris Station Transit Center",,0,84712901,shp-28-52,0,0,02804
+534831010,28,2,"West to Perris Station Transit Center",,0,84711501,shp-28-52,0,0,02801
+534832010,28,2,"West to Perris Station Transit Center",,0,84712201,shp-28-52,0,0,02802
+534833010,28,2,"West to Perris Station Transit Center",,0,84716001,shp-28-52,0,0,02803
+534834010,28,2,"West to Perris Station Transit Center",,0,84724601,shp-28-52,0,0,02807
+534835010,28,2,"West to Perris Station Transit Center",,0,84724801,shp-28-52,0,0,02806
+534836010,28,2,"West to Perris Station Transit Center",,0,84724601,shp-28-52,0,0,02807
+534837010,28,2,"West to Perris Station Transit Center",,0,84724701,shp-28-52,0,0,02808
+534838010,28,2,"West to Perris Station Transit Center",,0,84724601,shp-28-52,0,0,02807
+534849010,28,2,"West to Perris Station Transit Center",,0,84711501,shp-28-52,0,0,02801
+534850010,28,2,"West to Perris Station Transit Center",,0,84716001,shp-28-52,0,0,02803
+534851010,28,2,"West to Perris Station Transit Center",,0,84712201,shp-28-52,0,0,02802
+534852010,28,2,"West to Perris Station Transit Center",,0,84716001,shp-28-52,0,0,02803
+534853010,28,2,"West to Perris Station Transit Center",,0,84712901,shp-28-52,0,0,02804
+534854010,28,2,"West to Perris Station Transit Center",,0,84724701,shp-28-52,0,0,02808
+534855010,28,2,"West to Perris Station Transit Center",,0,84724401,shp-28-52,0,0,02805
+534856010,28,2,"West to Perris Station Transit Center",,0,84724801,shp-28-52,0,0,02806
+534857010,28,2,"West to Perris Station Transit Center",,0,84724701,shp-28-52,0,0,02808
+534859010,28,2,"West to Perris Station Transit Center",,0,84716401,shp-28-51,0,0,01901
+534814010,28,2,"East to Hemet Florida & Lincoln",,1,84712201,shp-28-01,0,0,02802
+534815010,28,2,"East to Hemet Florida & Lincoln",,1,84712901,shp-28-01,0,0,02804
+534816010,28,2,"East to Hemet Florida & Lincoln",,1,84711501,shp-28-01,0,0,02801
+534817010,28,2,"East to Hemet Florida & Lincoln",,1,84712201,shp-28-01,0,0,02802
+534818010,28,2,"East to Hemet Florida & Lincoln",,1,84716001,shp-28-01,0,0,02803
+534819010,28,2,"East to Hemet Florida & Lincoln",,1,84712201,shp-28-01,0,0,02802
+534820010,28,2,"East to Hemet Florida & Lincoln",,1,84724801,shp-28-01,0,0,02806
+534821010,28,2,"East to Hemet Florida & Lincoln",,1,84724601,shp-28-01,0,0,02807
+534822010,28,2,"East to Hemet Florida & Lincoln",,1,84724701,shp-28-01,0,0,02808
+534823010,28,2,"East to Hemet Florida & Lincoln",,1,84724601,shp-28-01,0,0,02807
+534824010,28,2,"East to Hemet Florida & Lincoln",,1,84724701,shp-28-01,0,0,02808
+534825010,28,2,"East to Hemet Florida & Lincoln",,1,84724801,shp-28-01,0,0,02806
+534839010,28,2,"East to Hemet Florida & Lincoln",,1,84716001,shp-28-01,0,0,02803
+534840010,28,2,"East to Hemet Florida & Lincoln",,1,84711501,shp-28-01,0,0,02801
+534841010,28,2,"East to Hemet Florida & Lincoln",,1,84716001,shp-28-01,0,0,02803
+534842010,28,2,"East to Hemet Florida & Lincoln",,1,84712901,shp-28-01,0,0,02804
+534843010,28,2,"East to Hemet Florida & Lincoln",,1,84711501,shp-28-01,0,0,02801
+534844010,28,2,"East to Hemet Florida & Lincoln",,1,84724401,shp-28-01,0,0,02805
+534845010,28,2,"East to Hemet Florida & Lincoln",,1,84724801,shp-28-01,0,0,02806
+534846010,28,2,"East to Hemet Florida & Lincoln",,1,84724401,shp-28-01,0,0,02805
+534847010,28,2,"East to Hemet Florida & Lincoln",,1,84724601,shp-28-01,0,0,02807
+534848010,28,2,"East to Hemet Florida & Lincoln",,1,84724701,shp-28-01,0,0,02808
+534858010,28,2,"East to Hemet Florida & State",,1,84723301,shp-28-02,0,0,01926
+534486010,29,2,"West to Eastvale",,0,84712101,shp-29-56,0,0,02901
+534487010,29,2,"West to Eastvale",,0,84716601,shp-29-56,0,0,01501
+534488010,29,2,"West to Eastvale",,0,84712101,shp-29-56,0,0,02901
+534489010,29,2,"West to Eastvale",,0,84718801,shp-29-56,0,0,02902
+534490010,29,2,"West to Eastvale",,0,84712101,shp-29-56,0,0,02901
+534491010,29,2,"West to Eastvale",,0,84719001,shp-29-56,0,0,02903
+534492010,29,2,"West to Eastvale",,0,84724901,shp-29-56,0,0,02904
+534493010,29,2,"West to Eastvale",,0,84719001,shp-29-56,0,0,02903
+534494010,29,2,"West to Eastvale",,0,84724901,shp-29-56,0,0,02904
+534495010,29,2,"West to Eastvale",,0,84719001,shp-29-56,0,0,02903
+534496010,29,2,"West to Eastvale",,0,84724901,shp-29-56,0,0,02904
+534497010,29,2,"West to Eastvale",,0,84719001,shp-29-56,0,0,02903
+534498010,29,2,"West to Eastvale",,0,84724901,shp-29-56,0,0,02904
+534499010,29,2,"East to Riverside",,1,84716601,shp-29-09,0,0,01501
+534500010,29,2,"East to Riverside",,1,84712101,shp-29-09,0,0,02901
+534501010,29,2,"East to Riverside",,1,84716601,shp-29-09,0,0,01501
+534502010,29,2,"East to Riverside",,1,84712101,shp-29-09,0,0,02901
+534503010,29,2,"East to Riverside",,1,84718801,shp-29-09,0,0,02902
+534504010,29,2,"East to Riverside",,1,84712101,shp-29-09,0,0,02901
+534505010,29,2,"East to Riverside",,1,84719001,shp-29-09,0,0,02903
+534506010,29,2,"East to Riverside",,1,84724901,shp-29-09,0,0,02904
+534507010,29,2,"East to Riverside",,1,84719001,shp-29-09,0,0,02903
+534508010,29,2,"East to Riverside",,1,84724901,shp-29-09,0,0,02904
+534509010,29,2,"East to Riverside",,1,84719001,shp-29-09,0,0,02903
+534510010,29,2,"East to Riverside",,1,84724901,shp-29-09,0,0,02904
+535816010,3,2,"South to Corona",,0,84448401,shp-3-62,0,0,00311
+535817010,3,2,"South to Corona",,0,84448401,shp-3-62,0,0,00311
+535818010,3,2,"South to Corona",,0,84448401,shp-3-62,0,0,00311
+535819010,3,2,"South to Corona",,0,84448401,shp-3-62,0,0,00311
+535820010,3,2,"South to Corona",,0,84451501,shp-3-62,0,0,00312
+535821010,3,2,"South to Corona",,0,84451501,shp-3-62,0,0,00312
+535822010,3,2,"South to Corona",,0,84451501,shp-3-62,0,0,00312
+535809010,3,2,"North to Eastvale",,1,84451501,shp-3-11,0,0,00312
+535810010,3,2,"North to Eastvale",,1,84448401,shp-3-11,0,0,00311
+535811010,3,2,"North to Eastvale",,1,84448401,shp-3-11,0,0,00311
+535812010,3,2,"North to Eastvale",,1,84448401,shp-3-11,0,0,00311
+535813010,3,2,"North to Eastvale",,1,84451501,shp-3-11,0,0,00312
+535814010,3,2,"North to Eastvale",,1,84451501,shp-3-11,0,0,00312
+535815010,3,2,"North to Eastvale",,1,84451501,shp-3-11,0,0,00312
+535926010,30,2,"East to Perris Station Transit Center",,1,84450901,shp-30-03,0,0,03011
+535927010,30,2,"East to Perris Station Transit Center",,1,84450901,shp-30-03,0,0,03011
+535928010,30,2,"East to Perris Station Transit Center",,1,84450901,shp-30-03,0,0,03011
+535929010,30,2,"East to Perris Station Transit Center",,1,84451601,shp-30-03,0,0,03012
+535930010,30,2,"East to Perris Station Transit Center",,1,84451601,shp-30-03,0,0,03012
+535931010,30,2,"East to Perris Station Transit Center",,1,84451601,shp-30-03,0,0,03012
+535932010,30,2,"East to Perris Station Transit Center",,1,84451601,shp-30-03,0,0,03012
+535933010,30,2,"East to Perris Station Transit Center",,1,84451601,shp-30-03,0,0,03012
+535735010,31,2,"South to Hemet Valley Mall",,0,84449401,shp-31-52,0,0,03111
+535737010,31,2,"South to Hemet Valley Mall",,0,84451101,shp-31-52,0,0,03113
+535739010,31,2,"South to Hemet Valley Mall",,0,84449001,shp-31-52,0,0,04211
+535740010,31,2,"South to Hemet Valley Mall",,0,84451401,shp-31-52,0,0,03112
+535742010,31,2,"South to Hemet Valley Mall",,0,84454501,shp-31-52,0,0,03114
+535744010,31,2,"South to Hemet Valley Mall",,0,84454601,shp-31-52,0,0,03116
+535747010,31,2,"South to Hemet Valley Mall",,0,84454801,shp-31-52,0,0,03117
+535748010,31,2,"South to Hemet Valley Mall",,0,84454201,shp-31-52,0,0,03115
+535751010,31,2,"South to Hemet Valley Mall",,0,84454501,shp-31-52,0,0,03114
+535753010,31,2,"South to Hemet Valley Mall",,0,84454601,shp-31-52,0,0,03116
+535754010,31,2,"South to Hemet Valley Mall",,0,84454801,shp-31-52,0,0,03117
+535734010,31,2,"North to Beaumont and Moreno Valley Mall",,1,84449001,shp-31-02,0,0,04211
+535736010,31,2,"North to Beaumont and Moreno Valley Mall",,1,84451401,shp-31-02,0,0,03112
+535738010,31,2,"North to Beaumont and Moreno Valley Mall",,1,84449401,shp-31-02,0,0,03111
+535741010,31,2,"North to Beaumont and Moreno Valley Mall",,1,84451101,shp-31-02,0,0,03113
+535743010,31,2,"North to Beaumont and Moreno Valley Mall",,1,84451201,shp-31-02,0,0,04212
+535745010,31,2,"North to Beaumont and Moreno Valley Mall",,1,84454201,shp-31-02,0,0,03115
+535746010,31,2,"North to Beaumont and Moreno Valley Mall",,1,84454501,shp-31-02,0,0,03114
+535749010,31,2,"North to Beaumont and Moreno Valley Mall",,1,84454601,shp-31-02,0,0,03116
+535750010,31,2,"North to Beaumont and Moreno Valley Mall",,1,84454801,shp-31-02,0,0,03117
+535752010,31,2,"North to Beaumont and Moreno Valley Mall",,1,84454201,shp-31-02,0,0,03115
+535834010,32,2,"South to Hemet Valley Mall",,0,84449201,shp-32-53,0,0,03211
+535835010,32,2,"South to Hemet Valley Mall",,0,84449301,shp-32-53,0,0,03212
+535836010,32,2,"South to Hemet Valley Mall",,0,84449201,shp-32-53,0,0,03211
+535837010,32,2,"South to Hemet Valley Mall",,0,84449301,shp-32-53,0,0,03212
+535838010,32,2,"South to Hemet Valley Mall",,0,84449201,shp-32-53,0,0,03211
+535839010,32,2,"South to Hemet Valley Mall",,0,84449301,shp-32-53,0,0,03212
+535840010,32,2,"South to Hemet Valley Mall",,0,84449201,shp-32-53,0,0,03211
+535841010,32,2,"South to Hemet Valley Mall",,0,84449301,shp-32-53,0,0,03212
+535842010,32,2,"South to Hemet Valley Mall",,0,84449201,shp-32-53,0,0,03211
+535843010,32,2,"South to Hemet Valley Mall",,0,84449301,shp-32-53,0,0,03212
+535844010,32,2,"South to Hemet Valley Mall",,0,84449201,shp-32-53,0,0,03211
+535823010,32,2,"North to MSJC-San Jacinto",,1,84449301,shp-32-03,0,0,03212
+535824010,32,2,"North to MSJC-San Jacinto",,1,84449301,shp-32-03,0,0,03212
+535825010,32,2,"North to MSJC-San Jacinto",,1,84449201,shp-32-03,0,0,03211
+535826010,32,2,"North to MSJC-San Jacinto",,1,84449301,shp-32-03,0,0,03212
+535827010,32,2,"North to MSJC-San Jacinto",,1,84449201,shp-32-03,0,0,03211
+535828010,32,2,"North to MSJC-San Jacinto",,1,84449301,shp-32-03,0,0,03212
+535829010,32,2,"North to MSJC-San Jacinto",,1,84449201,shp-32-03,0,0,03211
+535830010,32,2,"North to MSJC-San Jacinto",,1,84449301,shp-32-03,0,0,03212
+535831010,32,2,"North to MSJC-San Jacinto",,1,84449201,shp-32-03,0,0,03211
+535832010,32,2,"North to MSJC-San Jacinto",,1,84449301,shp-32-03,0,0,03212
+535833010,32,2,"North to MSJC-San Jacinto",,1,84449201,shp-32-03,0,0,03211
+535885010,33,2,"West to Hemet Valley Mall",,0,84450801,shp-33-52,0,0,03311
+535886010,33,2,"West to Hemet Valley Mall",,0,84450801,shp-33-52,0,0,03311
+535887010,33,2,"West to Hemet Valley Mall",,0,84450801,shp-33-52,0,0,03311
+535888010,33,2,"West to Hemet Valley Mall",,0,84450801,shp-33-52,0,0,03311
+535889010,33,2,"West to Hemet Valley Mall",,0,84450801,shp-33-52,0,0,03311
+535890010,33,2,"West to Hemet Valley Mall",,0,84450801,shp-33-52,0,0,03311
+535879010,33,2,"East to East Hemet",,1,84450801,shp-33-01,0,0,03311
+535880010,33,2,"East to East Hemet",,1,84450801,shp-33-01,0,0,03311
+535881010,33,2,"East to East Hemet",,1,84450801,shp-33-01,0,0,03311
+535882010,33,2,"East to East Hemet",,1,84450801,shp-33-01,0,0,03311
+535883010,33,2,"East to East Hemet",,1,84450801,shp-33-01,0,0,03311
+535884010,33,2,"East to East Hemet",,1,84450801,shp-33-01,0,0,03311
+535725010,40,2,"West to Lake Elsinore Walmart",,0,84450501,shp-40-52,0,0,04012
+535726010,40,2,"West to Lake Elsinore Walmart",,0,84450301,shp-40-52,0,0,04011
+535727010,40,2,"West to Lake Elsinore Walmart",,0,84450501,shp-40-52,0,0,04012
+535728010,40,2,"West to Lake Elsinore Walmart",,0,84450301,shp-40-52,0,0,04011
+535729010,40,2,"West to Lake Elsinore Walmart",,0,84450501,shp-40-52,0,0,04012
+535730010,40,2,"West to Lake Elsinore Walmart",,0,84450301,shp-40-52,0,0,04011
+535731010,40,2,"West to Lake Elsinore Walmart",,0,84450501,shp-40-52,0,0,04012
+535732010,40,2,"West to Lake Elsinore Walmart",,0,84454401,shp-40-52,0,0,04013
+535733010,40,2,"West to Lake Elsinore Walmart",,0,84450501,shp-40-52,0,0,04012
+535716010,40,2,"East to Cherry Hills & Bradley",,1,84454401,shp-40-02,0,0,04013
+535717010,40,2,"East to Cherry Hills & Bradley",,1,84450301,shp-40-02,0,0,04011
+535718010,40,2,"East to Cherry Hills & Bradley",,1,84450501,shp-40-02,0,0,04012
+535719010,40,2,"East to Cherry Hills & Bradley",,1,84450301,shp-40-02,0,0,04011
+535720010,40,2,"East to Cherry Hills & Bradley",,1,84450501,shp-40-02,0,0,04012
+535721010,40,2,"East to Cherry Hills & Bradley",,1,84450301,shp-40-02,0,0,04011
+535722010,40,2,"East to Cherry Hills & Bradley",,1,84450501,shp-40-02,0,0,04012
+535723010,40,2,"East to Cherry Hills & Bradley",,1,84450301,shp-40-02,0,0,04011
+535724010,40,2,"East to Cherry Hills & Bradley",,1,84450501,shp-40-02,0,0,04012
+535782010,41,2,"West to Mead Valley",,0,84449101,shp-41-51,0,0,04111
+535783010,41,2,"West to Mead Valley",,0,84449101,shp-41-51,0,0,04111
+535784010,41,2,"West to Mead Valley",,0,84449101,shp-41-51,0,0,04111
+535785010,41,2,"West to Mead Valley",,0,84449101,shp-41-51,0,0,04111
+535786010,41,2,"West to Mead Valley",,0,84449101,shp-41-51,0,0,04111
+535787010,41,2,"West to Mead Valley",,0,84449101,shp-41-51,0,0,04111
+535788010,41,2,"West to Mead Valley",,0,84454901,shp-41-51,0,0,04112
+535775010,41,2,"East to Riverside University Med Ctr",,1,84454901,shp-41-01,0,0,04112
+535776010,41,2,"East to Riverside University Med Ctr",,1,84449101,shp-41-01,0,0,04111
+535777010,41,2,"East to Riverside University Med Ctr",,1,84449101,shp-41-01,0,0,04111
+535778010,41,2,"East to Riverside University Med Ctr",,1,84449101,shp-41-01,0,0,04111
+535779010,41,2,"East to Riverside University Med Ctr",,1,84449101,shp-41-01,0,0,04111
+535780010,41,2,"East to Riverside University Med Ctr",,1,84449101,shp-41-01,0,0,04111
+535781010,41,2,"East to Riverside University Med Ctr",,1,84449101,shp-41-01,0,0,04111
+535873010,42,2,"West to Hemet Valley Mall",,0,84449001,shp-42-53,0,0,04211
+535874010,42,2,"West to Hemet Valley Mall",,0,84451201,shp-42-53,0,0,04212
+535875010,42,2,"West to Hemet Valley Mall",,0,84451201,shp-42-53,0,0,04212
+535876010,42,2,"West to Hemet Valley Mall",,0,84449001,shp-42-53,0,0,04211
+535877010,42,2,"West to Hemet Valley Mall",,0,84449001,shp-42-53,0,0,04211
+535878010,42,2,"West to Hemet Valley Mall",,0,84449001,shp-42-53,0,0,04211
+535867010,42,2,"East to Soboba Casino",,1,84449001,shp-42-03,0,0,04211
+535868010,42,2,"East to Soboba Casino",,1,84451201,shp-42-03,0,0,04212
+535869010,42,2,"East to Soboba Casino",,1,84449001,shp-42-03,0,0,04211
+535870010,42,2,"East to Soboba Casino",,1,84451201,shp-42-03,0,0,04212
+535871010,42,2,"East to Soboba Casino",,1,84449001,shp-42-03,0,0,04211
+535872010,42,2,"East to Soboba Casino",,1,84449001,shp-42-03,0,0,04211
+534456010,49,2,"West to Country Village & Fontana",,0,84712301,shp-49-53,0,0,04901
+534457010,49,2,"West to Country Village & Fontana",,0,84713201,shp-49-53,0,0,04902
+534458010,49,2,"West to Country Village & Fontana",,0,84712301,shp-49-53,0,0,04901
+534459010,49,2,"West to Country Village & Fontana",,0,84713201,shp-49-53,0,0,04902
+534460010,49,2,"West to Country Village & Fontana",,0,84713201,shp-49-53,0,0,04902
+534461010,49,2,"West to Country Village & Fontana",,0,84725001,shp-49-53,0,0,04903
+534462010,49,2,"West to Country Village & Fontana",,0,84725101,shp-49-53,0,0,04904
+534463010,49,2,"West to Country Village & Fontana",,0,84725101,shp-49-53,0,0,04904
+534464010,49,2,"West to Country Village & Fontana",,0,84725001,shp-49-53,0,0,04903
+534465010,49,2,"West to Country Village & Fontana",,0,84725101,shp-49-53,0,0,04904
+534481010,49,2,"West to Country Village & Fontana",,0,84713201,shp-49-53,0,0,04902
+534482010,49,2,"West to Country Village & Fontana",,0,84712301,shp-49-53,0,0,04901
+534483010,49,2,"West to Country Village & Fontana",,0,84712301,shp-49-53,0,0,04901
+534484010,49,2,"West to Country Village & Fontana",,0,84725001,shp-49-53,0,0,04903
+534485010,49,2,"West to Country Village & Fontana",,0,84725001,shp-49-53,0,0,04903
+534466010,49,2,"East to Riverside",,1,84713201,shp-49-03,0,0,04902
+534467010,49,2,"East to Riverside",,1,84712301,shp-49-03,0,0,04901
+534468010,49,2,"East to Riverside",,1,84713201,shp-49-03,0,0,04902
+534469010,49,2,"East to Riverside",,1,84712301,shp-49-03,0,0,04901
+534470010,49,2,"East to Riverside",,1,84713201,shp-49-03,0,0,04902
+534471010,49,2,"East to Riverside",,1,84712301,shp-49-03,0,0,04901
+534472010,49,2,"East to Riverside",,1,84725001,shp-49-03,0,0,04903
+534473010,49,2,"East to Riverside",,1,84725101,shp-49-03,0,0,04904
+534474010,49,2,"East to Riverside",,1,84725001,shp-49-03,0,0,04903
+534475010,49,2,"East to Riverside",,1,84725001,shp-49-03,0,0,04903
+534476010,49,2,"East to Riverside",,1,84712301,shp-49-03,0,0,04901
+534477010,49,2,"East to Riverside",,1,84712301,shp-49-03,0,0,04901
+534478010,49,2,"East to Riverside",,1,84713201,shp-49-03,0,0,04902
+534479010,49,2,"East to Riverside",,1,84725101,shp-49-03,0,0,04904
+534480010,49,2,"East to Riverside",,1,84713201,shp-49-03,0,0,04902
+535918010,61,2,"South To Temecula Promenade Mall",,0,84450701,shp-61-56,0,0,06113
+535919010,61,2,"South To Temecula Promenade Mall",,0,84448901,shp-61-56,0,0,06112
+535920010,61,2,"South To Temecula Promenade Mall",,0,84448801,shp-61-56,0,0,06111
+535921010,61,2,"South To Temecula Promenade Mall",,0,84454701,shp-61-56,0,0,06114
+535922010,61,2,"South To Temecula Promenade Mall",,0,84448801,shp-61-56,0,0,06111
+535923010,61,2,"South To Temecula Promenade Mall",,0,84450701,shp-61-56,0,0,06113
+535924010,61,2,"South To Temecula Promenade Mall",,0,84454701,shp-61-56,0,0,06114
+535925010,61,2,"South To Temecula Promenade Mall",,0,84448801,shp-61-56,0,0,06111
+535909010,61,2,"North To Perris Station Transit Center",,1,84450701,shp-61-07,0,0,06113
+535910010,61,2,"North To Perris Station Transit Center",,1,84448801,shp-61-07,0,0,06111
+535911010,61,2,"North To Perris Station Transit Center",,1,84450701,shp-61-07,0,0,06113
+535912010,61,2,"North To Perris Station Transit Center",,1,84448901,shp-61-07,0,0,06112
+535913010,61,2,"North To Perris Station Transit Center",,1,84454701,shp-61-07,0,0,06114
+535914010,61,2,"North To Perris Station Transit Center",,1,84450701,shp-61-07,0,0,06113
+535915010,61,2,"North To Perris Station Transit Center",,1,84448801,shp-61-07,0,0,06111
+535916010,61,2,"North To Perris Station Transit Center",,1,84454701,shp-61-07,0,0,06114
+535917010,61,2,"North To Perris Station Transit Center",,1,84448801,shp-61-07,0,0,06111
+535943010,74,2,"West to Perris Station Transit Center",,0,84451301,shp-74-51,0,0,07414
+535944010,74,2,"West to Perris Station Transit Center",,0,84448301,shp-74-51,0,0,07411
+535945010,74,2,"West to Perris Station Transit Center",,0,84449701,shp-74-51,0,0,07412
+535946010,74,2,"West to Perris Station Transit Center",,0,84449801,shp-74-51,0,0,07413
+535947010,74,2,"West to Perris Station Transit Center",,0,84449701,shp-74-51,0,0,07412
+535948010,74,2,"West to Perris Station Transit Center",,0,84449801,shp-74-51,0,0,07413
+535949010,74,2,"West to Perris Station Transit Center",,0,84451301,shp-74-51,0,0,07414
+535950010,74,2,"West to Perris Station Transit Center",,0,84455001,shp-74-51,0,0,07415
+535951010,74,2,"West to Perris Station Transit Center",,0,84449801,shp-74-51,0,0,07413
+535952010,74,2,"West to Perris Station Transit Center",,0,84449601,shp-74-51,0,0,07416
+535934010,74,2,"East to MSJC-San Jacinto",,1,84449601,shp-74-01,0,0,07416
+535935010,74,2,"East to MSJC-San Jacinto",,1,84455001,shp-74-01,0,0,07415
+535936010,74,2,"East to MSJC-San Jacinto",,1,84449801,shp-74-01,0,0,07413
+535937010,74,2,"East to MSJC-San Jacinto",,1,84449801,shp-74-01,0,0,07413
+535938010,74,2,"East to MSJC-San Jacinto",,1,84451301,shp-74-01,0,0,07414
+535939010,74,2,"East to MSJC-San Jacinto",,1,84449701,shp-74-01,0,0,07412
+535940010,74,2,"East to MSJC-San Jacinto",,1,84449801,shp-74-01,0,0,07413
+535941010,74,2,"East to MSJC-San Jacinto",,1,84451301,shp-74-01,0,0,07414
+535942010,74,2,"East to MSJC-San Jacinto",,1,84449701,shp-74-01,0,0,07412
+535900010,79,2,"South to Temecula",,0,84450001,shp-79-59,0,0,07912
+535901010,79,2,"South to Temecula",,0,84448601,shp-79-59,0,0,07911
+535902010,79,2,"South to Temecula",,0,84450601,shp-79-59,0,0,07913
+535903010,79,2,"South to Temecula",,0,84448601,shp-79-59,0,0,07911
+535904010,79,2,"South to Temecula",,0,84450601,shp-79-59,0,0,07913
+535905010,79,2,"South to Temecula",,0,84450001,shp-79-59,0,0,07912
+535906010,79,2,"South to Temecula",,0,84448601,shp-79-59,0,0,07911
+535907010,79,2,"South to Temecula",,0,84450601,shp-79-59,0,0,07913
+535908010,79,2,"South to Temecula",,0,84450001,shp-79-59,0,0,07912
+535891010,79,2,"North to Hemet & MSJC San Jacinto",,1,84448601,shp-79-07,0,0,07911
+535892010,79,2,"North to Hemet & MSJC San Jacinto",,1,84450001,shp-79-07,0,0,07912
+535893010,79,2,"North to Hemet & MSJC San Jacinto",,1,84448601,shp-79-07,0,0,07911
+535894010,79,2,"North to Hemet & MSJC San Jacinto",,1,84450001,shp-79-07,0,0,07912
+535895010,79,2,"North to Hemet & MSJC San Jacinto",,1,84450601,shp-79-07,0,0,07913
+535896010,79,2,"North to Hemet & MSJC San Jacinto",,1,84450601,shp-79-07,0,0,07913
+535897010,79,2,"North to Hemet & MSJC San Jacinto",,1,84450001,shp-79-07,0,0,07912
+535898010,79,2,"North to Hemet & MSJC San Jacinto",,1,84448601,shp-79-07,0,0,07911
+535899010,79,2,"North to Hemet & MSJC San Jacinto",,1,84450601,shp-79-07,0,0,07913
+535856010,8,2,"Counterclockwise to Wildomar & Lake Elsinore",,0,84448701,shp-8-14,0,0,00811
+535857010,8,2,"Counterclockwise to Wildomar & Lake Elsinore",,0,84448701,shp-8-14,0,0,00811
+535858010,8,2,"Counterclockwise to Wildomar & Lake Elsinore",,0,84449501,shp-8-14,0,0,00812
+535859010,8,2,"Counterclockwise to Wildomar & Lake Elsinore",,0,84451001,shp-8-14,0,0,00813
+535860010,8,2,"Counterclockwise to Wildomar & Lake Elsinore",,0,84448701,shp-8-14,0,0,00811
+535861010,8,2,"Counterclockwise to Wildomar & Lake Elsinore",,0,84449501,shp-8-14,0,0,00812
+535862010,8,2,"Counterclockwise to Wildomar & Lake Elsinore",,0,84451001,shp-8-14,0,0,00813
+535863010,8,2,"Counterclockwise to Wildomar & Lake Elsinore",,0,84448501,shp-8-14,0,0,00911
+535864010,8,2,"Counterclockwise to Wildomar & Lake Elsinore",,0,84448701,shp-8-14,0,0,00811
+535865010,8,2,"Counterclockwise to Wildomar & Lake Elsinore",,0,84451001,shp-8-14,0,0,00813
+535866010,8,2,"Counterclockwise to Wildomar",,0,84451301,shp-8-15,0,0,07414
+535845010,8,2,"Clockwise to Wildomar & Lake Elsinore",,1,84448501,shp-8-60,0,0,00911
+535846010,8,2,"Clockwise to Wildomar & Lake Elsinore",,1,84449501,shp-8-60,0,0,00812
+535847010,8,2,"Clockwise to Wildomar & Lake Elsinore",,1,84451001,shp-8-60,0,0,00813
+535848010,8,2,"Clockwise to Wildomar & Lake Elsinore",,1,84448701,shp-8-60,0,0,00811
+535849010,8,2,"Clockwise to Wildomar & Lake Elsinore",,1,84449501,shp-8-60,0,0,00812
+535850010,8,2,"Clockwise to Wildomar & Lake Elsinore",,1,84451001,shp-8-60,0,0,00813
+535851010,8,2,"Clockwise to Wildomar & Lake Elsinore",,1,84448501,shp-8-60,0,0,00911
+535852010,8,2,"Clockwise to Wildomar & Lake Elsinore",,1,84448701,shp-8-60,0,0,00811
+535853010,8,2,"Clockwise to Wildomar & Lake Elsinore",,1,84451001,shp-8-60,0,0,00813
+535854010,8,2,"Clockwise to Wildomar & Lake Elsinore",,1,84451301,shp-8-60,0,0,07414
+535855010,8,2,"Clockwise to Wildomar & Lake Elsinore",,1,84448701,shp-8-60,0,0,00811
+535953010,9,2,"South to Lake Elsinore  ",,0,84449501,shp-9-51,0,0,00812
+535955010,9,2,"South to Lake Elsinore  ",,0,84451001,shp-9-51,0,0,00813
+535957010,9,2,"South to Lake Elsinore  ",,0,84448501,shp-9-51,0,0,00911
+535959010,9,2,"South to Lake Elsinore  ",,0,84448501,shp-9-51,0,0,00911
+535961010,9,2,"South to Lake Elsinore  ",,0,84448501,shp-9-51,0,0,00911
+535963010,9,2,"South to Lake Elsinore  ",,0,84448501,shp-9-51,0,0,00911
+535965010,9,2,"South to Lake Elsinore  ",,0,84448701,shp-9-51,0,0,00811
+535967010,9,2,"South to Lake Elsinore  ",,0,84449501,shp-9-51,0,0,00812
+535969010,9,2,"South to Lake Elsinore  ",,0,84451301,shp-9-51,0,0,07414
+535971010,9,2,"South to Lake Elsinore  ",,0,84448501,shp-9-51,0,0,00911
+535973010,9,2,"South to Lake Elsinore  ",,0,84450701,shp-9-51,0,0,06113
+535954010,9,2,"North to Perris",,1,84448901,shp-9-01,0,0,06112
+535956010,9,2,"North to Perris",,1,84448501,shp-9-01,0,0,00911
+535958010,9,2,"North to Perris",,1,84448501,shp-9-01,0,0,00911
+535960010,9,2,"North to Perris",,1,84448501,shp-9-01,0,0,00911
+535962010,9,2,"North to Perris",,1,84448501,shp-9-01,0,0,00911
+535964010,9,2,"North to Perris",,1,84448701,shp-9-01,0,0,00811
+535966010,9,2,"North to Perris",,1,84449501,shp-9-01,0,0,00812
+535968010,9,2,"North to Perris",,1,84449501,shp-9-01,0,0,00812
+535970010,9,2,"North to Perris",,1,84448501,shp-9-01,0,0,00911
+535972010,9,2,"North to Perris",,1,84448501,shp-9-01,0,0,00911
+535974010,9,2,"North to Perris",,1,84451001,shp-9-01,0,0,00813

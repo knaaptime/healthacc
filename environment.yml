@@ -1,0 +1,24 @@
+name: healthacc
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3
+  - jupyter                         # necessary to run notebooks
+  - jupyterlab                      # necessary to run notebooks
+  - pandas >=1.0                    # generate markdown tables
+  - tabulate                        # generate markdown tables
+  - pandoc >=2.7                    # necessary to compile the paper
+  - pandoc-crossref                 # necessary to compile the paper
+  - tectonic                        # necessary to compile the paper
+  - watermark                       # add metadata to notebooks
+  - pysal
+  - access
+  - urbanaccess
+  - pandana
+  - geosnap
+  - geopy <2
+  - pip
+  - pip:
+    - pandoc-include                 # necessary to compile the paper
+    - pandoc-latex-admonition        # necessary to compile the paper

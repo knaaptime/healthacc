@@ -1,0 +1,33 @@
+geoid,hos,hos address,hos coordinates,bus stops,bus stops,cities,clinics
+6025010101,0,,,1,1,Calipatria (portions),0
+6025010102,0,,,5,5,"Calipatria, Niland ",0
+6025010200,0,,,2,2,Westmorland,0
+6025010300,0,,,0,0,Brawley,0
+6025010400,0,,,8,8,Brawley,0
+6025010500,0,,,5,5,Brawley,0
+6025010600,1,"207 W Legion Rd, Brawley, CA 92227",X:  -115.55422 Y: 32.959953,14,14,Brawley,1
+6025010700,0,,,10,10,Brawley,3
+6025010800,0,,,0,0,Holtville,0
+6025010900,0,,,3,3,Holtville,0
+6025011000,0,,,7,7,Imperial,0
+6025011100,0,,,1,1,"Seeley, Naval Air Facility El Centro",0
+6025011201,0,,,15,15,"Imperial, El Centro",0
+6025011202,0,,,7,7,El Centro,0
+6025011300,0,,,8,8,"Heber, El Centro",0
+6025011400,0,,,5,5,El Centro,2
+6025011500,0,,,4,4,El Centro,0
+6025011600,0,,,13,13,El Centro,1
+6025011700,1,"1415 Ross Ave, El Centro, CA 92243",X:  -115.56864 Y: 32.781487,6,6,El Centro,0
+6025011801,0,,,2,2,El Centro,0
+6025011802,0,,,1,1,El Centro,0
+6025011803,0,,,5,5,El Centro,1
+6025011900,0,,,2,2,"Calexico, Rural Area",1
+6025012001,0,,,5,5,Calexico,0
+6025012002,0,,,2,2,Calexico,0
+6025012100,0,,,5,5,Calexico,2
+6025012200,0,,,3,3,Calexico,0
+6025012301,0,,,0,0,"Ocotillo, Salton City",0
+6025012302,0,,,0,0,"Desert Shores, Salton City",0
+6025012400,0,,,4,4,Bombay Beach,0
+6025940000,0,,,0,0,Winterhaven,1
+,,,,,,,1

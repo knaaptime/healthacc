@@ -15,9 +15,11 @@ dependencies:
   - pysal
   - access
   - urbanaccess
-  - pandana
+  - pandana >=0.5
   - geosnap
   - geopy <2
+  - descartes
+  - osmnx
   - pip
   - pip:
     - pandoc-include                 # necessary to compile the paper

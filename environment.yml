@@ -20,7 +20,12 @@ dependencies:
   - geopy <2
   - descartes
   - osmnx
+  - contextily
+  - hvplot
+  - geoviews
+  - pygeos
   - pip
   - pip:
     - pandoc-include                 # necessary to compile the paper
     - pandoc-latex-admonition        # necessary to compile the paper
+    - geopatra

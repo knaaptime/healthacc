@@ -1,14 +1,32 @@
 # healthacc
 
-measuring accessibility to healthcare and COVID-19 testing in California and beyond
+measuring multimodal accessibility to healthcare and COVID-19 testing in California and beyond
 
+![](figures/counties/06059.png)
 
 This repo explores workflows for scalable accessibility analysis by integrating the new PySAL
 `access` package with the urban data science toolkit stack. Together these tools allow for rapid
 analyses of open transport data with full control over the way "access" is parameterized and
 measured.
 
-The workflow begins with **no data** and uses builtin tooling to collect all necessary network (including pedestrian and transit), population, and destination data. A later notebook uses a shapefile of cov19 test sites downloaded [from here](https://www.giscorps.org/covid-19-testing-site-locator/) but those are the only necessary external data 
+
+The workflow begins with **no data** and uses builtin tooling to collect all necessary network
+(including pedestrian and transit), population, and destination data. A later notebook uses a
+shapefile of cov19 test sites downloaded
+[from here](https://www.giscorps.org/covid-19-testing-site-locator/) but those are the only
+necessary external data.
+
+
+First I download blockgroups and population data for the state of California using `cenpy`, followed
+by OpenStreetMap and GTFS data using `osmnet` and `urbanaccess` (and a little bit of custom code to
+handle a newer GTFS data source). Then I generate a travel cost matrix using `pandana` to find the
+shortest walk/transit route from every blockgroup to every other blockgroup within a specified
+timeframe. With travel data in hand, we just need `osmnx` to grab any OpenStreetMap POI tagged as
+healthcare (and/or the covid19 test sites linked above.). Finally, all that data is fed to pysal's
+new `access` package to generate different measures of accessibility for each county.
+
+More details in the notebooks
+
 
 ## Set up
 

@@ -1,0 +1,833 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,shape_id
+1,Monday,010100,El Centro,0,1
+1,Monday,010101,El Centro,0,1
+1,Monday,010102,El Centro,0,1
+1,Monday,010103,El Centro,0,1
+1,Monday,010104,El Centro,0,1
+1,Monday,010105,El Centro,0,1
+1,Monday,010106,El Centro,0,1
+1,Monday,010107,El Centro,0,1
+1,Monday,010108,El Centro,0,1
+1,Monday,010109,El Centro,0,1
+1,Monday,010110,El Centro,0,1
+1,Monday,010111,El Centro,0,1
+1,Monday,010112,El Centro,0,1
+1,Monday,010113,El Centro,0,1
+1,Monday,010114,El Centro,0,1
+1,Monday,010115,El Centro,0,1
+1,Monday,010116,El Centro,0,1
+1,Monday,010117,El Centro,0,1
+1,Monday,010118,El Centro,0,1
+1,Monday,010119,El Centro,0,1
+1,Monday,010120,El Centro,0,1
+1,Monday,010121,El Centro,0,1
+1,Monday,010122,El Centro,0,1
+1,Tuesday,010200,El Centro,0,1
+1,Tuesday,010201,El Centro,0,1
+1,Tuesday,010202,El Centro,0,1
+1,Tuesday,010203,El Centro,0,1
+1,Tuesday,010204,El Centro,0,1
+1,Tuesday,010205,El Centro,0,1
+1,Tuesday,010206,El Centro,0,1
+1,Tuesday,010207,El Centro,0,1
+1,Tuesday,010208,El Centro,0,1
+1,Tuesday,010209,El Centro,0,1
+1,Tuesday,010210,El Centro,0,1
+1,Tuesday,010211,El Centro,0,1
+1,Tuesday,010212,El Centro,0,1
+1,Tuesday,010213,El Centro,0,1
+1,Tuesday,010214,El Centro,0,1
+1,Tuesday,010215,El Centro,0,1
+1,Tuesday,010216,El Centro,0,1
+1,Tuesday,010217,El Centro,0,1
+1,Tuesday,010218,El Centro,0,1
+1,Tuesday,010219,El Centro,0,1
+1,Tuesday,010220,El Centro,0,1
+1,Tuesday,010221,El Centro,0,1
+1,Tuesday,010222,El Centro,0,1
+1,Wednesday,010300,El Centro,0,1
+1,Wednesday,010301,El Centro,0,1
+1,Wednesday,010302,El Centro,0,1
+1,Wednesday,010303,El Centro,0,1
+1,Wednesday,010304,El Centro,0,1
+1,Wednesday,010305,El Centro,0,1
+1,Wednesday,010306,El Centro,0,1
+1,Wednesday,010307,El Centro,0,1
+1,Wednesday,010308,El Centro,0,1
+1,Wednesday,010309,El Centro,0,1
+1,Wednesday,010310,El Centro,0,1
+1,Wednesday,010311,El Centro,0,1
+1,Wednesday,010312,El Centro,0,1
+1,Wednesday,010313,El Centro,0,1
+1,Wednesday,010314,El Centro,0,1
+1,Wednesday,010315,El Centro,0,1
+1,Wednesday,010316,El Centro,0,1
+1,Wednesday,010317,El Centro,0,1
+1,Wednesday,010318,El Centro,0,1
+1,Wednesday,010319,El Centro,0,1
+1,Wednesday,010320,El Centro,0,1
+1,Wednesday,010321,El Centro,0,1
+1,Wednesday,010322,El Centro,0,1
+1,Thursday,010400,El Centro,0,1
+1,Thursday,010401,El Centro,0,1
+1,Thursday,010402,El Centro,0,1
+1,Thursday,010403,El Centro,0,1
+1,Thursday,010404,El Centro,0,1
+1,Thursday,010405,El Centro,0,1
+1,Thursday,010406,El Centro,0,1
+1,Thursday,010407,El Centro,0,1
+1,Thursday,010408,El Centro,0,1
+1,Thursday,010409,El Centro,0,1
+1,Thursday,010410,El Centro,0,1
+1,Thursday,010411,El Centro,0,1
+1,Thursday,010412,El Centro,0,1
+1,Thursday,010413,El Centro,0,1
+1,Thursday,010414,El Centro,0,1
+1,Thursday,010415,El Centro,0,1
+1,Thursday,010416,El Centro,0,1
+1,Thursday,010417,El Centro,0,1
+1,Thursday,010418,El Centro,0,1
+1,Thursday,010419,El Centro,0,1
+1,Thursday,010420,El Centro,0,1
+1,Thursday,010421,El Centro,0,1
+1,Thursday,010422,El Centro,0,1
+1,Friday,010500,El Centro,0,1
+1,Friday,010501,El Centro,0,1
+1,Friday,010502,El Centro,0,1
+1,Friday,010503,El Centro,0,1
+1,Friday,010504,El Centro,0,1
+1,Friday,010505,El Centro,0,1
+1,Friday,010506,El Centro,0,1
+1,Friday,010507,El Centro,0,1
+1,Friday,010508,El Centro,0,1
+1,Friday,010509,El Centro,0,1
+1,Friday,010510,El Centro,0,1
+1,Friday,010511,El Centro,0,1
+1,Friday,010512,El Centro,0,1
+1,Friday,010513,El Centro,0,1
+1,Friday,010514,El Centro,0,1
+1,Friday,010515,El Centro,0,1
+1,Friday,010516,El Centro,0,1
+1,Friday,010517,El Centro,0,1
+1,Friday,010518,El Centro,0,1
+1,Friday,010519,El Centro,0,1
+1,Friday,010520,El Centro,0,1
+1,Friday,010521,El Centro,0,1
+1,Friday,010522,El Centro,0,1
+1,Saturday,010600,El Centro,0,1
+1,Saturday,010601,El Centro,0,1
+1,Saturday,010602,El Centro,0,1
+1,Saturday,010603,El Centro,0,1
+1,Saturday,010604,El Centro,0,1
+1,Saturday,010605,El Centro,0,1
+1,Saturday,010606,El Centro,0,1
+1,Saturday,010607,El Centro,0,1
+1,Saturday,010608,El Centro,0,1
+1,Saturday,010609,El Centro,0,1
+1,Sunday,010700,El Centro,0,1
+1,Sunday,010701,El Centro,0,1
+1,Sunday,010702,El Centro,0,1
+1,Sunday,010703,El Centro,0,1
+1,Sunday,010704,El Centro,0,1
+1,Sunday,010705,El Centro,0,1
+1,Monday,020100,Calexico,1,2
+1,Monday,020101,Calexico,1,2
+1,Monday,020102,Calexico,1,2
+1,Monday,020103,Calexico,1,2
+1,Monday,020104,Calexico,1,2
+1,Monday,020105,Calexico,1,2
+1,Monday,020106,Calexico,1,2
+1,Monday,020107,Calexico,1,2
+1,Monday,020108,Calexico,1,2
+1,Monday,020109,Calexico,1,2
+1,Monday,020110,Calexico,1,2
+1,Monday,020111,Calexico,1,2
+1,Monday,020112,Calexico,1,2
+1,Monday,020113,Calexico,1,2
+1,Monday,020114,Calexico,1,2
+1,Monday,020115,Calexico,1,2
+1,Monday,020116,Calexico,1,2
+1,Monday,020117,Calexico,1,2
+1,Monday,020118,Calexico,1,2
+1,Monday,020119,Calexico,1,2
+1,Monday,020120,Calexico,1,2
+1,Tuesday,020200,Calexico,1,2
+1,Tuesday,020201,Calexico,1,2
+1,Tuesday,020202,Calexico,1,2
+1,Tuesday,020203,Calexico,1,2
+1,Tuesday,020204,Calexico,1,2
+1,Tuesday,020205,Calexico,1,2
+1,Tuesday,020206,Calexico,1,2
+1,Tuesday,020207,Calexico,1,2
+1,Tuesday,020208,Calexico,1,2
+1,Tuesday,020209,Calexico,1,2
+1,Tuesday,020210,Calexico,1,2
+1,Tuesday,020211,Calexico,1,2
+1,Tuesday,020212,Calexico,1,2
+1,Tuesday,020213,Calexico,1,2
+1,Tuesday,020214,Calexico,1,2
+1,Tuesday,020215,Calexico,1,2
+1,Tuesday,020216,Calexico,1,2
+1,Tuesday,020217,Calexico,1,2
+1,Tuesday,020218,Calexico,1,2
+1,Tuesday,020219,Calexico,1,2
+1,Tuesday,020220,Calexico,1,2
+1,Wednesday,020300,Calexico,1,2
+1,Wednesday,020301,Calexico,1,2
+1,Wednesday,020302,Calexico,1,2
+1,Wednesday,020303,Calexico,1,2
+1,Wednesday,020304,Calexico,1,2
+1,Wednesday,020305,Calexico,1,2
+1,Wednesday,020306,Calexico,1,2
+1,Wednesday,020307,Calexico,1,2
+1,Wednesday,020308,Calexico,1,2
+1,Wednesday,020309,Calexico,1,2
+1,Wednesday,020310,Calexico,1,2
+1,Wednesday,020311,Calexico,1,2
+1,Wednesday,020312,Calexico,1,2
+1,Wednesday,020313,Calexico,1,2
+1,Wednesday,020314,Calexico,1,2
+1,Wednesday,020315,Calexico,1,2
+1,Wednesday,020316,Calexico,1,2
+1,Wednesday,020317,Calexico,1,2
+1,Wednesday,020318,Calexico,1,2
+1,Wednesday,020319,Calexico,1,2
+1,Wednesday,020320,Calexico,1,2
+1,Thursday,020400,Calexico,1,2
+1,Thursday,020401,Calexico,1,2
+1,Thursday,020402,Calexico,1,2
+1,Thursday,020403,Calexico,1,2
+1,Thursday,020404,Calexico,1,2
+1,Thursday,020405,Calexico,1,2
+1,Thursday,020406,Calexico,1,2
+1,Thursday,020407,Calexico,1,2
+1,Thursday,020408,Calexico,1,2
+1,Thursday,020409,Calexico,1,2
+1,Thursday,020410,Calexico,1,2
+1,Thursday,020411,Calexico,1,2
+1,Thursday,020412,Calexico,1,2
+1,Thursday,020413,Calexico,1,2
+1,Thursday,020414,Calexico,1,2
+1,Thursday,020415,Calexico,1,2
+1,Thursday,020416,Calexico,1,2
+1,Thursday,020417,Calexico,1,2
+1,Thursday,020418,Calexico,1,2
+1,Thursday,020419,Calexico,1,2
+1,Thursday,020420,Calexico,1,2
+1,Friday,020500,Calexico,1,2
+1,Friday,020501,Calexico,1,2
+1,Friday,020502,Calexico,1,2
+1,Friday,020503,Calexico,1,2
+1,Friday,020504,Calexico,1,2
+1,Friday,020505,Calexico,1,2
+1,Friday,020506,Calexico,1,2
+1,Friday,020507,Calexico,1,2
+1,Friday,020508,Calexico,1,2
+1,Friday,020509,Calexico,1,2
+1,Friday,020510,Calexico,1,2
+1,Friday,020511,Calexico,1,2
+1,Friday,020512,Calexico,1,2
+1,Friday,020513,Calexico,1,2
+1,Friday,020514,Calexico,1,2
+1,Friday,020515,Calexico,1,2
+1,Friday,020516,Calexico,1,2
+1,Friday,020517,Calexico,1,2
+1,Friday,020518,Calexico,1,2
+1,Friday,020519,Calexico,1,2
+1,Friday,020520,Calexico,1,2
+1,Saturday,020600,Calexico,1,2
+1,Saturday,020601,Calexico,1,2
+1,Saturday,020602,Calexico,1,2
+1,Saturday,020603,Calexico,1,2
+1,Saturday,020604,Calexico,1,2
+1,Saturday,020605,Calexico,1,2
+1,Saturday,020606,Calexico,1,2
+1,Saturday,020607,Calexico,1,2
+1,Saturday,020608,Calexico,1,2
+1,Sunday,020700,Calexico,1,2
+1,Sunday,020701,Calexico,1,2
+1,Sunday,020702,Calexico,1,2
+1,Sunday,020703,Calexico,1,2
+2,Monday,030100,Niland,0,3
+2,Monday,030101,Niland,0,3
+2,Monday,030102,Niland,0,3
+2,Monday,030103,Niland,0,3
+2,Monday,030104,Niland,0,3
+2,Monday,030105,Niland,0,3
+2,Monday,030106,Niland,0,3
+2,Monday,030107,Niland,0,3
+2,Monday,030108,Niland,0,3
+2,Monday,030109,Niland,0,3
+2,Monday,030110,Niland,0,3
+2,Monday,030111,Niland,0,3
+2,Tuesday,030200,Niland,0,3
+2,Tuesday,030201,Niland,0,3
+2,Tuesday,030202,Niland,0,3
+2,Tuesday,030203,Niland,0,3
+2,Tuesday,030204,Niland,0,3
+2,Tuesday,030205,Niland,0,3
+2,Tuesday,030206,Niland,0,3
+2,Tuesday,030207,Niland,0,3
+2,Tuesday,030208,Niland,0,3
+2,Tuesday,030209,Niland,0,3
+2,Tuesday,030210,Niland,0,3
+2,Tuesday,030211,Niland,0,3
+2,Wednesday,030300,Niland,0,3
+2,Wednesday,030301,Niland,0,3
+2,Wednesday,030302,Niland,0,3
+2,Wednesday,030303,Niland,0,3
+2,Wednesday,030304,Niland,0,3
+2,Wednesday,030305,Niland,0,3
+2,Wednesday,030306,Niland,0,3
+2,Wednesday,030307,Niland,0,3
+2,Wednesday,030308,Niland,0,3
+2,Wednesday,030309,Niland,0,3
+2,Wednesday,030310,Niland,0,3
+2,Wednesday,030311,Niland,0,3
+2,Thursday,030400,Niland,0,3
+2,Thursday,030401,Niland,0,3
+2,Thursday,030402,Niland,0,3
+2,Thursday,030403,Niland,0,3
+2,Thursday,030404,Niland,0,3
+2,Thursday,030405,Niland,0,3
+2,Thursday,030406,Niland,0,3
+2,Thursday,030407,Niland,0,3
+2,Thursday,030408,Niland,0,3
+2,Thursday,030409,Niland,0,3
+2,Thursday,030410,Niland,0,3
+2,Thursday,030411,Niland,0,3
+2,Friday,030500,Niland,0,3
+2,Friday,030501,Niland,0,3
+2,Friday,030502,Niland,0,3
+2,Friday,030503,Niland,0,3
+2,Friday,030504,Niland,0,3
+2,Friday,030505,Niland,0,3
+2,Friday,030506,Niland,0,3
+2,Friday,030507,Niland,0,3
+2,Friday,030508,Niland,0,3
+2,Friday,030509,Niland,0,3
+2,Friday,030510,Niland,0,3
+2,Friday,030511,Niland,0,3
+2,Saturday,030600,Niland,0,3
+2,Saturday,030601,Niland,0,3
+2,Saturday,030602,Niland,0,3
+2,Saturday,030603,Niland,0,3
+2,Saturday,030604,Niland,0,3
+2,Saturday,030605,Niland,0,3
+2,Saturday,030606,Niland,0,3
+2,Saturday,030607,Niland,0,3
+2,Saturday,030608,Niland,0,3
+2,Saturday,030609,Niland,0,3
+2,Sunday,030700,Niland,0,3
+2,Sunday,030701,Niland,0,3
+2,Sunday,030702,Niland,0,3
+2,Sunday,030703,Niland,0,3
+2,Monday,040100,El Centro,1,4
+2,Monday,040101,El Centro,1,4
+2,Monday,040102,El Centro,1,4
+2,Monday,040103,El Centro,1,4
+2,Monday,040104,El Centro,1,4
+2,Monday,040105,El Centro,1,4
+2,Monday,040106,El Centro,1,4
+2,Monday,040107,El Centro,1,4
+2,Monday,040108,El Centro,1,4
+2,Monday,040109,El Centro,1,4
+2,Monday,040110,El Centro,1,4
+2,Monday,040111,El Centro,1,4
+2,Tuesday,040200,El Centro,1,4
+2,Tuesday,040201,El Centro,1,4
+2,Tuesday,040202,El Centro,1,4
+2,Tuesday,040203,El Centro,1,4
+2,Tuesday,040204,El Centro,1,4
+2,Tuesday,040205,El Centro,1,4
+2,Tuesday,040206,El Centro,1,4
+2,Tuesday,040207,El Centro,1,4
+2,Tuesday,040208,El Centro,1,4
+2,Tuesday,040209,El Centro,1,4
+2,Tuesday,040210,El Centro,1,4
+2,Tuesday,040211,El Centro,1,4
+2,Wednesday,040300,El Centro,1,4
+2,Wednesday,040301,El Centro,1,4
+2,Wednesday,040302,El Centro,1,4
+2,Wednesday,040303,El Centro,1,4
+2,Wednesday,040304,El Centro,1,4
+2,Wednesday,040305,El Centro,1,4
+2,Wednesday,040306,El Centro,1,4
+2,Wednesday,040307,El Centro,1,4
+2,Wednesday,040308,El Centro,1,4
+2,Wednesday,040309,El Centro,1,4
+2,Wednesday,040310,El Centro,1,4
+2,Wednesday,040311,El Centro,1,4
+2,Thursday,040400,El Centro,1,4
+2,Thursday,040401,El Centro,1,4
+2,Thursday,040402,El Centro,1,4
+2,Thursday,040403,El Centro,1,4
+2,Thursday,040404,El Centro,1,4
+2,Thursday,040405,El Centro,1,4
+2,Thursday,040406,El Centro,1,4
+2,Thursday,040407,El Centro,1,4
+2,Thursday,040408,El Centro,1,4
+2,Thursday,040409,El Centro,1,4
+2,Thursday,040410,El Centro,1,4
+2,Thursday,040411,El Centro,1,4
+2,Friday,040500,El Centro,1,4
+2,Friday,040501,El Centro,1,4
+2,Friday,040502,El Centro,1,4
+2,Friday,040503,El Centro,1,4
+2,Friday,040504,El Centro,1,4
+2,Friday,040505,El Centro,1,4
+2,Friday,040506,El Centro,1,4
+2,Friday,040507,El Centro,1,4
+2,Friday,040508,El Centro,1,4
+2,Friday,040509,El Centro,1,4
+2,Friday,040510,El Centro,1,4
+2,Friday,040511,El Centro,1,4
+2,Saturday,040600,El Centro,1,4
+2,Saturday,040601,El Centro,1,4
+2,Saturday,040602,El Centro,1,4
+2,Saturday,040603,El Centro,1,4
+2,Saturday,040604,El Centro,1,4
+2,Saturday,040605,El Centro,1,4
+2,Saturday,040606,El Centro,1,4
+2,Saturday,040607,El Centro,1,4
+2,Saturday,040608,El Centro,1,4
+2,Sunday,040700,El Centro,1,4
+2,Sunday,040701,El Centro,1,4
+2,Sunday,040702,El Centro,1,4
+2,Sunday,040703,El Centro,1,4
+3,Monday,050100,Holtville,0,5
+3,Monday,050101,Holtville,0,5
+3,Monday,050102,Holtville,0,5
+3,Monday,050103,Holtville,0,5
+3,Monday,050104,Holtville,0,5
+3,Tuesday,050200,Holtville,0,5
+3,Tuesday,050201,Holtville,0,5
+3,Tuesday,050202,Holtville,0,5
+3,Tuesday,050203,Holtville,0,5
+3,Tuesday,050204,Holtville,0,5
+3,Wednesday,050300,Holtville,0,5
+3,Wednesday,050301,Holtville,0,5
+3,Wednesday,050302,Holtville,0,5
+3,Wednesday,050303,Holtville,0,5
+3,Wednesday,050304,Holtville,0,5
+3,Thursday,050400,Holtville,0,5
+3,Thursday,050401,Holtville,0,5
+3,Thursday,050402,Holtville,0,5
+3,Thursday,050403,Holtville,0,5
+3,Thursday,050404,Holtville,0,5
+3,Friday,050500,Holtville,0,5
+3,Friday,050501,Holtville,0,5
+3,Friday,050502,Holtville,0,5
+3,Friday,050503,Holtville,0,5
+3,Friday,050504,Holtville,0,5
+3,Saturday,050600,Holtville,0,5
+3,Saturday,050601,Holtville,0,5
+3,Monday,060100,El Centro,1,6
+3,Monday,060101,El Centro,1,6
+3,Monday,060102,El Centro,1,6
+3,Monday,060103,El Centro,1,6
+3,Monday,060104,El Centro,1,6
+3,Tuesday,060200,El Centro,1,6
+3,Tuesday,060201,El Centro,1,6
+3,Tuesday,060202,El Centro,1,6
+3,Tuesday,060203,El Centro,1,6
+3,Tuesday,060204,El Centro,1,6
+3,Wednesday,060300,El Centro,1,6
+3,Wednesday,060301,El Centro,1,6
+3,Wednesday,060302,El Centro,1,6
+3,Wednesday,060303,El Centro,1,6
+3,Wednesday,060304,El Centro,1,6
+3,Thursday,060400,El Centro,1,6
+3,Thursday,060401,El Centro,1,6
+3,Thursday,060402,El Centro,1,6
+3,Thursday,060403,El Centro,1,6
+3,Thursday,060404,El Centro,1,6
+3,Friday,060500,El Centro,1,6
+3,Friday,060501,El Centro,1,6
+3,Friday,060502,El Centro,1,6
+3,Friday,060503,El Centro,1,6
+3,Friday,060504,El Centro,1,6
+3,Saturday,060600,El Centro,1,6
+3,Saturday,060601,El Centro,1,6
+3,Saturday,060602,El Centro,1,6
+4,Monday,070100,El Centro,0,7
+4,Monday,070101,El Centro,0,7
+4,Monday,070102,El Centro,0,7
+4,Monday,070103,El Centro,0,7
+4,Monday,070104,El Centro,0,7
+4,Tuesday,070200,El Centro,0,7
+4,Tuesday,070201,El Centro,0,7
+4,Tuesday,070202,El Centro,0,7
+4,Tuesday,070203,El Centro,0,7
+4,Tuesday,070204,El Centro,0,7
+4,Wednesday,070300,El Centro,0,7
+4,Wednesday,070301,El Centro,0,7
+4,Wednesday,070302,El Centro,0,7
+4,Wednesday,070303,El Centro,0,7
+4,Wednesday,070304,El Centro,0,7
+4,Thursday,070400,El Centro,0,7
+4,Thursday,070401,El Centro,0,7
+4,Thursday,070402,El Centro,0,7
+4,Thursday,070403,El Centro,0,7
+4,Thursday,070404,El Centro,0,7
+4,Friday,070500,El Centro,0,7
+4,Friday,070501,El Centro,0,7
+4,Friday,070502,El Centro,0,7
+4,Friday,070503,El Centro,0,7
+4,Friday,070504,El Centro,0,7
+4,Saturday,070600,El Centro,0,7
+4,Saturday,070601,El Centro,0,7
+4,Saturday,070602,El Centro,0,7
+4,Monday,080100,Seeley,1,8
+4,Monday,080101,Seeley,1,8
+4,Monday,080102,Seeley,1,8
+4,Monday,080103,Seeley,1,8
+4,Monday,080104,Seeley,1,8
+4,Monday,080105,Seeley,1,8
+4,Tuesday,080200,Seeley,1,8
+4,Tuesday,080201,Seeley,1,8
+4,Tuesday,080202,Seeley,1,8
+4,Tuesday,080203,Seeley,1,8
+4,Tuesday,080204,Seeley,1,8
+4,Tuesday,080205,Seeley,1,8
+4,Wednesday,080300,Seeley,1,8
+4,Wednesday,080301,Seeley,1,8
+4,Wednesday,080302,Seeley,1,8
+4,Wednesday,080303,Seeley,1,8
+4,Wednesday,080304,Seeley,1,8
+4,Wednesday,080305,Seeley,1,8
+4,Thursday,080400,Seeley,1,8
+4,Thursday,080401,Seeley,1,8
+4,Thursday,080402,Seeley,1,8
+4,Thursday,080403,Seeley,1,8
+4,Thursday,080404,Seeley,1,8
+4,Thursday,080405,Seeley,1,8
+4,Friday,080500,Seeley,1,8
+4,Friday,080501,Seeley,1,8
+4,Friday,080502,Seeley,1,8
+4,Friday,080503,Seeley,1,8
+4,Friday,080504,Seeley,1,8
+4,Friday,080505,Seeley,1,8
+4,Saturday,080600,Seeley,1,8
+4,Saturday,080601,Seeley,1,8
+4,Saturday,080602,Seeley,1,8
+5,Monday,090100,Imperial Valley College,0,9
+5,Monday,090101,Imperial Valley College,0,9
+5,Monday,090102,Imperial Valley College,0,9
+5,Monday,090103,Imperial Valley College,0,9
+5,Monday,090104,Imperial Valley College,0,9
+5,Monday,090105,Imperial Valley College,0,9
+5,Tuesday,090200,Imperial Valley College,0,9
+5,Tuesday,090201,Imperial Valley College,0,9
+5,Tuesday,090202,Imperial Valley College,0,9
+5,Tuesday,090203,Imperial Valley College,0,9
+5,Tuesday,090204,Imperial Valley College,0,9
+5,Tuesday,090205,Imperial Valley College,0,9
+5,Wednesday,090300,Imperial Valley College,0,9
+5,Wednesday,090301,Imperial Valley College,0,9
+5,Wednesday,090302,Imperial Valley College,0,9
+5,Wednesday,090303,Imperial Valley College,0,9
+5,Wednesday,090304,Imperial Valley College,0,9
+5,Wednesday,090305,Imperial Valley College,0,9
+5,Thursday,090400,Imperial Valley College,0,9
+5,Thursday,090401,Imperial Valley College,0,9
+5,Thursday,090402,Imperial Valley College,0,9
+5,Thursday,090403,Imperial Valley College,0,9
+5,Thursday,090404,Imperial Valley College,0,9
+5,Thursday,090405,Imperial Valley College,0,9
+5,Friday,090500,Imperial Valley College,0,9
+5,Friday,090501,Imperial Valley College,0,9
+5,Friday,090502,Imperial Valley College,0,9
+5,Monday,100100,Calexico,1,10
+5,Monday,100101,Calexico,1,10
+5,Monday,100102,Calexico,1,10
+5,Monday,100103,Calexico,1,10
+5,Monday,100104,Calexico,1,10
+5,Tuesday,100200,Calexico,1,10
+5,Tuesday,100201,Calexico,1,10
+5,Tuesday,100202,Calexico,1,10
+5,Tuesday,100203,Calexico,1,10
+5,Tuesday,100204,Calexico,1,10
+5,Wednesday,100300,Calexico,1,10
+5,Wednesday,100301,Calexico,1,10
+5,Wednesday,100302,Calexico,1,10
+5,Wednesday,100303,Calexico,1,10
+5,Wednesday,100304,Calexico,1,10
+5,Thursday,100400,Calexico,1,10
+5,Thursday,100401,Calexico,1,10
+5,Thursday,100402,Calexico,1,10
+5,Thursday,100403,Calexico,1,10
+5,Thursday,100404,Calexico,1,10
+5,Friday,100500,Calexico,1,10
+5,Friday,100501,Calexico,1,10
+5,Friday,100502,Calexico,1,10
+6,Monday,110100,Niland,0,11
+6,Monday,110101,Niland,0,11
+6,Tuesday,110200,Niland,0,11
+6,Tuesday,110201,Niland,0,11
+6,Wednesday,110300,Niland,0,11
+6,Wednesday,110301,Niland,0,11
+6,Thursday,110400,Niland,0,11
+6,Thursday,110401,Niland,0,11
+6,Friday,110500,Niland,0,11
+6,Friday,110501,Niland,0,11
+6,Monday,120100,Imperial Valley College,1,12
+6,Monday,120101,Imperial Valley College,1,12
+6,Tuesday,120200,Imperial Valley College,1,12
+6,Tuesday,120201,Imperial Valley College,1,12
+6,Wednesday,120300,Imperial Valley College,1,12
+6,Wednesday,120301,Imperial Valley College,1,12
+6,Thursday,120400,Imperial Valley College,1,12
+6,Thursday,120401,Imperial Valley College,1,12
+6,Friday,120500,Imperial Valley College,1,12
+6,Friday,120501,Imperial Valley College,1,12
+7,Monday,130100,Calexico [Direct],0,13
+7,Monday,130101,Calexico [Direct],0,13
+7,Monday,130102,Calexico [Direct],0,13
+7,Monday,130103,Calexico [Direct],0,13
+7,Tuesday,130200,Calexico [Direct],0,13
+7,Tuesday,130201,Calexico [Direct],0,13
+7,Tuesday,130202,Calexico [Direct],0,13
+7,Tuesday,130203,Calexico [Direct],0,13
+7,Wednesday,130300,Calexico [Direct],0,13
+7,Wednesday,130301,Calexico [Direct],0,13
+7,Wednesday,130302,Calexico [Direct],0,13
+7,Wednesday,130303,Calexico [Direct],0,13
+7,Thursday,130400,Calexico [Direct],0,13
+7,Thursday,130401,Calexico [Direct],0,13
+7,Thursday,130402,Calexico [Direct],0,13
+7,Thursday,130403,Calexico [Direct],0,13
+7,Friday,130500,Calexico [Direct],0,13
+7,Friday,130501,Calexico [Direct],0,13
+7,Friday,130502,Calexico [Direct],0,13
+7,Friday,130503,Calexico [Direct],0,13
+7,Saturday,130600,Calexico [Direct],0,13
+7,Saturday,130601,Calexico [Direct],0,13
+7,Saturday,130602,Calexico [Direct],0,13
+7,Saturday,130603,Calexico [Direct],0,13
+8,Monday,140100,Brawley [Direct],0,14
+8,Monday,140101,Brawley [Direct],0,14
+8,Monday,140102,Brawley [Direct],0,14
+8,Monday,140103,Brawley [Direct],0,14
+8,Tuesday,140200,Brawley [Direct],0,14
+8,Tuesday,140201,Brawley [Direct],0,14
+8,Tuesday,140202,Brawley [Direct],0,14
+8,Tuesday,140203,Brawley [Direct],0,14
+8,Wednesday,140300,Brawley [Direct],0,14
+8,Wednesday,140301,Brawley [Direct],0,14
+8,Wednesday,140302,Brawley [Direct],0,14
+8,Wednesday,140303,Brawley [Direct],0,14
+8,Thursday,140400,Brawley [Direct],0,14
+8,Thursday,140401,Brawley [Direct],0,14
+8,Thursday,140402,Brawley [Direct],0,14
+8,Thursday,140403,Brawley [Direct],0,14
+8,Friday,140500,Brawley [Direct],0,14
+8,Friday,140501,Brawley [Direct],0,14
+8,Friday,140502,Brawley [Direct],0,14
+8,Friday,140503,Brawley [Direct],0,14
+8,Saturday,140600,Brawley [Direct],0,14
+8,Saturday,140601,Brawley [Direct],0,14
+8,Saturday,140602,Brawley [Direct],0,14
+8,Saturday,140603,Brawley [Direct],0,14
+9,Monday,150100,Brawley,0,15
+9,Monday,150101,Brawley,0,15
+9,Tuesday,150200,Brawley,0,15
+9,Tuesday,150201,Brawley,0,15
+9,Wednesday,150300,Brawley,0,15
+9,Wednesday,150301,Brawley,0,15
+9,Thursday,150400,Brawley,0,15
+9,Thursday,150401,Brawley,0,15
+9,Friday,150500,Brawley,0,15
+9,Friday,150501,Brawley,0,15
+10,Thursday,160400,Bombay Beach,0,16
+10,Thursday,170400,Brawley,1,17
+11,Monday,180100,,0,18
+11,Monday,180101,,0,18
+11,Monday,180102,,0,18
+11,Monday,180103,,0,18
+11,Monday,180104,,0,18
+11,Monday,180105,,0,18
+11,Monday,180106,,0,18
+11,Monday,180107,,0,18
+11,Monday,180108,,0,18
+11,Monday,180109,,0,18
+11,Monday,180110,,0,18
+11,Tuesday,180200,,0,18
+11,Tuesday,180201,,0,18
+11,Tuesday,180202,,0,18
+11,Tuesday,180203,,0,18
+11,Tuesday,180204,,0,18
+11,Tuesday,180205,,0,18
+11,Tuesday,180206,,0,18
+11,Tuesday,180207,,0,18
+11,Tuesday,180208,,0,18
+11,Tuesday,180209,,0,18
+11,Tuesday,180210,,0,18
+11,Wednesday,180300,,0,18
+11,Wednesday,180301,,0,18
+11,Wednesday,180302,,0,18
+11,Wednesday,180303,,0,18
+11,Wednesday,180304,,0,18
+11,Wednesday,180305,,0,18
+11,Wednesday,180306,,0,18
+11,Wednesday,180307,,0,18
+11,Wednesday,180308,,0,18
+11,Wednesday,180309,,0,18
+11,Wednesday,180310,,0,18
+11,Thursday,180400,,0,18
+11,Thursday,180401,,0,18
+11,Thursday,180402,,0,18
+11,Thursday,180403,,0,18
+11,Thursday,180404,,0,18
+11,Thursday,180405,,0,18
+11,Thursday,180406,,0,18
+11,Thursday,180407,,0,18
+11,Thursday,180408,,0,18
+11,Thursday,180409,,0,18
+11,Thursday,180410,,0,18
+11,Friday,180500,,0,18
+11,Friday,180501,,0,18
+11,Friday,180502,,0,18
+11,Friday,180503,,0,18
+11,Friday,180504,,0,18
+11,Friday,180505,,0,18
+11,Friday,180506,,0,18
+11,Friday,180507,,0,18
+11,Friday,180508,,0,18
+11,Friday,180509,,0,18
+11,Friday,180510,,0,18
+12,Monday,190100,,0,19
+12,Monday,190101,,0,19
+12,Monday,190102,,0,19
+12,Monday,190103,,0,19
+12,Monday,190104,,0,19
+12,Monday,190105,,0,19
+12,Monday,190106,,0,19
+12,Monday,190107,,0,19
+12,Monday,190108,,0,19
+12,Monday,190109,,0,19
+12,Monday,190110,,0,19
+12,Tuesday,190200,,0,19
+12,Tuesday,190201,,0,19
+12,Tuesday,190202,,0,19
+12,Tuesday,190203,,0,19
+12,Tuesday,190204,,0,19
+12,Tuesday,190205,,0,19
+12,Tuesday,190206,,0,19
+12,Tuesday,190207,,0,19
+12,Tuesday,190208,,0,19
+12,Tuesday,190209,,0,19
+12,Tuesday,190210,,0,19
+12,Wednesday,190300,,0,19
+12,Wednesday,190301,,0,19
+12,Wednesday,190302,,0,19
+12,Wednesday,190303,,0,19
+12,Wednesday,190304,,0,19
+12,Wednesday,190305,,0,19
+12,Wednesday,190306,,0,19
+12,Wednesday,190307,,0,19
+12,Wednesday,190308,,0,19
+12,Wednesday,190309,,0,19
+12,Wednesday,190310,,0,19
+12,Thursday,190400,,0,19
+12,Thursday,190401,,0,19
+12,Thursday,190402,,0,19
+12,Thursday,190403,,0,19
+12,Thursday,190404,,0,19
+12,Thursday,190405,,0,19
+12,Thursday,190406,,0,19
+12,Thursday,190407,,0,19
+12,Thursday,190408,,0,19
+12,Thursday,190409,,0,19
+12,Thursday,190410,,0,19
+12,Friday,190500,,0,19
+12,Friday,190501,,0,19
+12,Friday,190502,,0,19
+12,Friday,190503,,0,19
+12,Friday,190504,,0,19
+12,Friday,190505,,0,19
+12,Friday,190506,,0,19
+12,Friday,190507,,0,19
+12,Friday,190508,,0,19
+12,Friday,190509,,0,19
+12,Friday,190510,,0,19
+13,Monday,200100,,0,20
+13,Monday,200101,,0,20
+13,Monday,200102,,0,20
+13,Monday,200103,,0,20
+13,Monday,200104,,0,20
+13,Monday,200105,,0,20
+13,Monday,200106,,0,20
+13,Monday,200107,,0,20
+13,Monday,200108,,0,20
+13,Monday,200109,,0,20
+13,Monday,200110,,0,20
+13,Monday,200111,,0,20
+13,Tuesday,200200,,0,20
+13,Tuesday,200201,,0,20
+13,Tuesday,200202,,0,20
+13,Tuesday,200203,,0,20
+13,Tuesday,200204,,0,20
+13,Tuesday,200205,,0,20
+13,Tuesday,200206,,0,20
+13,Tuesday,200207,,0,20
+13,Tuesday,200208,,0,20
+13,Tuesday,200209,,0,20
+13,Tuesday,200210,,0,20
+13,Tuesday,200211,,0,20
+13,Wednesday,200300,,0,20
+13,Wednesday,200301,,0,20
+13,Wednesday,200302,,0,20
+13,Wednesday,200303,,0,20
+13,Wednesday,200304,,0,20
+13,Wednesday,200305,,0,20
+13,Wednesday,200306,,0,20
+13,Wednesday,200307,,0,20
+13,Wednesday,200308,,0,20
+13,Wednesday,200309,,0,20
+13,Wednesday,200310,,0,20
+13,Wednesday,200311,,0,20
+13,Thursday,200400,,0,20
+13,Thursday,200401,,0,20
+13,Thursday,200402,,0,20
+13,Thursday,200403,,0,20
+13,Thursday,200404,,0,20
+13,Thursday,200405,,0,20
+13,Thursday,200406,,0,20
+13,Thursday,200407,,0,20
+13,Thursday,200408,,0,20
+13,Thursday,200409,,0,20
+13,Thursday,200410,,0,20
+13,Thursday,200411,,0,20
+13,Friday,200500,,0,20
+13,Friday,200501,,0,20
+13,Friday,200502,,0,20
+13,Friday,200503,,0,20
+13,Friday,200504,,0,20
+13,Friday,200505,,0,20
+13,Friday,200506,,0,20
+13,Friday,200507,,0,20
+13,Friday,200508,,0,20
+13,Friday,200509,,0,20
+13,Friday,200510,,0,20
+13,Friday,200511,,0,20
+9,Monday,210100,Brawley,1,21
+9,Tuesday,210200,Brawley,1,21
+9,Wednesday,210300,Brawley,1,21
+9,Thursday,210400,Brawley,1,21
+9,Friday,210500,Brawley,1,21
+14,Monday,220100,Holtville,0,22
+14,Monday,220101,Holtville,0,22
+14,Tuesday,220200,Holtville,0,22
+14,Tuesday,220201,Holtville,0,22
+14,Wednesday,220300,Holtville,0,22
+14,Wednesday,220301,Holtville,0,22
+14,Thursday,220400,Holtville,0,22
+14,Thursday,220401,Holtville,0,22
+14,Friday,220500,Holtville,0,22
+14,Friday,220501,Holtville,0,22
+14,Monday,230100,Holtville,1,23
+14,Tuesday,230200,Holtville,1,23
+14,Wednesday,230300,Holtville,1,23
+14,Thursday,230400,Holtville,1,23
+14,Friday,230500,Holtville,1,23

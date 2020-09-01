@@ -1,10 +1,16 @@
 # healthacc
 
-measuring accessibility to healthcare in the IE
+measuring accessibility to healthcare and COVID-19 testing in California and beyond
+
+
+This repo explores workflows for scalable accessibility analysis by integrating the new PySAL
+`access` package with the urban data science toolkit stack. Together these tools allow for rapid
+analyses of open transport data with full control over the way "access" is parameterized and
+measured.
+
+The workflow begins with **no data** and uses builtin tooling to collect all necessary network (including pedestrian and transit), population, and destination data. A later notebook uses a shapefile of cov19 test sites downloaded [from here](https://www.giscorps.org/covid-19-testing-site-locator/) but those are the only necessary external data 
 
 ## Set up
-
-**The conda environment contains _all_ necessary dependencies**
 
 1. clone this repository
 2. run `make environment` to build the conda environment with necessary dependencies
@@ -16,20 +22,9 @@ measuring accessibility to healthcare in the IE
 ``` text
 Available rules:
 
-clean               Remove old versions of compiled draft
-diff                Run latex diff on the current and previous drafts
 environment         Set up python interpreter environment
 environment-update  Update the environment in case of changes to dependencies
 git                 Initialize a git repository
-html                Build an html file from the current draft
 kernel              Install notebook kernel manually
 notebooks           Run notebooks
-paper               Build pdf, html, and latex from the current draft
-pdf                 Build pdf from the current draft
-response            Build point-by-point pdf response to reviewers (template in .pandoc/)
-resubmission        Create new submission, diff with prior, & respond to reviewers
-revision            Build paper and texdiff with previous draft
-scripts             Run any necessary scripts
-submission          Build paper and tag as submitted version
-tex                 Build a latex document from the current draft
 ```

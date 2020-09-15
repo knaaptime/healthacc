@@ -95,3 +95,6 @@ ENV/
 
 # VSCode
 .vscode
+
+notebooks/logs
+notebooks/data

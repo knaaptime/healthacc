@@ -17,14 +17,6 @@ shapefile of cov19 test sites downloaded
 necessary external data.
 
 
-First I download blockgroups and population data for the state of California using `cenpy`, followed
-by OpenStreetMap and GTFS data using `osmnet` and `urbanaccess` (and a little bit of custom code to
-handle a newer GTFS data source). Then I generate a travel cost matrix using `pandana` to find the
-shortest walk/transit route from every blockgroup to every other blockgroup within a specified
-timeframe. With travel data in hand, we just need `osmnx` to grab any OpenStreetMap POI tagged as
-healthcare (and/or the covid19 test sites linked above.). Finally, all that data is fed to pysal's
-new `access` package to generate different measures of accessibility for each county.
-
 More details in the notebooks
 
 
